@@ -1,0 +1,2000 @@
+Jun 14 15:16:01 combo sshd(pam_unix)[19939]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4 
+Jun 14 15:16:02 combo sshd(pam_unix)[19937]: check pass; user unknown
+Jun 14 15:16:02 combo sshd(pam_unix)[19937]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4 
+Jun 15 02:04:59 combo sshd(pam_unix)[20882]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net  user=root
+Jun 15 02:04:59 combo sshd(pam_unix)[20884]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net  user=root
+Jun 15 02:04:59 combo sshd(pam_unix)[20883]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net  user=root
+Jun 15 02:04:59 combo sshd(pam_unix)[20885]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net  user=root
+Jun 15 02:04:59 combo sshd(pam_unix)[20886]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net  user=root
+Jun 15 02:04:59 combo sshd(pam_unix)[20892]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net  user=root
+Jun 15 02:04:59 combo sshd(pam_unix)[20893]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net  user=root
+Jun 15 02:04:59 combo sshd(pam_unix)[20896]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net  user=root
+Jun 15 02:04:59 combo sshd(pam_unix)[20897]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net  user=root
+Jun 15 02:04:59 combo sshd(pam_unix)[20898]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net  user=root
+Jun 15 04:06:18 combo su(pam_unix)[21416]: session opened for user cyrus by (uid=0)
+Jun 15 04:06:19 combo su(pam_unix)[21416]: session closed for user cyrus
+Jun 15 04:06:20 combo logrotate: ALERT exited abnormally with [1]
+Jun 15 04:12:42 combo su(pam_unix)[22644]: session opened for user news by (uid=0)
+Jun 15 04:12:43 combo su(pam_unix)[22644]: session closed for user news
+Jun 15 12:12:34 combo sshd(pam_unix)[23397]: check pass; user unknown
+Jun 15 12:12:34 combo sshd(pam_unix)[23397]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4 
+Jun 15 12:12:34 combo sshd(pam_unix)[23395]: check pass; user unknown
+Jun 15 12:12:34 combo sshd(pam_unix)[23395]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4 
+Jun 15 12:12:34 combo sshd(pam_unix)[23404]: check pass; user unknown
+Jun 15 12:12:34 combo sshd(pam_unix)[23404]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4 
+Jun 15 12:12:34 combo sshd(pam_unix)[23399]: check pass; user unknown
+Jun 15 12:12:34 combo sshd(pam_unix)[23399]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4 
+Jun 15 12:12:34 combo sshd(pam_unix)[23406]: check pass; user unknown
+Jun 15 12:12:34 combo sshd(pam_unix)[23406]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4 
+Jun 15 12:12:34 combo sshd(pam_unix)[23396]: check pass; user unknown
+Jun 15 12:12:34 combo sshd(pam_unix)[23394]: check pass; user unknown
+Jun 15 12:12:34 combo sshd(pam_unix)[23407]: check pass; user unknown
+Jun 15 12:12:34 combo sshd(pam_unix)[23394]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4 
+Jun 15 12:12:34 combo sshd(pam_unix)[23403]: check pass; user unknown
+Jun 15 12:12:34 combo sshd(pam_unix)[23396]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4 
+Jun 15 12:12:34 combo sshd(pam_unix)[23407]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4 
+Jun 15 12:12:34 combo sshd(pam_unix)[23403]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4 
+Jun 15 12:12:34 combo sshd(pam_unix)[23412]: check pass; user unknown
+Jun 15 12:12:34 combo sshd(pam_unix)[23412]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4 
+Jun 15 12:13:19 combo sshd(pam_unix)[23414]: check pass; user unknown
+Jun 15 12:13:19 combo sshd(pam_unix)[23414]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4 
+Jun 15 12:13:20 combo sshd(pam_unix)[23416]: check pass; user unknown
+Jun 15 12:13:20 combo sshd(pam_unix)[23416]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4 
+Jun 15 14:53:32 combo sshd(pam_unix)[23661]: check pass; user unknown
+Jun 15 14:53:32 combo sshd(pam_unix)[23661]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=061092085098.ctinets.com 
+Jun 15 14:53:32 combo sshd(pam_unix)[23663]: check pass; user unknown
+Jun 15 14:53:32 combo sshd(pam_unix)[23663]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=061092085098.ctinets.com 
+Jun 15 14:53:32 combo sshd(pam_unix)[23664]: check pass; user unknown
+Jun 15 14:53:32 combo sshd(pam_unix)[23664]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=061092085098.ctinets.com 
+Jun 15 14:53:33 combo sshd(pam_unix)[23665]: check pass; user unknown
+Jun 15 14:53:33 combo sshd(pam_unix)[23665]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=061092085098.ctinets.com 
+Jun 15 14:53:34 combo sshd(pam_unix)[23669]: check pass; user unknown
+Jun 15 14:53:34 combo sshd(pam_unix)[23669]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=061092085098.ctinets.com 
+Jun 15 14:53:35 combo sshd(pam_unix)[23671]: check pass; user unknown
+Jun 15 14:53:35 combo sshd(pam_unix)[23671]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=061092085098.ctinets.com 
+Jun 15 14:53:35 combo sshd(pam_unix)[23673]: check pass; user unknown
+Jun 15 14:53:35 combo sshd(pam_unix)[23673]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=061092085098.ctinets.com 
+Jun 15 14:53:35 combo sshd(pam_unix)[23674]: check pass; user unknown
+Jun 15 14:53:35 combo sshd(pam_unix)[23674]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=061092085098.ctinets.com 
+Jun 15 14:53:36 combo sshd(pam_unix)[23678]: check pass; user unknown
+Jun 15 14:53:36 combo sshd(pam_unix)[23678]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=061092085098.ctinets.com 
+Jun 15 14:53:36 combo sshd(pam_unix)[23677]: check pass; user unknown
+Jun 15 14:53:36 combo sshd(pam_unix)[23677]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=061092085098.ctinets.com 
+Jun 15 20:05:31 combo sshd(pam_unix)[24138]: check pass; user unknown
+Jun 15 20:05:31 combo sshd(pam_unix)[24138]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=d211-116-254-214.rev.krline.net 
+Jun 15 20:05:31 combo sshd(pam_unix)[24137]: check pass; user unknown
+Jun 15 20:05:31 combo sshd(pam_unix)[24137]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=d211-116-254-214.rev.krline.net 
+Jun 15 20:05:31 combo sshd(pam_unix)[24141]: check pass; user unknown
+Jun 15 20:05:31 combo sshd(pam_unix)[24141]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=d211-116-254-214.rev.krline.net 
+Jun 15 20:05:31 combo sshd(pam_unix)[24140]: check pass; user unknown
+Jun 15 20:05:31 combo sshd(pam_unix)[24140]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=d211-116-254-214.rev.krline.net 
+Jun 15 20:05:31 combo sshd(pam_unix)[24139]: check pass; user unknown
+Jun 15 20:05:31 combo sshd(pam_unix)[24139]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=d211-116-254-214.rev.krline.net 
+Jun 16 04:10:22 combo su(pam_unix)[25178]: session opened for user cyrus by (uid=0)
+Jun 16 04:10:23 combo su(pam_unix)[25178]: session closed for user cyrus
+Jun 16 04:10:24 combo logrotate: ALERT exited abnormally with [1]
+Jun 16 04:16:17 combo su(pam_unix)[25548]: session opened for user news by (uid=0)
+Jun 16 04:16:18 combo su(pam_unix)[25548]: session closed for user news
+Jun 17 04:03:33 combo su(pam_unix)[27953]: session opened for user cyrus by (uid=0)
+Jun 17 04:03:34 combo su(pam_unix)[27953]: session closed for user cyrus
+Jun 17 04:03:36 combo logrotate: ALERT exited abnormally with [1]
+Jun 17 04:09:43 combo su(pam_unix)[29190]: session opened for user news by (uid=0)
+Jun 17 04:09:45 combo su(pam_unix)[29190]: session closed for user news
+Jun 17 07:07:00 combo ftpd[29504]: connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri Jun 17 07:07:00 2005 
+Jun 17 07:07:00 combo ftpd[29508]: connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri Jun 17 07:07:00 2005 
+Jun 17 07:07:00 combo ftpd[29507]: connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri Jun 17 07:07:00 2005 
+Jun 17 07:07:00 combo ftpd[29505]: connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri Jun 17 07:07:00 2005 
+Jun 17 07:07:00 combo ftpd[29506]: connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri Jun 17 07:07:00 2005 
+Jun 17 07:07:00 combo ftpd[29509]: connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri Jun 17 07:07:00 2005 
+Jun 17 07:07:02 combo ftpd[29510]: connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri Jun 17 07:07:02 2005 
+Jun 17 07:07:04 combo ftpd[29511]: connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri Jun 17 07:07:04 2005 
+Jun 17 19:43:13 combo sshd(pam_unix)[30565]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.46.224.253  user=guest
+Jun 17 20:29:26 combo sshd(pam_unix)[30631]: session opened for user test by (uid=509)
+Jun 17 20:34:57 combo sshd(pam_unix)[30631]: session closed for user test
+Jun 17 20:55:06 combo ftpd[30755]: connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Fri Jun 17 20:55:06 2005 
+Jun 17 20:55:06 combo ftpd[30754]: connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Fri Jun 17 20:55:06 2005 
+Jun 17 20:55:06 combo ftpd[30753]: connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Fri Jun 17 20:55:06 2005 
+Jun 17 20:55:06 combo ftpd[30756]: connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Fri Jun 17 20:55:06 2005 
+Jun 17 20:55:06 combo ftpd[30757]: connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Fri Jun 17 20:55:06 2005 
+Jun 17 20:55:07 combo ftpd[30758]: connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Fri Jun 17 20:55:07 2005 
+Jun 17 20:55:07 combo ftpd[30759]: connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Fri Jun 17 20:55:07 2005 
+Jun 18 01:30:59 combo sshd(pam_unix)[31201]: check pass; user unknown
+Jun 18 01:30:59 combo sshd(pam_unix)[31201]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net 
+Jun 18 01:30:59 combo sshd(pam_unix)[31199]: check pass; user unknown
+Jun 18 01:30:59 combo sshd(pam_unix)[31199]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net 
+Jun 18 01:30:59 combo sshd(pam_unix)[31198]: check pass; user unknown
+Jun 18 01:30:59 combo sshd(pam_unix)[31198]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net 
+Jun 18 01:30:59 combo sshd(pam_unix)[31202]: check pass; user unknown
+Jun 18 01:30:59 combo sshd(pam_unix)[31202]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net 
+Jun 18 01:30:59 combo sshd(pam_unix)[31205]: check pass; user unknown
+Jun 18 01:30:59 combo sshd(pam_unix)[31205]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net 
+Jun 18 01:30:59 combo sshd(pam_unix)[31200]: check pass; user unknown
+Jun 18 01:30:59 combo sshd(pam_unix)[31200]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net 
+Jun 18 01:30:59 combo sshd(pam_unix)[31206]: check pass; user unknown
+Jun 18 01:30:59 combo sshd(pam_unix)[31206]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net 
+Jun 18 01:30:59 combo sshd(pam_unix)[31204]: check pass; user unknown
+Jun 18 01:30:59 combo sshd(pam_unix)[31204]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net 
+Jun 18 01:30:59 combo sshd(pam_unix)[31203]: check pass; user unknown
+Jun 18 01:30:59 combo sshd(pam_unix)[31203]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net 
+Jun 18 01:30:59 combo sshd(pam_unix)[31207]: check pass; user unknown
+Jun 18 01:30:59 combo sshd(pam_unix)[31207]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net 
+Jun 18 02:08:10 combo ftpd[31272]: connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:10 2005 
+Jun 18 02:08:10 combo ftpd[31273]: connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:10 2005 
+Jun 18 02:08:10 combo ftpd[31274]: connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:10 2005 
+Jun 18 02:08:10 combo ftpd[31275]: connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:10 2005 
+Jun 18 02:08:10 combo ftpd[31276]: connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:10 2005 
+Jun 18 02:08:10 combo ftpd[31277]: connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:10 2005 
+Jun 18 02:08:10 combo ftpd[31278]: connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:10 2005 
+Jun 18 02:08:11 combo ftpd[31279]: connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:11 2005 
+Jun 18 02:08:11 combo ftpd[31280]: connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:11 2005 
+Jun 18 02:08:11 combo ftpd[31281]: connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:11 2005 
+Jun 18 02:08:11 combo ftpd[31282]: connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:11 2005 
+Jun 18 02:08:11 combo ftpd[31283]: connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:11 2005 
+Jun 18 02:08:12 combo ftpd[31284]: connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:12 2005 
+Jun 18 02:08:12 combo ftpd[31285]: connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:12 2005 
+Jun 18 02:08:12 combo ftpd[31286]: connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:12 2005 
+Jun 18 02:23:10 combo ftpd[31277]: User unknown timed out after 900 seconds at Sat Jun 18 02:23:10 2005 
+Jun 18 04:07:05 combo su(pam_unix)[31791]: session opened for user cyrus by (uid=0)
+Jun 18 04:07:06 combo su(pam_unix)[31791]: session closed for user cyrus
+Jun 18 04:07:06 combo logrotate: ALERT exited abnormally with [1]
+Jun 18 04:12:42 combo su(pam_unix)[32164]: session opened for user news by (uid=0)
+Jun 18 04:12:43 combo su(pam_unix)[32164]: session closed for user news
+Jun 19 04:08:55 combo su(pam_unix)[2192]: session opened for user cyrus by (uid=0)
+Jun 19 04:08:55 combo su(pam_unix)[2192]: session closed for user cyrus
+Jun 19 04:08:57 combo cups: cupsd shutdown succeeded
+Jun 19 04:09:02 combo cups: cupsd startup succeeded
+Jun 19 04:09:11 combo syslogd 1.4.1: restart.
+Jun 19 04:09:11 combo logrotate: ALERT exited abnormally with [1]
+Jun 19 04:15:18 combo su(pam_unix)[3676]: session opened for user news by (uid=0)
+Jun 19 04:15:18 combo su(pam_unix)[3676]: session closed for user news
+Jun 20 03:40:59 combo ftpd[8829]: connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005 
+Jun 20 03:40:59 combo ftpd[8824]: connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005 
+Jun 20 03:40:59 combo ftpd[8828]: connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005 
+Jun 20 03:40:59 combo ftpd[8822]: connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005 
+Jun 20 03:40:59 combo ftpd[8833]: connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005 
+Jun 20 03:40:59 combo ftpd[8827]: connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005 
+Jun 20 03:40:59 combo ftpd[8823]: connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005 
+Jun 20 03:40:59 combo ftpd[8825]: connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005 
+Jun 20 03:40:59 combo ftpd[8826]: connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005 
+Jun 20 03:40:59 combo ftpd[8832]: connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005 
+Jun 20 03:40:59 combo ftpd[8830]: connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005 
+Jun 20 03:40:59 combo ftpd[8831]: connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005 
+Jun 20 04:02:54 combo su(pam_unix)[9187]: session opened for user cyrus by (uid=0)
+Jun 20 04:02:54 combo su(pam_unix)[9187]: session closed for user cyrus
+Jun 20 04:02:55 combo logrotate: ALERT exited abnormally with [1]
+Jun 20 04:08:37 combo su(pam_unix)[9558]: session opened for user news by (uid=0)
+Jun 20 04:08:38 combo su(pam_unix)[9558]: session closed for user news
+Jun 20 04:44:39 combo snmpd[2318]: Received SNMP packet(s) from 67.170.148.126 
+Jun 20 09:20:05 combo sshd(pam_unix)[10035]: check pass; user unknown
+Jun 20 09:20:05 combo sshd(pam_unix)[10035]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14 
+Jun 20 09:20:05 combo sshd(pam_unix)[10037]: check pass; user unknown
+Jun 20 09:20:05 combo sshd(pam_unix)[10037]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14 
+Jun 20 09:20:05 combo sshd(pam_unix)[10039]: check pass; user unknown
+Jun 20 09:20:05 combo sshd(pam_unix)[10039]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14 
+Jun 20 09:20:06 combo sshd(pam_unix)[10041]: check pass; user unknown
+Jun 20 09:20:06 combo sshd(pam_unix)[10041]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14 
+Jun 20 09:20:07 combo sshd(pam_unix)[10043]: check pass; user unknown
+Jun 20 09:20:07 combo sshd(pam_unix)[10043]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14 
+Jun 20 09:20:07 combo sshd(pam_unix)[10045]: check pass; user unknown
+Jun 20 09:20:07 combo sshd(pam_unix)[10045]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14 
+Jun 20 09:20:07 combo sshd(pam_unix)[10047]: check pass; user unknown
+Jun 20 09:20:07 combo sshd(pam_unix)[10047]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14 
+Jun 20 09:20:07 combo sshd(pam_unix)[10049]: check pass; user unknown
+Jun 20 09:20:07 combo sshd(pam_unix)[10049]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14 
+Jun 20 09:20:08 combo sshd(pam_unix)[10051]: check pass; user unknown
+Jun 20 09:20:08 combo sshd(pam_unix)[10051]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14 
+Jun 20 09:20:08 combo sshd(pam_unix)[10053]: check pass; user unknown
+Jun 20 09:20:08 combo sshd(pam_unix)[10053]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14 
+Jun 21 04:06:57 combo su(pam_unix)[12098]: session opened for user cyrus by (uid=0)
+Jun 21 04:06:58 combo su(pam_unix)[12098]: session closed for user cyrus
+Jun 21 04:06:59 combo logrotate: ALERT exited abnormally with [1]
+Jun 21 04:13:03 combo su(pam_unix)[13327]: session opened for user news by (uid=0)
+Jun 21 04:13:04 combo su(pam_unix)[13327]: session closed for user news
+Jun 21 08:56:36 combo sshd(pam_unix)[14281]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=217.60.212.66  user=guest
+Jun 21 08:56:36 combo sshd(pam_unix)[14279]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=217.60.212.66  user=guest
+Jun 21 08:56:36 combo sshd(pam_unix)[14282]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=217.60.212.66  user=guest
+Jun 21 08:56:36 combo sshd(pam_unix)[14277]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=217.60.212.66  user=guest
+Jun 21 08:56:36 combo sshd(pam_unix)[14278]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=217.60.212.66  user=guest
+Jun 21 08:56:36 combo sshd(pam_unix)[14280]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=217.60.212.66  user=guest
+Jun 22 03:17:26 combo sshd(pam_unix)[16207]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+Jun 22 03:17:26 combo sshd(pam_unix)[16206]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+Jun 22 03:17:35 combo sshd(pam_unix)[16210]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+Jun 22 03:17:36 combo sshd(pam_unix)[16212]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+Jun 22 03:17:36 combo sshd(pam_unix)[16213]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+Jun 22 03:17:45 combo sshd(pam_unix)[16216]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+Jun 22 03:17:46 combo sshd(pam_unix)[16218]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+Jun 22 03:17:46 combo sshd(pam_unix)[16219]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+Jun 22 03:17:52 combo sshd(pam_unix)[16222]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+Jun 22 03:17:55 combo sshd(pam_unix)[16224]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+Jun 22 03:17:56 combo sshd(pam_unix)[16226]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+Jun 22 03:17:56 combo sshd(pam_unix)[16227]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+Jun 22 03:18:02 combo sshd(pam_unix)[16230]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+Jun 22 03:18:05 combo sshd(pam_unix)[16232]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+Jun 22 03:18:06 combo sshd(pam_unix)[16234]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+Jun 22 03:18:06 combo sshd(pam_unix)[16235]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+Jun 22 03:18:10 combo sshd(pam_unix)[16238]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+Jun 22 03:18:12 combo sshd(pam_unix)[16240]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+Jun 22 03:18:15 combo sshd(pam_unix)[16242]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+Jun 22 03:18:16 combo sshd(pam_unix)[16244]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+Jun 22 03:18:16 combo sshd(pam_unix)[16245]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+Jun 22 03:18:20 combo sshd(pam_unix)[16248]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+Jun 22 03:18:22 combo sshd(pam_unix)[16250]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+Jun 22 04:05:58 combo su(pam_unix)[16663]: session opened for user cyrus by (uid=0)
+Jun 22 04:05:59 combo su(pam_unix)[16663]: session closed for user cyrus
+Jun 22 04:06:00 combo logrotate: ALERT exited abnormally with [1]
+Jun 22 04:11:42 combo su(pam_unix)[17037]: session opened for user news by (uid=0)
+Jun 22 04:11:42 combo su(pam_unix)[17037]: session closed for user news
+Jun 22 04:30:55 combo sshd(pam_unix)[17129]: check pass; user unknown
+Jun 22 04:30:55 combo sshd(pam_unix)[17129]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net 
+Jun 22 04:30:55 combo sshd(pam_unix)[17125]: check pass; user unknown
+Jun 22 04:30:55 combo sshd(pam_unix)[17125]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net 
+Jun 22 04:30:55 combo sshd(pam_unix)[17124]: check pass; user unknown
+Jun 22 04:30:55 combo sshd(pam_unix)[17124]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net 
+Jun 22 04:30:55 combo sshd(pam_unix)[17123]: check pass; user unknown
+Jun 22 04:30:55 combo sshd(pam_unix)[17123]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net 
+Jun 22 04:30:55 combo sshd(pam_unix)[17132]: check pass; user unknown
+Jun 22 04:30:55 combo sshd(pam_unix)[17132]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net 
+Jun 22 04:30:55 combo sshd(pam_unix)[17131]: check pass; user unknown
+Jun 22 04:30:55 combo sshd(pam_unix)[17131]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net 
+Jun 22 04:30:55 combo sshd(pam_unix)[17135]: check pass; user unknown
+Jun 22 04:30:55 combo sshd(pam_unix)[17135]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net 
+Jun 22 04:30:55 combo sshd(pam_unix)[17137]: check pass; user unknown
+Jun 22 04:30:55 combo sshd(pam_unix)[17137]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net 
+Jun 22 04:30:56 combo sshd(pam_unix)[17139]: check pass; user unknown
+Jun 22 04:30:56 combo sshd(pam_unix)[17139]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net 
+Jun 22 04:30:56 combo sshd(pam_unix)[17140]: check pass; user unknown
+Jun 22 04:30:56 combo sshd(pam_unix)[17140]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net 
+Jun 22 13:16:30 combo ftpd[17886]: connection from 210.245.165.136 () at Wed Jun 22 13:16:30 2005 
+Jun 22 13:16:30 combo ftpd[17889]: connection from 210.245.165.136 () at Wed Jun 22 13:16:30 2005 
+Jun 22 13:16:30 combo ftpd[17887]: connection from 210.245.165.136 () at Wed Jun 22 13:16:30 2005 
+Jun 22 13:16:30 combo ftpd[17888]: connection from 210.245.165.136 () at Wed Jun 22 13:16:30 2005 
+Jun 22 13:16:30 combo ftpd[17890]: connection from 210.245.165.136 () at Wed Jun 22 13:16:30 2005 
+Jun 22 13:16:30 combo ftpd[17893]: connection from 210.245.165.136 () at Wed Jun 22 13:16:30 2005 
+Jun 22 13:16:30 combo ftpd[17879]: connection from 210.245.165.136 () at Wed Jun 22 13:16:30 2005 
+Jun 22 13:16:30 combo ftpd[17892]: connection from 210.245.165.136 () at Wed Jun 22 13:16:30 2005 
+Jun 22 13:16:30 combo ftpd[17876]: connection from 210.245.165.136 () at Wed Jun 22 13:16:30 2005 
+Jun 22 13:16:30 combo ftpd[17875]: connection from 210.245.165.136 () at Wed Jun 22 13:16:30 2005 
+Jun 22 13:16:30 combo ftpd[17877]: connection from 210.245.165.136 () at Wed Jun 22 13:16:30 2005 
+Jun 22 13:16:30 combo ftpd[17874]: connection from 210.245.165.136 () at Wed Jun 22 13:16:30 2005 
+Jun 22 13:16:30 combo ftpd[17882]: connection from 210.245.165.136 () at Wed Jun 22 13:16:30 2005 
+Jun 22 13:16:30 combo ftpd[17872]: connection from 210.245.165.136 () at Wed Jun 22 13:16:30 2005 
+Jun 22 13:16:30 combo ftpd[17881]: connection from 210.245.165.136 () at Wed Jun 22 13:16:30 2005 
+Jun 22 13:16:30 combo ftpd[17878]: connection from 210.245.165.136 () at Wed Jun 22 13:16:30 2005 
+Jun 22 13:16:31 combo ftpd[17873]: connection from 210.245.165.136 () at Wed Jun 22 13:16:30 2005 
+Jun 22 13:16:31 combo ftpd[17885]: connection from 210.245.165.136 () at Wed Jun 22 13:16:31 2005 
+Jun 22 13:16:31 combo ftpd[17884]: connection from 210.245.165.136 () at Wed Jun 22 13:16:31 2005 
+Jun 22 13:16:31 combo ftpd[17880]: connection from 210.245.165.136 () at Wed Jun 22 13:16:31 2005 
+Jun 22 13:16:31 combo ftpd[17883]: connection from 210.245.165.136 () at Wed Jun 22 13:16:31 2005 
+Jun 22 13:16:31 combo ftpd[17891]: connection from 210.245.165.136 () at Wed Jun 22 13:16:31 2005 
+Jun 22 13:16:32 combo ftpd[17894]: connection from 210.245.165.136 () at Wed Jun 22 13:16:32 2005 
+Jun 23 01:41:29 combo sshd(pam_unix)[18969]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=209.152.168.249  user=guest
+Jun 23 01:41:29 combo sshd(pam_unix)[18971]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=209.152.168.249  user=guest
+Jun 23 01:41:29 combo sshd(pam_unix)[18973]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=209.152.168.249  user=guest
+Jun 23 01:41:29 combo sshd(pam_unix)[18975]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=209.152.168.249  user=guest
+Jun 23 01:41:29 combo sshd(pam_unix)[18977]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=209.152.168.249  user=guest
+Jun 23 01:41:30 combo sshd(pam_unix)[18983]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=209.152.168.249  user=guest
+Jun 23 01:41:30 combo sshd(pam_unix)[18982]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=209.152.168.249  user=guest
+Jun 23 01:41:30 combo sshd(pam_unix)[18981]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=209.152.168.249  user=guest
+Jun 23 01:41:30 combo sshd(pam_unix)[18976]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=209.152.168.249  user=guest
+Jun 23 01:41:32 combo sshd(pam_unix)[18967]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=209.152.168.249  user=guest
+Jun 23 02:55:14 combo sshd(pam_unix)[19085]: check pass; user unknown
+Jun 23 02:55:14 combo sshd(pam_unix)[19085]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=200.60.37.201 
+Jun 23 04:05:28 combo su(pam_unix)[19534]: session opened for user cyrus by (uid=0)
+Jun 23 04:05:29 combo su(pam_unix)[19534]: session closed for user cyrus
+Jun 23 04:05:30 combo logrotate: ALERT exited abnormally with [1]
+Jun 23 04:13:08 combo su(pam_unix)[24180]: session opened for user news by (uid=0)
+Jun 23 04:13:09 combo su(pam_unix)[24180]: session closed for user news
+Jun 23 23:30:03 combo sshd(pam_unix)[26189]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.22.3.51  user=root
+Jun 23 23:30:03 combo sshd(pam_unix)[26188]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.22.3.51  user=root
+Jun 23 23:30:04 combo sshd(pam_unix)[26193]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.22.3.51  user=root
+Jun 23 23:30:04 combo sshd(pam_unix)[26182]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.22.3.51  user=root
+Jun 23 23:30:04 combo sshd(pam_unix)[26183]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.22.3.51  user=root
+Jun 23 23:30:04 combo sshd(pam_unix)[26184]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.22.3.51  user=root
+Jun 23 23:30:05 combo sshd(pam_unix)[26197]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.22.3.51  user=root
+Jun 23 23:30:05 combo sshd(pam_unix)[26198]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.22.3.51  user=root
+Jun 23 23:30:05 combo sshd(pam_unix)[26190]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.22.3.51  user=root
+Jun 24 04:05:34 combo su(pam_unix)[26938]: session opened for user cyrus by (uid=0)
+Jun 24 04:05:35 combo su(pam_unix)[26938]: session closed for user cyrus
+Jun 24 04:05:35 combo logrotate: ALERT exited abnormally with [1]
+Jun 24 04:11:12 combo su(pam_unix)[27311]: session opened for user news by (uid=0)
+Jun 24 04:11:12 combo su(pam_unix)[27311]: session closed for user news
+Jun 24 18:55:11 combo ftpd[28568]: connection from 218.69.108.57 () at Fri Jun 24 18:55:11 2005 
+Jun 24 18:55:11 combo ftpd[28566]: connection from 218.69.108.57 () at Fri Jun 24 18:55:11 2005 
+Jun 24 18:55:11 combo ftpd[28562]: connection from 218.69.108.57 () at Fri Jun 24 18:55:11 2005 
+Jun 24 18:55:11 combo ftpd[28563]: connection from 218.69.108.57 () at Fri Jun 24 18:55:11 2005 
+Jun 24 18:55:11 combo ftpd[28565]: connection from 218.69.108.57 () at Fri Jun 24 18:55:11 2005 
+Jun 24 18:55:11 combo ftpd[28564]: connection from 218.69.108.57 () at Fri Jun 24 18:55:11 2005 
+Jun 24 18:55:11 combo ftpd[28567]: connection from 218.69.108.57 () at Fri Jun 24 18:55:11 2005 
+Jun 24 18:55:18 combo ftpd[28570]: connection from 218.69.108.57 () at Fri Jun 24 18:55:18 2005 
+Jun 24 18:55:18 combo ftpd[28571]: connection from 218.69.108.57 () at Fri Jun 24 18:55:18 2005 
+Jun 24 18:55:18 combo ftpd[28569]: connection from 218.69.108.57 () at Fri Jun 24 18:55:18 2005 
+Jun 24 18:55:18 combo ftpd[28572]: connection from 218.69.108.57 () at Fri Jun 24 18:55:18 2005 
+Jun 24 18:55:18 combo ftpd[28574]: connection from 218.69.108.57 () at Fri Jun 24 18:55:18 2005 
+Jun 24 18:55:18 combo ftpd[28573]: connection from 218.69.108.57 () at Fri Jun 24 18:55:18 2005 
+Jun 25 04:04:25 combo su(pam_unix)[29690]: session opened for user cyrus by (uid=0)
+Jun 25 04:04:25 combo su(pam_unix)[29690]: session closed for user cyrus
+Jun 25 04:04:26 combo logrotate: ALERT exited abnormally with [1]
+Jun 25 04:10:34 combo su(pam_unix)[30934]: session opened for user news by (uid=0)
+Jun 25 04:10:35 combo su(pam_unix)[30934]: session closed for user news
+Jun 25 04:41:49 combo sshd(pam_unix)[31031]: check pass; user unknown
+Jun 25 04:41:49 combo sshd(pam_unix)[31031]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org 
+Jun 25 04:41:49 combo sshd(pam_unix)[31035]: check pass; user unknown
+Jun 25 04:41:49 combo sshd(pam_unix)[31035]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org 
+Jun 25 04:41:49 combo sshd(pam_unix)[31034]: check pass; user unknown
+Jun 25 04:41:49 combo sshd(pam_unix)[31034]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org 
+Jun 25 04:41:49 combo sshd(pam_unix)[31036]: check pass; user unknown
+Jun 25 04:41:49 combo sshd(pam_unix)[31036]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org 
+Jun 25 04:41:51 combo sshd(pam_unix)[31025]: check pass; user unknown
+Jun 25 04:41:51 combo sshd(pam_unix)[31025]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org 
+Jun 25 04:41:51 combo sshd(pam_unix)[31028]: check pass; user unknown
+Jun 25 04:41:51 combo sshd(pam_unix)[31028]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org 
+Jun 25 04:41:51 combo sshd(pam_unix)[31020]: check pass; user unknown
+Jun 25 04:41:51 combo sshd(pam_unix)[31020]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org 
+Jun 25 04:41:51 combo sshd(pam_unix)[31027]: check pass; user unknown
+Jun 25 04:41:51 combo sshd(pam_unix)[31027]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org 
+Jun 25 04:41:51 combo sshd(pam_unix)[31021]: check pass; user unknown
+Jun 25 04:41:51 combo sshd(pam_unix)[31021]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org 
+Jun 25 04:41:51 combo sshd(pam_unix)[31024]: check pass; user unknown
+Jun 25 04:41:51 combo sshd(pam_unix)[31024]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org 
+Jun 25 09:20:24 combo ftpd[31475]: connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005 
+Jun 25 09:20:24 combo ftpd[31477]: connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005 
+Jun 25 09:20:24 combo ftpd[31474]: connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005 
+Jun 25 09:20:24 combo ftpd[31476]: connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005 
+Jun 25 09:20:24 combo ftpd[31473]: connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005 
+Jun 25 09:20:24 combo ftpd[31467]: connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005 
+Jun 25 09:20:24 combo ftpd[31470]: connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005 
+Jun 25 09:20:24 combo ftpd[31465]: connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005 
+Jun 25 09:20:24 combo ftpd[31472]: connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005 
+Jun 25 09:20:24 combo ftpd[31468]: connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005 
+Jun 25 09:20:24 combo ftpd[31463]: connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005 
+Jun 25 09:20:24 combo ftpd[31471]: connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005 
+Jun 25 09:20:24 combo ftpd[31469]: connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005 
+Jun 25 09:20:24 combo ftpd[31462]: connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005 
+Jun 25 09:20:24 combo ftpd[31464]: connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005 
+Jun 25 09:20:24 combo ftpd[31466]: connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005 
+Jun 25 09:20:24 combo ftpd[31461]: connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005 
+Jun 25 09:20:24 combo ftpd[31460]: connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005 
+Jun 25 19:25:30 combo ftpd[32328]: connection from 211.167.68.59 () at Sat Jun 25 19:25:30 2005 
+Jun 25 19:25:30 combo ftpd[32329]: connection from 211.167.68.59 () at Sat Jun 25 19:25:30 2005 
+Jun 25 19:25:30 combo ftpd[32324]: connection from 211.167.68.59 () at Sat Jun 25 19:25:30 2005 
+Jun 25 19:25:30 combo ftpd[32326]: connection from 211.167.68.59 () at Sat Jun 25 19:25:30 2005 
+Jun 25 19:25:30 combo ftpd[32323]: connection from 211.167.68.59 () at Sat Jun 25 19:25:30 2005 
+Jun 25 19:25:30 combo ftpd[32327]: connection from 211.167.68.59 () at Sat Jun 25 19:25:30 2005 
+Jun 25 19:25:30 combo ftpd[32325]: connection from 211.167.68.59 () at Sat Jun 25 19:25:30 2005 
+Jun 25 19:25:30 combo ftpd[32331]: connection from 211.167.68.59 () at Sat Jun 25 19:25:30 2005 
+Jun 25 19:25:30 combo ftpd[32330]: connection from 211.167.68.59 () at Sat Jun 25 19:25:30 2005 
+Jun 25 19:25:31 combo ftpd[32333]: connection from 211.167.68.59 () at Sat Jun 25 19:25:31 2005 
+Jun 25 19:25:31 combo ftpd[32332]: connection from 211.167.68.59 () at Sat Jun 25 19:25:31 2005 
+Jun 25 19:25:31 combo ftpd[32334]: connection from 211.167.68.59 () at Sat Jun 25 19:25:31 2005 
+Jun 25 19:25:34 combo ftpd[32335]: connection from 211.167.68.59 () at Sat Jun 25 19:25:34 2005 
+Jun 26 04:04:17 combo su(pam_unix)[945]: session opened for user cyrus by (uid=0)
+Jun 26 04:04:17 combo su(pam_unix)[945]: session closed for user cyrus
+Jun 26 04:04:19 combo cups: cupsd shutdown succeeded
+Jun 26 04:04:24 combo cups: cupsd startup succeeded
+Jun 26 04:04:31 combo syslogd 1.4.1: restart.
+Jun 26 04:04:31 combo logrotate: ALERT exited abnormally with [1]
+Jun 26 04:10:02 combo su(pam_unix)[1546]: session opened for user news by (uid=0)
+Jun 26 04:10:04 combo su(pam_unix)[1546]: session closed for user news
+Jun 27 04:02:47 combo su(pam_unix)[7031]: session opened for user cyrus by (uid=0)
+Jun 27 04:02:48 combo su(pam_unix)[7031]: session closed for user cyrus
+Jun 27 04:02:49 combo logrotate: ALERT exited abnormally with [1]
+Jun 27 04:08:56 combo su(pam_unix)[8269]: session opened for user news by (uid=0)
+Jun 27 04:08:57 combo su(pam_unix)[8269]: session closed for user news
+Jun 27 08:05:37 combo sshd(pam_unix)[8660]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=troi.bluesky-technologies.com  user=root
+Jun 27 08:05:39 combo sshd(pam_unix)[8664]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=troi.bluesky-technologies.com  user=root
+Jun 27 08:05:39 combo sshd(pam_unix)[8663]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=troi.bluesky-technologies.com  user=root
+Jun 27 08:05:39 combo sshd(pam_unix)[8662]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=troi.bluesky-technologies.com  user=root
+Jun 27 08:05:39 combo sshd(pam_unix)[8661]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=troi.bluesky-technologies.com  user=root
+Jun 28 04:03:15 combo su(pam_unix)[10735]: session opened for user cyrus by (uid=0)
+Jun 28 04:03:16 combo su(pam_unix)[10735]: session closed for user cyrus
+Jun 28 04:03:17 combo logrotate: ALERT exited abnormally with [1]
+Jun 28 04:09:00 combo su(pam_unix)[11106]: session opened for user news by (uid=0)
+Jun 28 04:09:01 combo su(pam_unix)[11106]: session closed for user news
+Jun 28 08:10:24 combo sshd(pam_unix)[11513]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.53.154.93  user=root
+Jun 28 08:10:24 combo sshd(pam_unix)[11517]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.53.154.93  user=root
+Jun 28 08:10:24 combo sshd(pam_unix)[11521]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.53.154.93  user=root
+Jun 28 08:10:24 combo sshd(pam_unix)[11510]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.53.154.93  user=root
+Jun 28 08:10:25 combo sshd(pam_unix)[11519]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.53.154.93  user=root
+Jun 28 08:10:26 combo sshd(pam_unix)[11514]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.53.154.93  user=root
+Jun 28 08:10:28 combo sshd(pam_unix)[11512]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.53.154.93  user=root
+Jun 28 08:10:29 combo sshd(pam_unix)[11509]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.53.154.93  user=root
+Jun 28 08:10:30 combo sshd(pam_unix)[11515]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.53.154.93  user=root
+Jun 28 20:58:46 combo sshd(pam_unix)[12665]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62-192-102-94.dsl.easynet.nl  user=root
+Jun 28 20:58:46 combo sshd(pam_unix)[12666]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62-192-102-94.dsl.easynet.nl  user=root
+Jun 28 20:58:47 combo sshd(pam_unix)[12669]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62-192-102-94.dsl.easynet.nl  user=root
+Jun 28 20:58:50 combo sshd(pam_unix)[12671]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62-192-102-94.dsl.easynet.nl  user=root
+Jun 28 20:58:52 combo sshd(pam_unix)[12673]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62-192-102-94.dsl.easynet.nl  user=root
+Jun 28 20:58:53 combo sshd(pam_unix)[12675]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62-192-102-94.dsl.easynet.nl  user=root
+Jun 28 20:58:53 combo sshd(pam_unix)[12677]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62-192-102-94.dsl.easynet.nl  user=root
+Jun 28 20:58:55 combo sshd(pam_unix)[12679]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62-192-102-94.dsl.easynet.nl  user=root
+Jun 28 20:58:55 combo sshd(pam_unix)[12681]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62-192-102-94.dsl.easynet.nl  user=root
+Jun 28 20:58:55 combo sshd(pam_unix)[12680]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62-192-102-94.dsl.easynet.nl  user=root
+Jun 28 21:42:46 combo sshd(pam_unix)[12756]: check pass; user unknown
+Jun 28 21:42:46 combo sshd(pam_unix)[12756]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.115.206.155 
+Jun 28 21:42:46 combo sshd(pam_unix)[12753]: check pass; user unknown
+Jun 28 21:42:46 combo sshd(pam_unix)[12753]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.115.206.155 
+Jun 28 21:42:46 combo sshd(pam_unix)[12752]: check pass; user unknown
+Jun 28 21:42:46 combo sshd(pam_unix)[12752]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.115.206.155 
+Jun 28 21:42:46 combo sshd(pam_unix)[12755]: check pass; user unknown
+Jun 28 21:42:46 combo sshd(pam_unix)[12755]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.115.206.155 
+Jun 28 21:42:46 combo sshd(pam_unix)[12754]: check pass; user unknown
+Jun 28 21:42:46 combo sshd(pam_unix)[12754]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.115.206.155 
+Jun 29 03:22:22 combo ftpd[13262]: connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005 
+Jun 29 03:22:22 combo ftpd[13257]: connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005 
+Jun 29 03:22:22 combo ftpd[13261]: connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005 
+Jun 29 03:22:22 combo ftpd[13250]: connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005 
+Jun 29 03:22:22 combo ftpd[13252]: connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005 
+Jun 29 03:22:22 combo ftpd[13260]: connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005 
+Jun 29 03:22:22 combo ftpd[13259]: connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005 
+Jun 29 03:22:22 combo ftpd[13256]: connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005 
+Jun 29 03:22:22 combo ftpd[13258]: connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005 
+Jun 29 03:22:22 combo ftpd[13255]: connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005 
+Jun 29 03:22:22 combo ftpd[13254]: connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005 
+Jun 29 03:22:22 combo ftpd[13264]: connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005 
+Jun 29 03:22:22 combo ftpd[13251]: connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005 
+Jun 29 03:22:22 combo ftpd[13263]: connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005 
+Jun 29 03:22:22 combo ftpd[13245]: connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005 
+Jun 29 03:22:22 combo ftpd[13246]: connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005 
+Jun 29 03:22:22 combo ftpd[13244]: connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005 
+Jun 29 03:22:22 combo ftpd[13243]: connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005 
+Jun 29 03:22:22 combo ftpd[13249]: connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005 
+Jun 29 03:22:22 combo ftpd[13253]: connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005 
+Jun 29 03:22:22 combo ftpd[13247]: connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005 
+Jun 29 03:22:22 combo ftpd[13248]: connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005 
+Jun 29 03:22:23 combo ftpd[13265]: connection from 61.74.96.178 () at Wed Jun 29 03:22:23 2005 
+Jun 29 04:03:10 combo su(pam_unix)[13665]: session opened for user cyrus by (uid=0)
+Jun 29 04:03:11 combo su(pam_unix)[13665]: session closed for user cyrus
+Jun 29 04:03:12 combo logrotate: ALERT exited abnormally with [1]
+Jun 29 04:09:29 combo su(pam_unix)[14891]: session opened for user news by (uid=0)
+Jun 29 04:09:30 combo su(pam_unix)[14891]: session closed for user news
+Jun 29 10:08:19 combo sshd(pam_unix)[15481]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=csnsu.nsuok.edu  user=root
+Jun 29 10:08:19 combo sshd(pam_unix)[15477]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=csnsu.nsuok.edu  user=root
+Jun 29 10:08:19 combo sshd(pam_unix)[15479]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=csnsu.nsuok.edu  user=root
+Jun 29 10:08:19 combo sshd(pam_unix)[15478]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=csnsu.nsuok.edu  user=root
+Jun 29 10:08:19 combo sshd(pam_unix)[15480]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=csnsu.nsuok.edu  user=root
+Jun 29 10:08:19 combo sshd(pam_unix)[15476]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=csnsu.nsuok.edu  user=root
+Jun 29 10:08:19 combo sshd(pam_unix)[15488]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=csnsu.nsuok.edu  user=root
+Jun 29 10:08:20 combo sshd(pam_unix)[15490]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=csnsu.nsuok.edu  user=root
+Jun 29 10:08:20 combo sshd(pam_unix)[15491]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=csnsu.nsuok.edu  user=root
+Jun 29 10:08:20 combo sshd(pam_unix)[15492]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=csnsu.nsuok.edu  user=root
+Jun 29 10:48:01 combo ftpd[15547]: connection from 208.62.55.75 () at Wed Jun 29 10:48:01 2005 
+Jun 29 10:48:01 combo ftpd[15543]: connection from 208.62.55.75 () at Wed Jun 29 10:48:01 2005 
+Jun 29 10:48:01 combo ftpd[15546]: connection from 208.62.55.75 () at Wed Jun 29 10:48:01 2005 
+Jun 29 10:48:01 combo ftpd[15542]: connection from 208.62.55.75 () at Wed Jun 29 10:48:01 2005 
+Jun 29 10:48:01 combo ftpd[15544]: connection from 208.62.55.75 () at Wed Jun 29 10:48:01 2005 
+Jun 29 10:48:01 combo ftpd[15545]: connection from 208.62.55.75 () at Wed Jun 29 10:48:01 2005 
+Jun 29 10:48:05 combo ftpd[15548]: connection from 208.62.55.75 () at Wed Jun 29 10:48:05 2005 
+Jun 29 10:48:06 combo ftpd[15549]: connection from 208.62.55.75 () at Wed Jun 29 10:48:06 2005 
+Jun 29 10:48:06 combo ftpd[15550]: connection from 208.62.55.75 () at Wed Jun 29 10:48:06 2005 
+Jun 29 10:48:06 combo ftpd[15551]: connection from 208.62.55.75 () at Wed Jun 29 10:48:06 2005 
+Jun 29 10:48:08 combo ftpd[15552]: connection from 208.62.55.75 () at Wed Jun 29 10:48:08 2005 
+Jun 29 10:48:08 combo ftpd[15553]: connection from 208.62.55.75 () at Wed Jun 29 10:48:08 2005 
+Jun 29 10:48:08 combo ftpd[15554]: connection from 208.62.55.75 () at Wed Jun 29 10:48:08 2005 
+Jun 29 10:48:10 combo ftpd[15555]: connection from 208.62.55.75 () at Wed Jun 29 10:48:10 2005 
+Jun 29 10:48:12 combo ftpd[15556]: connection from 208.62.55.75 () at Wed Jun 29 10:48:12 2005 
+Jun 29 10:48:12 combo ftpd[15557]: connection from 208.62.55.75 () at Wed Jun 29 10:48:12 2005 
+Jun 29 10:48:13 combo ftpd[15558]: connection from 208.62.55.75 () at Wed Jun 29 10:48:13 2005 
+Jun 29 10:48:15 combo ftpd[15559]: connection from 208.62.55.75 () at Wed Jun 29 10:48:15 2005 
+Jun 29 10:48:17 combo ftpd[15560]: connection from 208.62.55.75 () at Wed Jun 29 10:48:17 2005 
+Jun 29 10:48:17 combo ftpd[15561]: connection from 208.62.55.75 () at Wed Jun 29 10:48:17 2005 
+Jun 29 10:48:18 combo ftpd[15562]: connection from 208.62.55.75 () at Wed Jun 29 10:48:18 2005 
+Jun 29 10:48:20 combo ftpd[15563]: connection from 208.62.55.75 () at Wed Jun 29 10:48:20 2005 
+Jun 29 10:48:21 combo ftpd[15564]: connection from 208.62.55.75 () at Wed Jun 29 10:48:21 2005 
+Jun 29 12:11:53 combo sshd(pam_unix)[15692]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net  user=root
+Jun 29 12:11:55 combo sshd(pam_unix)[15694]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net  user=root
+Jun 29 12:11:57 combo sshd(pam_unix)[15696]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net  user=root
+Jun 29 12:11:59 combo sshd(pam_unix)[15698]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net  user=root
+Jun 29 12:11:59 combo sshd(pam_unix)[15700]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net  user=root
+Jun 29 12:12:01 combo sshd(pam_unix)[15702]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net  user=root
+Jun 29 12:12:02 combo sshd(pam_unix)[15704]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net  user=root
+Jun 29 12:12:03 combo sshd(pam_unix)[15706]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net  user=root
+Jun 29 12:12:03 combo sshd(pam_unix)[15708]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net  user=root
+Jun 29 12:12:05 combo sshd(pam_unix)[15710]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net  user=root
+Jun 29 12:12:05 combo sshd(pam_unix)[15712]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net  user=root
+Jun 29 12:12:06 combo sshd(pam_unix)[15714]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net  user=root
+Jun 29 12:12:10 combo sshd(pam_unix)[15716]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net  user=root
+Jun 29 14:44:35 combo ftpd[15917]: connection from 210.223.97.117 () at Wed Jun 29 14:44:35 2005 
+Jun 29 14:44:35 combo ftpd[15922]: connection from 210.223.97.117 () at Wed Jun 29 14:44:35 2005 
+Jun 29 14:44:35 combo ftpd[15918]: connection from 210.223.97.117 () at Wed Jun 29 14:44:35 2005 
+Jun 29 14:44:35 combo ftpd[15919]: connection from 210.223.97.117 () at Wed Jun 29 14:44:35 2005 
+Jun 29 14:44:35 combo ftpd[15923]: connection from 210.223.97.117 () at Wed Jun 29 14:44:35 2005 
+Jun 29 14:44:35 combo ftpd[15920]: connection from 210.223.97.117 () at Wed Jun 29 14:44:35 2005 
+Jun 29 14:44:35 combo ftpd[15921]: connection from 210.223.97.117 () at Wed Jun 29 14:44:35 2005 
+Jun 30 04:03:41 combo su(pam_unix)[17407]: session opened for user cyrus by (uid=0)
+Jun 30 04:03:42 combo su(pam_unix)[17407]: session closed for user cyrus
+Jun 30 04:03:43 combo logrotate: ALERT exited abnormally with [1]
+Jun 30 04:09:30 combo su(pam_unix)[17778]: session opened for user news by (uid=0)
+Jun 30 04:09:31 combo su(pam_unix)[17778]: session closed for user news
+Jun 30 12:48:38 combo sshd(pam_unix)[18559]: check pass; user unknown
+Jun 30 12:48:38 combo sshd(pam_unix)[18559]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=biblioteka.wsi.edu.pl 
+Jun 30 12:48:41 combo sshd(pam_unix)[18557]: check pass; user unknown
+Jun 30 12:48:41 combo sshd(pam_unix)[18557]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=biblioteka.wsi.edu.pl 
+Jun 30 12:48:41 combo sshd(pam_unix)[18550]: check pass; user unknown
+Jun 30 12:48:41 combo sshd(pam_unix)[18550]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=biblioteka.wsi.edu.pl 
+Jun 30 12:48:41 combo sshd(pam_unix)[18547]: check pass; user unknown
+Jun 30 12:48:41 combo sshd(pam_unix)[18547]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=biblioteka.wsi.edu.pl 
+Jun 30 12:48:41 combo sshd(pam_unix)[18549]: check pass; user unknown
+Jun 30 12:48:41 combo sshd(pam_unix)[18549]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=biblioteka.wsi.edu.pl 
+Jun 30 12:48:41 combo sshd(pam_unix)[18545]: check pass; user unknown
+Jun 30 12:48:41 combo sshd(pam_unix)[18545]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=biblioteka.wsi.edu.pl 
+Jun 30 12:48:41 combo sshd(pam_unix)[18548]: check pass; user unknown
+Jun 30 12:48:41 combo sshd(pam_unix)[18548]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=biblioteka.wsi.edu.pl 
+Jun 30 12:48:41 combo sshd(pam_unix)[18546]: check pass; user unknown
+Jun 30 12:48:41 combo sshd(pam_unix)[18546]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=biblioteka.wsi.edu.pl 
+Jun 30 19:03:00 combo sshd(pam_unix)[19088]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+Jun 30 19:03:00 combo sshd(pam_unix)[19094]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+Jun 30 19:03:00 combo sshd(pam_unix)[19087]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+Jun 30 19:03:01 combo sshd(pam_unix)[19093]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+Jun 30 19:03:01 combo sshd(pam_unix)[19085]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+Jun 30 19:03:03 combo sshd(pam_unix)[19091]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+Jun 30 19:03:04 combo sshd(pam_unix)[19099]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+Jun 30 19:03:04 combo sshd(pam_unix)[19101]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+Jun 30 19:03:05 combo sshd(pam_unix)[19103]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+Jun 30 19:03:07 combo sshd(pam_unix)[19097]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+Jun 30 20:16:17 combo sshd(pam_unix)[19202]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root
+Jun 30 20:16:17 combo sshd(pam_unix)[19203]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root
+Jun 30 20:16:26 combo sshd(pam_unix)[19209]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root
+Jun 30 20:16:26 combo sshd(pam_unix)[19208]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root
+Jun 30 20:16:30 combo sshd(pam_unix)[19222]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root
+Jun 30 20:53:04 combo klogind[19272]: Authentication failed from 163.27.187.39 (163.27.187.39): Permission denied in replay cache code 
+Jun 30 20:53:04 combo klogind[19272]: Kerberos authentication failed 
+Jun 30 20:53:04 combo klogind[19287]: Authentication failed from 163.27.187.39 (163.27.187.39): Permission denied in replay cache code 
+Jun 30 20:53:04 combo klogind[19287]: Kerberos authentication failed 
+Jun 30 20:53:04 combo klogind[19286]: Authentication failed from 163.27.187.39 (163.27.187.39): Permission denied in replay cache code 
+Jun 30 20:53:04 combo klogind[19286]: Kerberos authentication failed 
+Jun 30 20:53:04 combo klogind[19271]: Authentication failed from 163.27.187.39 (163.27.187.39): Permission denied in replay cache code 
+Jun 30 20:53:04 combo klogind[19271]: Kerberos authentication failed 
+Jun 30 20:53:04 combo klogind[19270]: Authentication failed from 163.27.187.39 (163.27.187.39): Permission denied in replay cache code 
+Jun 30 20:53:04 combo klogind[19270]: Kerberos authentication failed 
+Jun 30 20:53:04 combo klogind[19269]: Authentication failed from 163.27.187.39 (163.27.187.39): Permission denied in replay cache code 
+Jun 30 20:53:04 combo klogind[19269]: Kerberos authentication failed 
+Jun 30 20:53:04 combo klogind[19268]: Authentication failed from 163.27.187.39 (163.27.187.39): Permission denied in replay cache code 
+Jun 30 20:53:04 combo klogind[19288]: Authentication failed from 163.27.187.39 (163.27.187.39): Permission denied in replay cache code 
+Jun 30 20:53:04 combo klogind[19274]: Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort 
+Jun 30 20:53:04 combo klogind[19268]: Kerberos authentication failed 
+Jun 30 20:53:04 combo klogind[19288]: Kerberos authentication failed 
+Jun 30 20:53:04 combo klogind[19274]: Kerberos authentication failed 
+Jun 30 20:53:06 combo klogind[19266]: Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort 
+Jun 30 20:53:06 combo klogind[19266]: Kerberos authentication failed 
+Jun 30 20:53:06 combo klogind[19267]: Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort 
+Jun 30 20:53:06 combo klogind[19267]: Kerberos authentication failed 
+Jun 30 20:53:06 combo klogind[19278]: Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort 
+Jun 30 20:53:06 combo klogind[19278]: Kerberos authentication failed 
+Jun 30 20:53:06 combo klogind[19273]: Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort 
+Jun 30 20:53:06 combo klogind[19273]: Kerberos authentication failed 
+Jun 30 20:53:06 combo klogind[19276]: Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort 
+Jun 30 20:53:06 combo klogind[19276]: Kerberos authentication failed 
+Jun 30 20:53:06 combo klogind[19275]: Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort 
+Jun 30 20:53:06 combo klogind[19275]: Kerberos authentication failed 
+Jun 30 20:53:06 combo klogind[19277]: Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort 
+Jun 30 20:53:06 combo klogind[19277]: Kerberos authentication failed 
+Jun 30 20:53:06 combo klogind[19279]: Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort 
+Jun 30 20:53:06 combo klogind[19279]: Kerberos authentication failed 
+Jun 30 20:53:06 combo klogind[19280]: Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort 
+Jun 30 20:53:06 combo klogind[19281]: Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort 
+Jun 30 20:53:06 combo klogind[19282]: Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort 
+Jun 30 20:53:06 combo klogind[19280]: Kerberos authentication failed 
+Jun 30 20:53:06 combo klogind[19283]: Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort 
+Jun 30 20:53:06 combo klogind[19281]: Kerberos authentication failed 
+Jun 30 20:53:06 combo klogind[19285]: Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort 
+Jun 30 20:53:06 combo klogind[19284]: Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort 
+Jun 30 20:53:06 combo klogind[19282]: Kerberos authentication failed 
+Jun 30 20:53:06 combo klogind[19283]: Kerberos authentication failed 
+Jun 30 20:53:06 combo klogind[19285]: Kerberos authentication failed 
+Jun 30 20:53:06 combo klogind[19284]: Kerberos authentication failed 
+Jun 30 22:16:32 combo sshd(pam_unix)[19432]: session opened for user test by (uid=509)
+Jun 30 22:16:32 combo sshd(pam_unix)[19431]: session opened for user test by (uid=509)
+Jun 30 22:16:32 combo sshd(pam_unix)[19433]: session opened for user test by (uid=509)
+Jun 30 22:16:32 combo sshd(pam_unix)[19434]: session opened for user test by (uid=509)
+Jun 30 22:16:32 combo sshd(pam_unix)[19435]: session opened for user test by (uid=509)
+Jun 30 22:16:32 combo sshd(pam_unix)[19436]: session opened for user test by (uid=509)
+Jun 30 22:16:32 combo sshd(pam_unix)[19438]: session opened for user test by (uid=509)
+Jun 30 22:16:32 combo sshd(pam_unix)[19437]: session opened for user test by (uid=509)
+Jun 30 22:16:32 combo sshd(pam_unix)[19432]: session closed for user test
+Jun 30 22:16:32 combo sshd(pam_unix)[19431]: session closed for user test
+Jun 30 22:16:32 combo sshd(pam_unix)[19439]: session opened for user test by (uid=509)
+Jun 30 22:16:32 combo sshd(pam_unix)[19440]: session opened for user test by (uid=509)
+Jun 30 22:16:32 combo sshd(pam_unix)[19434]: session closed for user test
+Jun 30 22:16:32 combo sshd(pam_unix)[19435]: session closed for user test
+Jun 30 22:16:33 combo sshd(pam_unix)[19433]: session closed for user test
+Jun 30 22:16:33 combo sshd(pam_unix)[19436]: session closed for user test
+Jun 30 22:16:33 combo sshd(pam_unix)[19437]: session closed for user test
+Jun 30 22:16:33 combo sshd(pam_unix)[19438]: session closed for user test
+Jun 30 22:16:33 combo sshd(pam_unix)[19439]: session closed for user test
+Jun 30 22:16:33 combo sshd(pam_unix)[19440]: session closed for user test
+Jul  1 00:21:28 combo sshd(pam_unix)[19630]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+Jul  1 00:21:28 combo sshd(pam_unix)[19628]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+Jul  1 00:21:30 combo sshd(pam_unix)[19640]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+Jul  1 00:21:30 combo sshd(pam_unix)[19642]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+Jul  1 00:21:30 combo sshd(pam_unix)[19632]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+Jul  1 00:21:31 combo sshd(pam_unix)[19643]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+Jul  1 00:21:31 combo sshd(pam_unix)[19631]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+Jul  1 00:21:32 combo sshd(pam_unix)[19636]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+Jul  1 00:21:32 combo sshd(pam_unix)[19645]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+Jul  1 00:21:35 combo sshd(pam_unix)[19637]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+Jul  1 04:05:17 combo su(pam_unix)[20298]: session opened for user cyrus by (uid=0)
+Jul  1 04:05:18 combo su(pam_unix)[20298]: session closed for user cyrus
+Jul  1 04:05:19 combo logrotate: ALERT exited abnormally with [1]
+Jul  1 04:11:35 combo su(pam_unix)[21530]: session opened for user news by (uid=0)
+Jul  1 04:11:36 combo su(pam_unix)[21530]: session closed for user news
+Jul  1 05:02:26 combo sshd(pam_unix)[21689]: session opened for user test by (uid=509)
+Jul  1 05:02:26 combo sshd(pam_unix)[21689]: session closed for user test
+Jul  1 05:02:26 combo sshd(pam_unix)[21691]: session opened for user test by (uid=509)
+Jul  1 05:02:26 combo sshd(pam_unix)[21691]: session closed for user test
+Jul  1 05:02:26 combo sshd(pam_unix)[21692]: session opened for user test by (uid=509)
+Jul  1 05:02:26 combo sshd(pam_unix)[21692]: session closed for user test
+Jul  1 05:02:27 combo sshd(pam_unix)[21693]: session opened for user test by (uid=509)
+Jul  1 05:02:27 combo sshd(pam_unix)[21693]: session closed for user test
+Jul  1 07:57:30 combo ftpd[21952]: connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005 
+Jul  1 07:57:30 combo ftpd[21951]: connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005 
+Jul  1 07:57:30 combo ftpd[21957]: connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005 
+Jul  1 07:57:30 combo ftpd[21953]: connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005 
+Jul  1 07:57:30 combo ftpd[21954]: connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005 
+Jul  1 07:57:30 combo ftpd[21955]: connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005 
+Jul  1 07:57:30 combo ftpd[21950]: connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005 
+Jul  1 07:57:30 combo ftpd[21956]: connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005 
+Jul  1 07:57:30 combo ftpd[21958]: connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005 
+Jul  1 07:57:30 combo ftpd[21945]: connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005 
+Jul  1 07:57:30 combo ftpd[21959]: connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005 
+Jul  1 07:57:30 combo ftpd[21940]: connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005 
+Jul  1 07:57:30 combo ftpd[21941]: connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005 
+Jul  1 07:57:30 combo ftpd[21946]: connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005 
+Jul  1 07:57:30 combo ftpd[21937]: connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005 
+Jul  1 07:57:30 combo ftpd[21943]: connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005 
+Jul  1 07:57:30 combo ftpd[21944]: connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005 
+Jul  1 07:57:30 combo ftpd[21948]: connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005 
+Jul  1 07:57:30 combo ftpd[21947]: connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005 
+Jul  1 07:57:30 combo ftpd[21942]: connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005 
+Jul  1 07:57:30 combo ftpd[21938]: connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005 
+Jul  1 07:57:30 combo ftpd[21949]: connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005 
+Jul  1 07:57:30 combo ftpd[21939]: connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005 
+Jul  1 09:14:43 combo sshd(pam_unix)[22099]: session opened for user test by (uid=509)
+Jul  1 09:14:43 combo sshd(pam_unix)[22104]: session opened for user test by (uid=509)
+Jul  1 09:14:43 combo sshd(pam_unix)[22104]: session closed for user test
+Jul  1 09:14:43 combo sshd(pam_unix)[22106]: session opened for user test by (uid=509)
+Jul  1 09:14:44 combo sshd(pam_unix)[22099]: session closed for user test
+Jul  1 09:14:44 combo sshd(pam_unix)[22112]: session opened for user test by (uid=509)
+Jul  1 09:14:44 combo sshd(pam_unix)[22106]: session closed for user test
+Jul  1 09:14:44 combo sshd(pam_unix)[22112]: session closed for user test
+Jul  1 10:56:41 combo sshd(pam_unix)[22272]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root
+Jul  1 10:56:41 combo sshd(pam_unix)[22269]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root
+Jul  1 10:56:41 combo sshd(pam_unix)[22277]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root
+Jul  1 10:56:42 combo sshd(pam_unix)[22271]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root
+Jul  1 10:56:42 combo sshd(pam_unix)[22273]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root
+Jul  1 10:56:42 combo sshd(pam_unix)[22270]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root
+Jul  1 10:56:43 combo sshd(pam_unix)[22268]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root
+Jul  1 10:56:43 combo sshd(pam_unix)[22274]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root
+Jul  1 10:56:44 combo sshd(pam_unix)[22276]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root
+Jul  1 10:56:44 combo sshd(pam_unix)[22275]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root
+Jul  2 01:41:32 combo sshd(pam_unix)[23533]: session opened for user test by (uid=509)
+Jul  2 01:41:32 combo sshd(pam_unix)[23534]: session opened for user test by (uid=509)
+Jul  2 01:41:32 combo sshd(pam_unix)[23535]: session opened for user test by (uid=509)
+Jul  2 01:41:32 combo sshd(pam_unix)[23536]: session opened for user test by (uid=509)
+Jul  2 01:41:32 combo sshd(pam_unix)[23533]: session closed for user test
+Jul  2 01:41:32 combo sshd(pam_unix)[23534]: session closed for user test
+Jul  2 01:41:32 combo sshd(pam_unix)[23535]: session closed for user test
+Jul  2 01:41:32 combo sshd(pam_unix)[23536]: session closed for user test
+Jul  2 01:41:33 combo sshd(pam_unix)[23544]: session opened for user test by (uid=509)
+Jul  2 01:41:33 combo sshd(pam_unix)[23544]: session closed for user test
+Jul  2 01:41:33 combo sshd(pam_unix)[23545]: session opened for user test by (uid=509)
+Jul  2 01:41:33 combo sshd(pam_unix)[23546]: session opened for user test by (uid=509)
+Jul  2 01:41:33 combo sshd(pam_unix)[23547]: session opened for user test by (uid=509)
+Jul  2 01:41:33 combo sshd(pam_unix)[23545]: session closed for user test
+Jul  2 01:41:33 combo sshd(pam_unix)[23546]: session closed for user test
+Jul  2 01:41:33 combo sshd(pam_unix)[23547]: session closed for user test
+Jul  2 04:04:02 combo su(pam_unix)[24117]: session opened for user cyrus by (uid=0)
+Jul  2 04:04:02 combo su(pam_unix)[24117]: session closed for user cyrus
+Jul  2 04:04:03 combo logrotate: ALERT exited abnormally with [1]
+Jul  2 04:09:53 combo su(pam_unix)[24511]: session opened for user news by (uid=0)
+Jul  2 04:09:54 combo su(pam_unix)[24511]: session closed for user news
+Jul  2 04:15:33 combo sshd(pam_unix)[24588]: check pass; user unknown
+Jul  2 04:15:33 combo sshd(pam_unix)[24588]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=zummit.com 
+Jul  2 04:15:33 combo sshd(pam_unix)[24587]: check pass; user unknown
+Jul  2 04:15:33 combo sshd(pam_unix)[24587]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=zummit.com 
+Jul  2 04:15:33 combo sshd(pam_unix)[24590]: check pass; user unknown
+Jul  2 04:15:33 combo sshd(pam_unix)[24590]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=zummit.com 
+Jul  2 04:15:43 combo sshd(pam_unix)[24573]: check pass; user unknown
+Jul  2 04:15:43 combo sshd(pam_unix)[24573]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=zummit.com 
+Jul  2 04:15:43 combo sshd(pam_unix)[24574]: check pass; user unknown
+Jul  2 04:15:43 combo sshd(pam_unix)[24574]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=zummit.com 
+Jul  2 04:15:43 combo sshd(pam_unix)[24576]: check pass; user unknown
+Jul  2 04:15:43 combo sshd(pam_unix)[24576]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=zummit.com 
+Jul  2 04:15:43 combo sshd(pam_unix)[24578]: check pass; user unknown
+Jul  2 04:15:43 combo sshd(pam_unix)[24578]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=zummit.com 
+Jul  2 04:15:43 combo sshd(pam_unix)[24579]: check pass; user unknown
+Jul  2 04:15:43 combo sshd(pam_unix)[24579]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=zummit.com 
+Jul  2 04:15:43 combo sshd(pam_unix)[24581]: check pass; user unknown
+Jul  2 04:15:43 combo sshd(pam_unix)[24581]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=zummit.com 
+Jul  2 04:15:43 combo sshd(pam_unix)[24583]: check pass; user unknown
+Jul  2 04:15:43 combo sshd(pam_unix)[24583]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=zummit.com 
+Jul  3 04:07:47 combo su(pam_unix)[26964]: session opened for user cyrus by (uid=0)
+Jul  3 04:07:48 combo su(pam_unix)[26964]: session closed for user cyrus
+Jul  3 04:07:49 combo cups: cupsd shutdown succeeded
+Jul  3 04:07:55 combo cups: cupsd startup succeeded
+Jul  3 04:08:03 combo syslogd 1.4.1: restart.
+Jul  3 04:08:03 combo logrotate: ALERT exited abnormally with [1]
+Jul  3 04:14:00 combo su(pam_unix)[28416]: session opened for user news by (uid=0)
+Jul  3 04:14:01 combo su(pam_unix)[28416]: session closed for user news
+Jul  3 10:05:25 combo ftpd[32069]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005 
+Jul  3 10:05:25 combo ftpd[32067]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005 
+Jul  3 10:05:25 combo ftpd[32070]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005 
+Jul  3 10:05:25 combo ftpd[32053]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005 
+Jul  3 10:05:25 combo ftpd[32066]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005 
+Jul  3 10:05:25 combo ftpd[32068]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005 
+Jul  3 10:05:25 combo ftpd[32065]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005 
+Jul  3 10:05:25 combo ftpd[32062]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005 
+Jul  3 10:05:25 combo ftpd[32063]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005 
+Jul  3 10:05:25 combo ftpd[32059]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005 
+Jul  3 10:05:25 combo ftpd[32060]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005 
+Jul  3 10:05:25 combo ftpd[32071]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005 
+Jul  3 10:05:25 combo ftpd[32051]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005 
+Jul  3 10:05:25 combo ftpd[32057]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005 
+Jul  3 10:05:25 combo ftpd[32050]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005 
+Jul  3 10:05:25 combo ftpd[32056]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005 
+Jul  3 10:05:25 combo ftpd[32058]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005 
+Jul  3 10:05:25 combo ftpd[32052]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005 
+Jul  3 10:05:25 combo ftpd[32061]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005 
+Jul  3 10:05:25 combo ftpd[32055]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005 
+Jul  3 10:05:25 combo ftpd[32064]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005 
+Jul  3 10:05:25 combo ftpd[32054]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005 
+Jul  3 10:05:25 combo ftpd[32049]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005 
+Jul  3 23:16:09 combo ftpd[768]: connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005 
+Jul  3 23:16:09 combo ftpd[772]: connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005 
+Jul  3 23:16:09 combo ftpd[769]: connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005 
+Jul  3 23:16:09 combo ftpd[767]: connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005 
+Jul  3 23:16:09 combo ftpd[765]: connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005 
+Jul  3 23:16:09 combo ftpd[766]: connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005 
+Jul  3 23:16:09 combo ftpd[770]: connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005 
+Jul  3 23:16:09 combo ftpd[764]: connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005 
+Jul  3 23:16:09 combo ftpd[757]: connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005 
+Jul  3 23:16:09 combo ftpd[763]: connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005 
+Jul  3 23:16:09 combo ftpd[758]: connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005 
+Jul  3 23:16:09 combo ftpd[761]: connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005 
+Jul  3 23:16:09 combo ftpd[762]: connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005 
+Jul  3 23:16:09 combo ftpd[759]: connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005 
+Jul  3 23:16:09 combo ftpd[756]: connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005 
+Jul  3 23:16:09 combo ftpd[773]: connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005 
+Jul  3 23:16:09 combo ftpd[760]: connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005 
+Jul  3 23:16:09 combo ftpd[774]: connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005 
+Jul  3 23:16:09 combo ftpd[775]: connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005 
+Jul  3 23:16:09 combo ftpd[771]: connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005 
+Jul  3 23:16:09 combo ftpd[776]: connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005 
+Jul  3 23:16:09 combo ftpd[777]: connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005 
+Jul  3 23:16:09 combo ftpd[778]: connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005 
+Jul  4 04:03:06 combo su(pam_unix)[1583]: session opened for user cyrus by (uid=0)
+Jul  4 04:03:07 combo su(pam_unix)[1583]: session closed for user cyrus
+Jul  4 04:03:08 combo logrotate: ALERT exited abnormally with [1]
+Jul  4 04:08:48 combo su(pam_unix)[1965]: session opened for user news by (uid=0)
+Jul  4 04:08:49 combo su(pam_unix)[1965]: session closed for user news
+Jul  4 09:33:09 combo sshd(pam_unix)[2543]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.76.59.29  user=root
+Jul  4 09:33:10 combo sshd(pam_unix)[2544]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.76.59.29  user=root
+Jul  4 09:33:14 combo sshd(pam_unix)[2547]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.76.59.29  user=root
+Jul  4 12:52:44 combo ftpd[2839]: connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005 
+Jul  4 12:52:44 combo ftpd[2838]: connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005 
+Jul  4 12:52:44 combo ftpd[2841]: connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005 
+Jul  4 12:52:44 combo ftpd[2840]: connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005 
+Jul  4 12:52:44 combo ftpd[2831]: connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005 
+Jul  4 12:52:44 combo ftpd[2829]: connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005 
+Jul  4 12:52:44 combo ftpd[2835]: connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005 
+Jul  4 12:52:44 combo ftpd[2828]: connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005 
+Jul  4 12:52:44 combo ftpd[2832]: connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005 
+Jul  4 12:52:44 combo ftpd[2830]: connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005 
+Jul  4 12:52:44 combo ftpd[2837]: connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005 
+Jul  4 12:52:44 combo ftpd[2833]: connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005 
+Jul  4 12:52:44 combo ftpd[2834]: connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005 
+Jul  4 12:52:44 combo ftpd[2836]: connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005 
+Jul  4 12:52:44 combo ftpd[2824]: connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005 
+Jul  4 12:52:44 combo ftpd[2822]: connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005 
+Jul  4 12:52:44 combo ftpd[2821]: connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005 
+Jul  4 12:52:44 combo ftpd[2827]: connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005 
+Jul  4 12:52:44 combo ftpd[2823]: connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005 
+Jul  4 12:52:44 combo ftpd[2825]: connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005 
+Jul  4 12:52:44 combo ftpd[2842]: connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005 
+Jul  4 12:52:44 combo ftpd[2826]: connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005 
+Jul  4 12:52:44 combo ftpd[2843]: connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005 
+Jul  4 19:15:48 combo sshd(pam_unix)[3378]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87  user=root
+Jul  4 19:15:48 combo sshd(pam_unix)[3380]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87  user=root
+Jul  4 19:15:49 combo sshd(pam_unix)[3382]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87  user=root
+Jul  4 19:15:51 combo sshd(pam_unix)[3384]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87  user=root
+Jul  4 19:15:51 combo sshd(pam_unix)[3386]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87  user=root
+Jul  4 19:15:52 combo sshd(pam_unix)[3388]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87  user=root
+Jul  4 19:15:54 combo sshd(pam_unix)[3390]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87  user=root
+Jul  4 19:15:54 combo sshd(pam_unix)[3391]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87  user=root
+Jul  4 19:15:57 combo sshd(pam_unix)[3394]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87  user=root
+Jul  4 19:15:59 combo sshd(pam_unix)[3396]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87  user=root
+Jul  4 19:16:00 combo sshd(pam_unix)[3399]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87  user=root
+Jul  4 19:16:00 combo sshd(pam_unix)[3398]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87  user=root
+Jul  4 19:16:01 combo sshd(pam_unix)[3402]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87  user=root
+Jul  5 04:03:16 combo su(pam_unix)[4474]: session opened for user cyrus by (uid=0)
+Jul  5 04:03:17 combo su(pam_unix)[4474]: session closed for user cyrus
+Jul  5 04:03:18 combo logrotate: ALERT exited abnormally with [1]
+Jul  5 04:09:29 combo su(pam_unix)[5699]: session opened for user news by (uid=0)
+Jul  5 04:09:30 combo su(pam_unix)[5699]: session closed for user news
+Jul  5 13:36:28 combo sshd(pam_unix)[6552]: check pass; user unknown
+Jul  5 13:36:28 combo sshd(pam_unix)[6552]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.229.150.228 
+Jul  5 13:36:28 combo sshd(pam_unix)[6554]: check pass; user unknown
+Jul  5 13:36:28 combo sshd(pam_unix)[6554]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.229.150.228 
+Jul  5 13:36:33 combo sshd(pam_unix)[6556]: check pass; user unknown
+Jul  5 13:36:33 combo sshd(pam_unix)[6556]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.229.150.228 
+Jul  5 13:36:36 combo sshd(pam_unix)[6558]: check pass; user unknown
+Jul  5 13:36:36 combo sshd(pam_unix)[6558]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.229.150.228 
+Jul  5 13:36:37 combo sshd(pam_unix)[6560]: check pass; user unknown
+Jul  5 13:36:37 combo sshd(pam_unix)[6560]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.229.150.228 
+Jul  5 13:52:21 combo ftpd[6590]: connection from 211.72.2.106 () at Tue Jul  5 13:52:21 2005 
+Jul  5 13:52:21 combo ftpd[6582]: connection from 211.72.2.106 () at Tue Jul  5 13:52:21 2005 
+Jul  5 13:52:21 combo ftpd[6580]: connection from 211.72.2.106 () at Tue Jul  5 13:52:21 2005 
+Jul  5 13:52:21 combo ftpd[6589]: connection from 211.72.2.106 () at Tue Jul  5 13:52:21 2005 
+Jul  5 13:52:21 combo ftpd[6586]: connection from 211.72.2.106 () at Tue Jul  5 13:52:21 2005 
+Jul  5 13:52:21 combo ftpd[6591]: connection from 211.72.2.106 () at Tue Jul  5 13:52:21 2005 
+Jul  5 13:52:21 combo ftpd[6587]: connection from 211.72.2.106 () at Tue Jul  5 13:52:21 2005 
+Jul  5 13:52:21 combo ftpd[6583]: connection from 211.72.2.106 () at Tue Jul  5 13:52:21 2005 
+Jul  5 13:52:21 combo ftpd[6588]: connection from 211.72.2.106 () at Tue Jul  5 13:52:21 2005 
+Jul  5 13:52:21 combo ftpd[6581]: connection from 211.72.2.106 () at Tue Jul  5 13:52:21 2005 
+Jul  5 13:52:21 combo ftpd[6585]: connection from 211.72.2.106 () at Tue Jul  5 13:52:21 2005 
+Jul  5 13:52:21 combo ftpd[6592]: connection from 211.72.2.106 () at Tue Jul  5 13:52:21 2005 
+Jul  5 13:52:21 combo ftpd[6584]: connection from 211.72.2.106 () at Tue Jul  5 13:52:21 2005 
+Jul  5 13:52:23 combo ftpd[6593]: connection from 211.72.2.106 () at Tue Jul  5 13:52:23 2005 
+Jul  5 13:52:23 combo ftpd[6595]: connection from 211.72.2.106 () at Tue Jul  5 13:52:23 2005 
+Jul  5 13:52:23 combo ftpd[6594]: connection from 211.72.2.106 () at Tue Jul  5 13:52:23 2005 
+Jul  5 13:52:23 combo ftpd[6596]: connection from 211.72.2.106 () at Tue Jul  5 13:52:23 2005 
+Jul  5 13:52:23 combo ftpd[6597]: connection from 211.72.2.106 () at Tue Jul  5 13:52:23 2005 
+Jul  5 13:52:23 combo ftpd[6598]: connection from 211.72.2.106 () at Tue Jul  5 13:52:23 2005 
+Jul  5 13:52:23 combo ftpd[6600]: connection from 211.72.2.106 () at Tue Jul  5 13:52:23 2005 
+Jul  5 13:52:23 combo ftpd[6601]: connection from 211.72.2.106 () at Tue Jul  5 13:52:23 2005 
+Jul  5 13:52:23 combo ftpd[6602]: connection from 211.72.2.106 () at Tue Jul  5 13:52:23 2005 
+Jul  5 13:52:23 combo ftpd[6599]: connection from 211.72.2.106 () at Tue Jul  5 13:52:23 2005 
+Jul  6 02:22:31 combo sshd(pam_unix)[7694]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.16.122.48  user=root
+Jul  6 02:22:32 combo sshd(pam_unix)[7702]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.16.122.48  user=root
+Jul  6 02:22:32 combo sshd(pam_unix)[7697]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.16.122.48  user=root
+Jul  6 02:22:32 combo sshd(pam_unix)[7696]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.16.122.48  user=root
+Jul  6 02:22:33 combo sshd(pam_unix)[7704]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.16.122.48  user=root
+Jul  6 04:03:08 combo su(pam_unix)[8195]: session opened for user cyrus by (uid=0)
+Jul  6 04:03:09 combo su(pam_unix)[8195]: session closed for user cyrus
+Jul  6 04:03:10 combo logrotate: ALERT exited abnormally with [1]
+Jul  6 04:08:43 combo su(pam_unix)[8565]: session opened for user news by (uid=0)
+Jul  6 04:08:44 combo su(pam_unix)[8565]: session closed for user news
+Jul  6 18:00:56 combo ftpd[9772]: connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005 
+Jul  6 18:00:56 combo ftpd[9773]: connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005 
+Jul  6 18:00:56 combo ftpd[9777]: connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005 
+Jul  6 18:00:56 combo ftpd[9774]: connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005 
+Jul  6 18:00:56 combo ftpd[9775]: connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005 
+Jul  6 18:00:56 combo ftpd[9769]: connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005 
+Jul  6 18:00:56 combo ftpd[9776]: connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005 
+Jul  6 18:00:56 combo ftpd[9771]: connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005 
+Jul  6 18:00:56 combo ftpd[9770]: connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005 
+Jul  6 18:00:56 combo ftpd[9765]: connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005 
+Jul  6 18:00:56 combo ftpd[9764]: connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005 
+Jul  6 18:00:56 combo ftpd[9757]: connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005 
+Jul  6 18:00:56 combo ftpd[9766]: connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005 
+Jul  6 18:00:56 combo ftpd[9758]: connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005 
+Jul  6 18:00:56 combo ftpd[9759]: connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005 
+Jul  6 18:00:56 combo ftpd[9760]: connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005 
+Jul  6 18:00:56 combo ftpd[9761]: connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005 
+Jul  6 18:00:56 combo ftpd[9762]: connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005 
+Jul  6 18:00:56 combo ftpd[9767]: connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005 
+Jul  6 18:00:56 combo ftpd[9763]: connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005 
+Jul  6 18:00:56 combo ftpd[9768]: connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005 
+Jul  6 18:00:57 combo ftpd[9778]: connection from 211.72.151.162 () at Wed Jul  6 18:00:57 2005 
+Jul  6 18:00:57 combo ftpd[9779]: connection from 211.72.151.162 () at Wed Jul  6 18:00:57 2005 
+Jul  7 04:04:31 combo su(pam_unix)[10961]: session opened for user cyrus by (uid=0)
+Jul  7 04:04:32 combo su(pam_unix)[10961]: session closed for user cyrus
+Jul  7 04:04:33 combo logrotate: ALERT exited abnormally with [1]
+Jul  7 04:10:44 combo su(pam_unix)[12193]: session opened for user news by (uid=0)
+Jul  7 04:10:45 combo su(pam_unix)[12193]: session closed for user news
+Jul  7 07:18:12 combo sshd(pam_unix)[12518]: session opened for user test by (uid=509)
+Jul  7 07:18:12 combo sshd(pam_unix)[12519]: session opened for user test by (uid=509)
+Jul  7 07:18:12 combo sshd(pam_unix)[12518]: session closed for user test
+Jul  7 07:18:12 combo sshd(pam_unix)[12520]: session opened for user test by (uid=509)
+Jul  7 07:18:12 combo sshd(pam_unix)[12520]: session closed for user test
+Jul  7 07:18:12 combo sshd(pam_unix)[12519]: session closed for user test
+Jul  7 07:18:13 combo sshd(pam_unix)[12524]: session opened for user test by (uid=509)
+Jul  7 07:18:13 combo sshd(pam_unix)[12525]: session opened for user test by (uid=509)
+Jul  7 07:18:13 combo sshd(pam_unix)[12524]: session closed for user test
+Jul  7 07:18:13 combo sshd(pam_unix)[12527]: session opened for user test by (uid=509)
+Jul  7 07:18:14 combo sshd(pam_unix)[12525]: session closed for user test
+Jul  7 07:18:14 combo sshd(pam_unix)[12527]: session closed for user test
+Jul  7 08:06:12 combo gpm[2094]: *** info [mice.c(1766)]: 
+Jul  7 08:06:12 combo gpm[2094]: imps2: Auto-detected intellimouse PS/2
+Jul  7 08:06:15 combo login(pam_unix)[2421]: session opened for user root by LOGIN(uid=0)
+Jul  7 08:06:15 combo  -- root[2421]: ROOT LOGIN ON tty2
+Jul  7 08:09:10 combo login(pam_unix)[2421]: session closed for user root
+Jul  7 08:09:11 combo udev[12754]: removing device node '/udev/vcsa2'
+Jul  7 08:09:11 combo udev[12753]: removing device node '/udev/vcs2'
+Jul  7 08:09:11 combo udev[12777]: creating device node '/udev/vcs2'
+Jul  7 08:09:11 combo udev[12778]: creating device node '/udev/vcsa2'
+Jul  7 08:09:11 combo udev[12786]: removing device node '/udev/vcs2'
+Jul  7 08:09:11 combo udev[12790]: removing device node '/udev/vcsa2'
+Jul  7 08:09:11 combo udev[12795]: creating device node '/udev/vcs2'
+Jul  7 08:09:11 combo udev[12798]: creating device node '/udev/vcsa2'
+Jul  7 14:18:55 combo sshd(pam_unix)[13317]: check pass; user unknown
+Jul  7 14:18:55 combo sshd(pam_unix)[13317]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c9063558.virtua.com.br 
+Jul  7 14:18:57 combo sshd(pam_unix)[13321]: check pass; user unknown
+Jul  7 14:18:57 combo sshd(pam_unix)[13321]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c9063558.virtua.com.br 
+Jul  7 14:18:58 combo sshd(pam_unix)[13318]: check pass; user unknown
+Jul  7 14:18:58 combo sshd(pam_unix)[13318]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c9063558.virtua.com.br 
+Jul  7 14:18:59 combo sshd(pam_unix)[13323]: check pass; user unknown
+Jul  7 14:18:59 combo sshd(pam_unix)[13323]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c9063558.virtua.com.br 
+Jul  7 16:33:52 combo ftpd[13521]: connection from 202.82.200.188 () at Thu Jul  7 16:33:52 2005 
+Jul  7 16:33:52 combo ftpd[13513]: connection from 202.82.200.188 () at Thu Jul  7 16:33:52 2005 
+Jul  7 16:33:52 combo ftpd[13511]: connection from 202.82.200.188 () at Thu Jul  7 16:33:52 2005 
+Jul  7 16:33:52 combo ftpd[13512]: connection from 202.82.200.188 () at Thu Jul  7 16:33:52 2005 
+Jul  7 16:33:52 combo ftpd[13516]: connection from 202.82.200.188 () at Thu Jul  7 16:33:52 2005 
+Jul  7 16:33:52 combo ftpd[13515]: connection from 202.82.200.188 () at Thu Jul  7 16:33:52 2005 
+Jul  7 16:33:52 combo ftpd[13518]: connection from 202.82.200.188 () at Thu Jul  7 16:33:52 2005 
+Jul  7 16:33:52 combo ftpd[13522]: connection from 202.82.200.188 () at Thu Jul  7 16:33:52 2005 
+Jul  7 16:33:52 combo ftpd[13517]: connection from 202.82.200.188 () at Thu Jul  7 16:33:52 2005 
+Jul  7 16:33:52 combo ftpd[13520]: connection from 202.82.200.188 () at Thu Jul  7 16:33:52 2005 
+Jul  7 16:33:52 combo ftpd[13519]: connection from 202.82.200.188 () at Thu Jul  7 16:33:52 2005 
+Jul  7 16:33:52 combo ftpd[13514]: connection from 202.82.200.188 () at Thu Jul  7 16:33:52 2005 
+Jul  7 23:09:45 combo ftpd[14105]: connection from 221.4.102.93 () at Thu Jul  7 23:09:45 2005 
+Jul  7 23:09:45 combo ftpd[14106]: connection from 221.4.102.93 () at Thu Jul  7 23:09:45 2005 
+Jul  7 23:09:45 combo ftpd[14103]: connection from 221.4.102.93 () at Thu Jul  7 23:09:45 2005 
+Jul  7 23:09:45 combo ftpd[14107]: connection from 221.4.102.93 () at Thu Jul  7 23:09:45 2005 
+Jul  7 23:09:45 combo ftpd[14104]: connection from 221.4.102.93 () at Thu Jul  7 23:09:45 2005 
+Jul  7 23:09:45 combo ftpd[14108]: connection from 221.4.102.93 () at Thu Jul  7 23:09:45 2005 
+Jul  7 23:09:45 combo ftpd[14109]: connection from 221.4.102.93 () at Thu Jul  7 23:09:45 2005 
+Jul  7 23:09:45 combo ftpd[14110]: connection from 221.4.102.93 () at Thu Jul  7 23:09:45 2005 
+Jul  7 23:09:45 combo ftpd[14111]: connection from 221.4.102.93 () at Thu Jul  7 23:09:45 2005 
+Jul  7 23:09:45 combo ftpd[14112]: connection from 221.4.102.93 () at Thu Jul  7 23:09:45 2005 
+Jul  7 23:09:45 combo ftpd[14113]: connection from 221.4.102.93 () at Thu Jul  7 23:09:45 2005 
+Jul  7 23:09:45 combo ftpd[14114]: connection from 221.4.102.93 () at Thu Jul  7 23:09:45 2005 
+Jul  7 23:09:45 combo ftpd[14115]: connection from 221.4.102.93 () at Thu Jul  7 23:09:45 2005 
+Jul  7 23:09:45 combo ftpd[14116]: connection from 221.4.102.93 () at Thu Jul  7 23:09:45 2005 
+Jul  7 23:09:45 combo ftpd[14118]: connection from 221.4.102.93 () at Thu Jul  7 23:09:45 2005 
+Jul  7 23:09:45 combo ftpd[14119]: connection from 221.4.102.93 () at Thu Jul  7 23:09:45 2005 
+Jul  7 23:09:45 combo ftpd[14117]: connection from 221.4.102.93 () at Thu Jul  7 23:09:45 2005 
+Jul  7 23:09:47 combo ftpd[14120]: connection from 221.4.102.93 () at Thu Jul  7 23:09:47 2005 
+Jul  7 23:09:50 combo ftpd[14121]: connection from 221.4.102.93 () at Thu Jul  7 23:09:50 2005 
+Jul  8 04:04:19 combo su(pam_unix)[14943]: session opened for user cyrus by (uid=0)
+Jul  8 04:04:19 combo su(pam_unix)[14943]: session closed for user cyrus
+Jul  8 04:04:20 combo logrotate: ALERT exited abnormally with [1]
+Jul  8 04:12:07 combo su(pam_unix)[19593]: session opened for user news by (uid=0)
+Jul  8 04:12:08 combo su(pam_unix)[19593]: session closed for user news
+Jul  8 20:14:55 combo sshd(pam_unix)[20963]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=212.0.132.20  user=test
+Jul  8 20:14:56 combo sshd(pam_unix)[20969]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=212.0.132.20  user=test
+Jul  8 20:14:56 combo sshd(pam_unix)[20968]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=212.0.132.20  user=test
+Jul  8 20:14:56 combo sshd(pam_unix)[20964]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=212.0.132.20  user=test
+Jul  9 04:04:23 combo su(pam_unix)[21991]: session opened for user cyrus by (uid=0)
+Jul  9 04:04:24 combo su(pam_unix)[21991]: session closed for user cyrus
+Jul  9 04:04:25 combo logrotate: ALERT exited abnormally with [1]
+Jul  9 04:10:11 combo su(pam_unix)[22368]: session opened for user news by (uid=0)
+Jul  9 04:10:12 combo su(pam_unix)[22368]: session closed for user news
+Jul  9 11:35:59 combo ftpd[23028]: connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005 
+Jul  9 11:35:59 combo ftpd[23027]: connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005 
+Jul  9 11:35:59 combo ftpd[23026]: connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005 
+Jul  9 11:35:59 combo ftpd[23032]: connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005 
+Jul  9 11:35:59 combo ftpd[23030]: connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005 
+Jul  9 11:35:59 combo ftpd[23031]: connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005 
+Jul  9 11:35:59 combo ftpd[23035]: connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005 
+Jul  9 11:35:59 combo ftpd[23038]: connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005 
+Jul  9 11:35:59 combo ftpd[23037]: connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005 
+Jul  9 11:35:59 combo ftpd[23029]: connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005 
+Jul  9 11:35:59 combo ftpd[23036]: connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005 
+Jul  9 11:35:59 combo ftpd[23046]: connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005 
+Jul  9 11:35:59 combo ftpd[23048]: connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005 
+Jul  9 11:35:59 combo ftpd[23045]: connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005 
+Jul  9 11:35:59 combo ftpd[23043]: connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005 
+Jul  9 11:35:59 combo ftpd[23040]: connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005 
+Jul  9 11:35:59 combo ftpd[23044]: connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005 
+Jul  9 11:35:59 combo ftpd[23039]: connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005 
+Jul  9 11:35:59 combo ftpd[23041]: connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005 
+Jul  9 11:35:59 combo ftpd[23047]: connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005 
+Jul  9 11:35:59 combo ftpd[23033]: connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005 
+Jul  9 11:35:59 combo ftpd[23042]: connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005 
+Jul  9 11:35:59 combo ftpd[23034]: connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005 
+Jul  9 12:16:49 combo ftpd[23140]: connection from 211.167.68.59 () at Sat Jul  9 12:16:49 2005 
+Jul  9 12:16:49 combo ftpd[23143]: connection from 211.167.68.59 () at Sat Jul  9 12:16:49 2005 
+Jul  9 12:16:49 combo ftpd[23142]: connection from 211.167.68.59 () at Sat Jul  9 12:16:49 2005 
+Jul  9 12:16:49 combo ftpd[23141]: connection from 211.167.68.59 () at Sat Jul  9 12:16:49 2005 
+Jul  9 12:16:49 combo ftpd[23144]: connection from 211.167.68.59 () at Sat Jul  9 12:16:49 2005 
+Jul  9 12:16:49 combo ftpd[23145]: connection from 211.167.68.59 () at Sat Jul  9 12:16:49 2005 
+Jul  9 12:16:49 combo ftpd[23146]: connection from 211.167.68.59 () at Sat Jul  9 12:16:49 2005 
+Jul  9 12:16:49 combo ftpd[23148]: connection from 211.167.68.59 () at Sat Jul  9 12:16:49 2005 
+Jul  9 12:16:49 combo ftpd[23149]: connection from 211.167.68.59 () at Sat Jul  9 12:16:49 2005 
+Jul  9 12:16:49 combo ftpd[23150]: connection from 211.167.68.59 () at Sat Jul  9 12:16:49 2005 
+Jul  9 12:16:49 combo ftpd[23147]: connection from 211.167.68.59 () at Sat Jul  9 12:16:49 2005 
+Jul  9 12:16:51 combo ftpd[23151]: connection from 211.167.68.59 () at Sat Jul  9 12:16:51 2005 
+Jul  9 12:16:51 combo ftpd[23152]: connection from 211.167.68.59 () at Sat Jul  9 12:16:51 2005 
+Jul  9 12:16:51 combo ftpd[23153]: connection from 211.167.68.59 () at Sat Jul  9 12:16:51 2005 
+Jul  9 12:16:51 combo ftpd[23155]: connection from 211.167.68.59 () at Sat Jul  9 12:16:51 2005 
+Jul  9 12:16:51 combo ftpd[23154]: connection from 211.167.68.59 () at Sat Jul  9 12:16:51 2005 
+Jul  9 12:16:52 combo ftpd[23156]: connection from 211.167.68.59 () at Sat Jul  9 12:16:52 2005 
+Jul  9 12:16:52 combo ftpd[23157]: connection from 211.167.68.59 () at Sat Jul  9 12:16:52 2005 
+Jul  9 12:59:44 combo ftpd[23204]: connection from 81.171.220.226 () at Sat Jul  9 12:59:44 2005 
+Jul  9 12:59:44 combo ftpd[23216]: connection from 81.171.220.226 () at Sat Jul  9 12:59:44 2005 
+Jul  9 12:59:44 combo ftpd[23215]: connection from 81.171.220.226 () at Sat Jul  9 12:59:44 2005 
+Jul  9 12:59:44 combo ftpd[23205]: connection from 81.171.220.226 () at Sat Jul  9 12:59:44 2005 
+Jul  9 12:59:44 combo ftpd[23217]: connection from 81.171.220.226 () at Sat Jul  9 12:59:44 2005 
+Jul  9 12:59:44 combo ftpd[23206]: connection from 81.171.220.226 () at Sat Jul  9 12:59:44 2005 
+Jul  9 12:59:44 combo ftpd[23207]: connection from 81.171.220.226 () at Sat Jul  9 12:59:44 2005 
+Jul  9 12:59:44 combo ftpd[23208]: connection from 81.171.220.226 () at Sat Jul  9 12:59:44 2005 
+Jul  9 12:59:44 combo ftpd[23209]: connection from 81.171.220.226 () at Sat Jul  9 12:59:44 2005 
+Jul  9 12:59:44 combo ftpd[23219]: connection from 81.171.220.226 () at Sat Jul  9 12:59:44 2005 
+Jul  9 12:59:44 combo ftpd[23210]: connection from 81.171.220.226 () at Sat Jul  9 12:59:44 2005 
+Jul  9 12:59:44 combo ftpd[23218]: connection from 81.171.220.226 () at Sat Jul  9 12:59:44 2005 
+Jul  9 12:59:44 combo ftpd[23213]: connection from 81.171.220.226 () at Sat Jul  9 12:59:44 2005 
+Jul  9 12:59:44 combo ftpd[23212]: connection from 81.171.220.226 () at Sat Jul  9 12:59:44 2005 
+Jul  9 12:59:44 combo ftpd[23211]: connection from 81.171.220.226 () at Sat Jul  9 12:59:44 2005 
+Jul  9 12:59:44 combo ftpd[23220]: connection from 81.171.220.226 () at Sat Jul  9 12:59:44 2005 
+Jul  9 12:59:44 combo ftpd[23214]: connection from 81.171.220.226 () at Sat Jul  9 12:59:44 2005 
+Jul  9 12:59:44 combo ftpd[23221]: connection from 81.171.220.226 () at Sat Jul  9 12:59:44 2005 
+Jul  9 12:59:45 combo ftpd[23222]: connection from 81.171.220.226 () at Sat Jul  9 12:59:45 2005 
+Jul  9 12:59:45 combo ftpd[23223]: connection from 81.171.220.226 () at Sat Jul  9 12:59:45 2005 
+Jul  9 12:59:45 combo ftpd[23224]: connection from 81.171.220.226 () at Sat Jul  9 12:59:45 2005 
+Jul  9 12:59:45 combo ftpd[23225]: connection from 81.171.220.226 () at Sat Jul  9 12:59:45 2005 
+Jul  9 12:59:45 combo ftpd[23226]: connection from 81.171.220.226 () at Sat Jul  9 12:59:45 2005 
+Jul  9 19:34:06 combo sshd(pam_unix)[23780]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=p15105218.pureserver.info  user=root
+Jul  9 19:34:06 combo sshd(pam_unix)[23781]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=p15105218.pureserver.info  user=root
+Jul  9 19:34:06 combo sshd(pam_unix)[23784]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=p15105218.pureserver.info  user=root
+Jul  9 19:34:07 combo sshd(pam_unix)[23786]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=p15105218.pureserver.info  user=root
+Jul  9 19:34:09 combo sshd(pam_unix)[23788]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=p15105218.pureserver.info  user=root
+Jul  9 19:34:09 combo sshd(pam_unix)[23790]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=p15105218.pureserver.info  user=root
+Jul  9 19:34:10 combo sshd(pam_unix)[23792]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=p15105218.pureserver.info  user=root
+Jul  9 19:34:12 combo sshd(pam_unix)[23794]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=p15105218.pureserver.info  user=root
+Jul  9 19:34:13 combo sshd(pam_unix)[23796]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=p15105218.pureserver.info  user=root
+Jul  9 19:34:14 combo sshd(pam_unix)[23798]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=p15105218.pureserver.info  user=root
+Jul  9 22:53:19 combo ftpd[24085]: connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul  9 22:53:19 2005 
+Jul  9 22:53:19 combo ftpd[24088]: connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul  9 22:53:19 2005 
+Jul  9 22:53:19 combo ftpd[24087]: connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul  9 22:53:19 2005 
+Jul  9 22:53:19 combo ftpd[24089]: connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul  9 22:53:19 2005 
+Jul  9 22:53:19 combo ftpd[24090]: connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul  9 22:53:19 2005 
+Jul  9 22:53:19 combo ftpd[24091]: connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul  9 22:53:19 2005 
+Jul  9 22:53:22 combo ftpd[24081]: connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul  9 22:53:22 2005 
+Jul  9 22:53:22 combo ftpd[24071]: connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul  9 22:53:22 2005 
+Jul  9 22:53:22 combo ftpd[24077]: connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul  9 22:53:22 2005 
+Jul  9 22:53:22 combo ftpd[24086]: connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul  9 22:53:22 2005 
+Jul  9 22:53:22 combo ftpd[24069]: connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul  9 22:53:22 2005 
+Jul  9 22:53:22 combo ftpd[24074]: connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul  9 22:53:22 2005 
+Jul  9 22:53:22 combo ftpd[24079]: connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul  9 22:53:22 2005 
+Jul  9 22:53:22 combo ftpd[24072]: connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul  9 22:53:22 2005 
+Jul  9 22:53:22 combo ftpd[24076]: connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul  9 22:53:22 2005 
+Jul  9 22:53:22 combo ftpd[24075]: connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul  9 22:53:22 2005 
+Jul  9 22:53:22 combo ftpd[24078]: connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul  9 22:53:22 2005 
+Jul  9 22:53:22 combo ftpd[24080]: connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul  9 22:53:22 2005 
+Jul  9 22:53:22 combo ftpd[24084]: connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul  9 22:53:22 2005 
+Jul  9 22:53:22 combo ftpd[24070]: connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul  9 22:53:22 2005 
+Jul  9 22:53:22 combo ftpd[24083]: connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul  9 22:53:22 2005 
+Jul  9 22:53:22 combo ftpd[24082]: connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul  9 22:53:22 2005 
+Jul  9 22:53:22 combo ftpd[24073]: connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul  9 22:53:22 2005 
+Jul 10 03:55:15 combo ftpd[24513]: connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005 
+Jul 10 03:55:15 combo ftpd[24512]: connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005 
+Jul 10 03:55:15 combo ftpd[24519]: connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005 
+Jul 10 03:55:15 combo ftpd[24514]: connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005 
+Jul 10 03:55:15 combo ftpd[24515]: connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005 
+Jul 10 03:55:15 combo ftpd[24516]: connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005 
+Jul 10 03:55:15 combo ftpd[24517]: connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005 
+Jul 10 03:55:15 combo ftpd[24521]: connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005 
+Jul 10 03:55:15 combo ftpd[24520]: connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005 
+Jul 10 03:55:15 combo ftpd[24522]: connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005 
+Jul 10 03:55:15 combo ftpd[24518]: connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005 
+Jul 10 03:55:15 combo ftpd[24523]: connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005 
+Jul 10 03:55:15 combo ftpd[24524]: connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005 
+Jul 10 03:55:15 combo ftpd[24525]: connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005 
+Jul 10 03:55:15 combo ftpd[24526]: connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005 
+Jul 10 03:55:15 combo ftpd[24527]: connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005 
+Jul 10 03:55:15 combo ftpd[24528]: connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005 
+Jul 10 03:55:15 combo ftpd[24529]: connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005 
+Jul 10 03:55:15 combo ftpd[24530]: connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005 
+Jul 10 03:55:15 combo ftpd[24531]: connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005 
+Jul 10 03:55:15 combo ftpd[24532]: connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005 
+Jul 10 03:55:15 combo ftpd[24533]: connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005 
+Jul 10 03:55:15 combo ftpd[24534]: connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005 
+Jul 10 04:04:31 combo su(pam_unix)[24898]: session opened for user cyrus by (uid=0)
+Jul 10 04:04:32 combo su(pam_unix)[24898]: session closed for user cyrus
+Jul 10 04:04:33 combo cups: cupsd shutdown succeeded
+Jul 10 04:04:39 combo cups: cupsd startup succeeded
+Jul 10 04:04:46 combo syslogd 1.4.1: restart.
+Jul 10 04:04:46 combo logrotate: ALERT exited abnormally with [1]
+Jul 10 04:10:47 combo su(pam_unix)[26353]: session opened for user news by (uid=0)
+Jul 10 04:10:47 combo su(pam_unix)[26353]: session closed for user news
+Jul 10 07:24:24 combo ftpd[29726]: connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 07:24:24 2005 
+Jul 10 07:24:24 combo ftpd[29725]: connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 07:24:24 2005 
+Jul 10 07:24:24 combo ftpd[29719]: connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 07:24:24 2005 
+Jul 10 07:24:24 combo ftpd[29723]: connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 07:24:24 2005 
+Jul 10 07:24:24 combo ftpd[29720]: connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 07:24:24 2005 
+Jul 10 07:24:24 combo ftpd[29717]: connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 07:24:24 2005 
+Jul 10 07:24:24 combo ftpd[29718]: connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 07:24:24 2005 
+Jul 10 07:24:24 combo ftpd[29724]: connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 07:24:24 2005 
+Jul 10 07:24:24 combo ftpd[29722]: connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 07:24:24 2005 
+Jul 10 07:24:24 combo ftpd[29727]: connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 07:24:24 2005 
+Jul 10 07:24:24 combo ftpd[29721]: connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 07:24:24 2005 
+Jul 10 07:24:34 combo ftpd[29728]: connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 07:24:34 2005 
+Jul 10 07:24:34 combo ftpd[29730]: connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 07:24:34 2005 
+Jul 10 07:24:34 combo ftpd[29731]: connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 07:24:34 2005 
+Jul 10 07:24:34 combo ftpd[29732]: connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 07:24:34 2005 
+Jul 10 07:24:34 combo ftpd[29729]: connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 07:24:34 2005 
+Jul 10 07:24:34 combo ftpd[29733]: connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 07:24:34 2005 
+Jul 10 07:24:34 combo ftpd[29734]: connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 07:24:34 2005 
+Jul 10 07:24:34 combo ftpd[29737]: connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 07:24:34 2005 
+Jul 10 07:24:34 combo ftpd[29738]: connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 07:24:34 2005 
+Jul 10 07:24:34 combo ftpd[29739]: connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 07:24:34 2005 
+Jul 10 07:24:34 combo ftpd[29735]: connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 07:24:34 2005 
+Jul 10 07:24:34 combo ftpd[29736]: connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 07:24:34 2005 
+Jul 10 13:17:22 combo ftpd[30278]: connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005 
+Jul 10 13:17:22 combo ftpd[30276]: connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005 
+Jul 10 13:17:22 combo ftpd[30277]: connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005 
+Jul 10 13:17:22 combo ftpd[30292]: connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005 
+Jul 10 13:17:22 combo ftpd[30293]: connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005 
+Jul 10 13:17:22 combo ftpd[30279]: connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005 
+Jul 10 13:17:22 combo ftpd[30280]: connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005 
+Jul 10 13:17:22 combo ftpd[30295]: connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005 
+Jul 10 13:17:22 combo ftpd[30281]: connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005 
+Jul 10 13:17:22 combo ftpd[30282]: connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005 
+Jul 10 13:17:22 combo ftpd[30288]: connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005 
+Jul 10 13:17:22 combo ftpd[30284]: connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005 
+Jul 10 13:17:22 combo ftpd[30290]: connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005 
+Jul 10 13:17:22 combo ftpd[30294]: connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005 
+Jul 10 13:17:22 combo ftpd[30296]: connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005 
+Jul 10 13:17:22 combo ftpd[30283]: connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005 
+Jul 10 13:17:22 combo ftpd[30285]: connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005 
+Jul 10 13:17:22 combo ftpd[30289]: connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005 
+Jul 10 13:17:22 combo ftpd[30286]: connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005 
+Jul 10 13:17:22 combo ftpd[30297]: connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005 
+Jul 10 13:17:22 combo ftpd[30287]: connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005 
+Jul 10 13:17:22 combo ftpd[30298]: connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005 
+Jul 10 13:17:22 combo ftpd[30291]: connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005 
+Jul 10 16:01:43 combo sshd(pam_unix)[30530]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:01:44 combo sshd(pam_unix)[30532]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:01:45 combo sshd(pam_unix)[30534]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:01:45 combo sshd(pam_unix)[30535]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:01:46 combo sshd(pam_unix)[30536]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:01:47 combo sshd(pam_unix)[30540]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:01:48 combo sshd(pam_unix)[30542]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:01:48 combo sshd(pam_unix)[30544]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:01:48 combo sshd(pam_unix)[30546]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:01:49 combo sshd(pam_unix)[30548]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:01:56 combo sshd(pam_unix)[30550]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:01:57 combo sshd(pam_unix)[30552]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:01:58 combo sshd(pam_unix)[30554]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:01:58 combo sshd(pam_unix)[30555]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:01:59 combo sshd(pam_unix)[30558]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:01:59 combo sshd(pam_unix)[30560]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:01 combo sshd(pam_unix)[30562]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:01 combo sshd(pam_unix)[30564]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:01 combo sshd(pam_unix)[30566]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:02 combo sshd(pam_unix)[30568]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:08 combo sshd(pam_unix)[30570]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:09 combo sshd(pam_unix)[30572]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:10 combo sshd(pam_unix)[30574]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:10 combo sshd(pam_unix)[30575]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:12 combo sshd(pam_unix)[30580]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:12 combo sshd(pam_unix)[30578]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:13 combo sshd(pam_unix)[30582]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:14 combo sshd(pam_unix)[30584]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:14 combo sshd(pam_unix)[30585]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:14 combo sshd(pam_unix)[30588]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:21 combo sshd(pam_unix)[30590]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:21 combo sshd(pam_unix)[30592]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:23 combo sshd(pam_unix)[30595]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:23 combo sshd(pam_unix)[30594]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:24 combo sshd(pam_unix)[30598]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:25 combo sshd(pam_unix)[30599]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:26 combo sshd(pam_unix)[30602]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:27 combo sshd(pam_unix)[30604]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:27 combo sshd(pam_unix)[30605]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:27 combo sshd(pam_unix)[30607]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:33 combo sshd(pam_unix)[30610]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:34 combo sshd(pam_unix)[30612]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:35 combo sshd(pam_unix)[30614]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:35 combo sshd(pam_unix)[30615]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:36 combo sshd(pam_unix)[30618]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:37 combo sshd(pam_unix)[30620]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:39 combo sshd(pam_unix)[30622]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:39 combo sshd(pam_unix)[30624]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:40 combo sshd(pam_unix)[30625]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:40 combo sshd(pam_unix)[30628]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:45 combo sshd(pam_unix)[30630]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:46 combo sshd(pam_unix)[30632]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:47 combo sshd(pam_unix)[30634]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:47 combo sshd(pam_unix)[30635]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:49 combo sshd(pam_unix)[30638]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:50 combo sshd(pam_unix)[30640]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:52 combo sshd(pam_unix)[30642]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:52 combo sshd(pam_unix)[30644]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:52 combo sshd(pam_unix)[30645]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:53 combo sshd(pam_unix)[30647]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:57 combo sshd(pam_unix)[30650]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:02:58 combo sshd(pam_unix)[30652]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:03:00 combo sshd(pam_unix)[30654]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:03:00 combo sshd(pam_unix)[30655]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:03:01 combo sshd(pam_unix)[30658]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:03:03 combo sshd(pam_unix)[30660]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:03:05 combo sshd(pam_unix)[30662]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:03:05 combo sshd(pam_unix)[30665]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:03:05 combo sshd(pam_unix)[30664]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:03:05 combo sshd(pam_unix)[30666]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:03:10 combo sshd(pam_unix)[30670]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:03:11 combo sshd(pam_unix)[30672]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:03:12 combo sshd(pam_unix)[30675]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:03:12 combo sshd(pam_unix)[30674]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:03:13 combo sshd(pam_unix)[30678]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:03:16 combo sshd(pam_unix)[30680]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:03:18 combo sshd(pam_unix)[30682]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:03:18 combo sshd(pam_unix)[30684]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:03:18 combo sshd(pam_unix)[30685]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:03:18 combo sshd(pam_unix)[30686]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root
+Jul 10 16:33:01 combo sshd(pam_unix)[30725]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.214.161.141  user=root
+Jul 10 16:33:01 combo sshd(pam_unix)[30729]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.214.161.141  user=root
+Jul 10 16:33:02 combo sshd(pam_unix)[30731]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.214.161.141  user=root
+Jul 10 16:33:02 combo sshd(pam_unix)[30732]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.214.161.141  user=root
+Jul 10 16:33:02 combo sshd(pam_unix)[30734]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.214.161.141  user=root
+Jul 10 16:33:03 combo sshd(pam_unix)[30739]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.214.161.141  user=root
+Jul 10 16:33:03 combo sshd(pam_unix)[30737]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.214.161.141  user=root
+Jul 10 16:33:04 combo sshd(pam_unix)[30740]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.214.161.141  user=root
+Jul 10 16:33:05 combo sshd(pam_unix)[30743]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.214.161.141  user=root
+Jul 10 16:33:05 combo sshd(pam_unix)[30726]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.214.161.141  user=root
+Jul 11 03:46:14 combo sshd(pam_unix)[31851]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=82.77.200.128  user=root
+Jul 11 03:46:15 combo sshd(pam_unix)[31848]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=82.77.200.128  user=root
+Jul 11 03:46:15 combo sshd(pam_unix)[31850]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=82.77.200.128  user=root
+Jul 11 03:46:15 combo sshd(pam_unix)[31861]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=82.77.200.128  user=root
+Jul 11 03:46:15 combo sshd(pam_unix)[31854]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=82.77.200.128  user=root
+Jul 11 03:46:15 combo sshd(pam_unix)[31853]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=82.77.200.128  user=root
+Jul 11 03:46:16 combo sshd(pam_unix)[31862]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=82.77.200.128  user=root
+Jul 11 03:46:17 combo sshd(pam_unix)[31855]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=82.77.200.128  user=root
+Jul 11 03:46:17 combo sshd(pam_unix)[31852]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=82.77.200.128  user=root
+Jul 11 03:46:19 combo sshd(pam_unix)[31860]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=82.77.200.128  user=root
+Jul 11 04:03:03 combo su(pam_unix)[32237]: session opened for user cyrus by (uid=0)
+Jul 11 04:03:04 combo su(pam_unix)[32237]: session closed for user cyrus
+Jul 11 04:03:05 combo logrotate: ALERT exited abnormally with [1]
+Jul 11 04:08:37 combo su(pam_unix)[32608]: session opened for user news by (uid=0)
+Jul 11 04:08:38 combo su(pam_unix)[32608]: session closed for user news
+Jul 11 11:33:13 combo gdm(pam_unix)[2803]: check pass; user unknown
+Jul 11 11:33:13 combo gdm(pam_unix)[2803]: authentication failure; logname= uid=0 euid=0 tty=:0 ruser= rhost= 
+Jul 11 11:33:17 combo gdm-binary[2803]: Couldn't authenticate user
+Jul 11 17:58:16 combo sshd(pam_unix)[1325]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.137.205.253  user=root
+Jul 11 17:58:16 combo sshd(pam_unix)[1329]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.137.205.253  user=root
+Jul 11 17:58:16 combo sshd(pam_unix)[1327]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.137.205.253  user=root
+Jul 11 17:58:19 combo sshd(pam_unix)[1331]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.137.205.253  user=root
+Jul 11 17:58:20 combo sshd(pam_unix)[1333]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.137.205.253  user=root
+Jul 11 17:58:21 combo sshd(pam_unix)[1335]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.137.205.253  user=root
+Jul 11 17:58:21 combo sshd(pam_unix)[1337]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.137.205.253  user=root
+Jul 11 17:58:21 combo sshd(pam_unix)[1338]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.137.205.253  user=root
+Jul 11 17:58:22 combo sshd(pam_unix)[1341]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.137.205.253  user=root
+Jul 11 17:58:23 combo sshd(pam_unix)[1343]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.137.205.253  user=root
+Jul 12 04:03:40 combo su(pam_unix)[2605]: session opened for user cyrus by (uid=0)
+Jul 12 04:03:41 combo su(pam_unix)[2605]: session closed for user cyrus
+Jul 12 04:03:42 combo logrotate: ALERT exited abnormally with [1]
+Jul 12 04:09:49 combo su(pam_unix)[3833]: session opened for user news by (uid=0)
+Jul 12 04:09:50 combo su(pam_unix)[3833]: session closed for user news
+Jul 12 06:09:43 combo sshd(pam_unix)[4048]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=68.143.156.89.nw.nuvox.net  user=root
+Jul 12 06:09:44 combo sshd(pam_unix)[4053]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=68.143.156.89.nw.nuvox.net  user=root
+Jul 12 06:09:44 combo sshd(pam_unix)[4052]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=68.143.156.89.nw.nuvox.net  user=root
+Jul 12 06:09:44 combo sshd(pam_unix)[4054]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=68.143.156.89.nw.nuvox.net  user=root
+Jul 12 06:09:44 combo sshd(pam_unix)[4050]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=68.143.156.89.nw.nuvox.net  user=root
+Jul 12 06:09:44 combo sshd(pam_unix)[4061]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=68.143.156.89.nw.nuvox.net  user=root
+Jul 12 06:09:44 combo sshd(pam_unix)[4064]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=68.143.156.89.nw.nuvox.net  user=root
+Jul 12 06:09:45 combo sshd(pam_unix)[4058]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=68.143.156.89.nw.nuvox.net  user=root
+Jul 12 06:09:45 combo sshd(pam_unix)[4059]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=68.143.156.89.nw.nuvox.net  user=root
+Jul 12 06:09:45 combo sshd(pam_unix)[4065]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=68.143.156.89.nw.nuvox.net  user=root
+Jul 13 04:04:44 combo su(pam_unix)[6486]: session opened for user cyrus by (uid=0)
+Jul 13 04:04:45 combo su(pam_unix)[6486]: session closed for user cyrus
+Jul 13 04:04:45 combo logrotate: ALERT exited abnormally with [1]
+Jul 13 04:10:41 combo su(pam_unix)[6863]: session opened for user news by (uid=0)
+Jul 13 04:10:41 combo su(pam_unix)[6863]: session closed for user news
+Jul 13 17:22:28 combo sshd(pam_unix)[8113]: session opened for user test by (uid=509)
+Jul 13 17:22:28 combo sshd(pam_unix)[8114]: session opened for user test by (uid=509)
+Jul 13 17:22:29 combo sshd(pam_unix)[8113]: session closed for user test
+Jul 13 17:22:29 combo sshd(pam_unix)[8114]: session closed for user test
+Jul 13 17:22:29 combo sshd(pam_unix)[8117]: session opened for user test by (uid=509)
+Jul 13 17:22:29 combo sshd(pam_unix)[8117]: session closed for user test
+Jul 14 04:08:24 combo su(pam_unix)[9355]: session opened for user cyrus by (uid=0)
+Jul 14 04:08:25 combo su(pam_unix)[9355]: session closed for user cyrus
+Jul 14 04:08:25 combo logrotate: ALERT exited abnormally with [1]
+Jul 14 04:14:38 combo su(pam_unix)[10583]: session opened for user news by (uid=0)
+Jul 14 04:14:39 combo su(pam_unix)[10583]: session closed for user news
+Jul 14 14:59:42 combo sshd(pam_unix)[11706]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202-132-40-29.adsl.ttn.net  user=root
+Jul 14 14:59:56 combo sshd(pam_unix)[11708]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202-132-40-29.adsl.ttn.net  user=root
+Jul 14 15:00:09 combo sshd(pam_unix)[11710]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202-132-40-29.adsl.ttn.net  user=root
+Jul 14 15:00:22 combo sshd(pam_unix)[11719]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202-132-40-29.adsl.ttn.net  user=root
+Jul 14 15:00:36 combo sshd(pam_unix)[11721]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202-132-40-29.adsl.ttn.net  user=root
+Jul 14 15:00:49 combo sshd(pam_unix)[11723]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202-132-40-29.adsl.ttn.net  user=root
+Jul 14 15:01:03 combo sshd(pam_unix)[11725]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202-132-40-29.adsl.ttn.net  user=root
+Jul 14 15:01:16 combo sshd(pam_unix)[11741]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202-132-40-29.adsl.ttn.net  user=root
+Jul 15 01:03:48 combo sshd(pam_unix)[12632]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c51471f2c.cable.wanadoo.nl  user=root
+Jul 15 01:03:48 combo sshd(pam_unix)[12628]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c51471f2c.cable.wanadoo.nl  user=root
+Jul 15 01:03:48 combo sshd(pam_unix)[12631]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c51471f2c.cable.wanadoo.nl  user=root
+Jul 15 01:03:48 combo sshd(pam_unix)[12627]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c51471f2c.cable.wanadoo.nl  user=root
+Jul 15 01:03:48 combo sshd(pam_unix)[12629]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c51471f2c.cable.wanadoo.nl  user=root
+Jul 15 01:03:48 combo sshd(pam_unix)[12630]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c51471f2c.cable.wanadoo.nl  user=root
+Jul 15 01:03:49 combo sshd(pam_unix)[12643]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c51471f2c.cable.wanadoo.nl  user=root
+Jul 15 01:03:49 combo sshd(pam_unix)[12645]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c51471f2c.cable.wanadoo.nl  user=root
+Jul 15 01:03:50 combo sshd(pam_unix)[12639]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c51471f2c.cable.wanadoo.nl  user=root
+Jul 15 01:03:50 combo sshd(pam_unix)[12640]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c51471f2c.cable.wanadoo.nl  user=root
+Jul 15 04:05:02 combo su(pam_unix)[13238]: session opened for user cyrus by (uid=0)
+Jul 15 04:05:02 combo su(pam_unix)[13238]: session closed for user cyrus
+Jul 15 04:05:03 combo logrotate: ALERT exited abnormally with [1]
+Jul 15 04:10:45 combo su(pam_unix)[13611]: session opened for user news by (uid=0)
+Jul 15 04:10:46 combo su(pam_unix)[13611]: session closed for user news
+Jul 15 23:42:43 combo ftpd[15339]: connection from 211.107.232.1 () at Fri Jul 15 23:42:43 2005 
+Jul 15 23:42:43 combo ftpd[15337]: connection from 211.107.232.1 () at Fri Jul 15 23:42:43 2005 
+Jul 15 23:42:43 combo ftpd[15334]: connection from 211.107.232.1 () at Fri Jul 15 23:42:43 2005 
+Jul 15 23:42:43 combo ftpd[15335]: connection from 211.107.232.1 () at Fri Jul 15 23:42:43 2005 
+Jul 15 23:42:43 combo ftpd[15338]: connection from 211.107.232.1 () at Fri Jul 15 23:42:43 2005 
+Jul 15 23:42:43 combo ftpd[15336]: connection from 211.107.232.1 () at Fri Jul 15 23:42:43 2005 
+Jul 15 23:42:43 combo ftpd[15341]: connection from 211.107.232.1 () at Fri Jul 15 23:42:43 2005 
+Jul 15 23:42:43 combo ftpd[15340]: connection from 211.107.232.1 () at Fri Jul 15 23:42:43 2005 
+Jul 15 23:42:43 combo ftpd[15327]: connection from 211.107.232.1 () at Fri Jul 15 23:42:43 2005 
+Jul 15 23:42:43 combo ftpd[15333]: connection from 211.107.232.1 () at Fri Jul 15 23:42:43 2005 
+Jul 15 23:42:43 combo ftpd[15323]: connection from 211.107.232.1 () at Fri Jul 15 23:42:43 2005 
+Jul 15 23:42:43 combo ftpd[15330]: connection from 211.107.232.1 () at Fri Jul 15 23:42:43 2005 
+Jul 15 23:42:43 combo ftpd[15322]: connection from 211.107.232.1 () at Fri Jul 15 23:42:43 2005 
+Jul 15 23:42:43 combo ftpd[15324]: connection from 211.107.232.1 () at Fri Jul 15 23:42:43 2005 
+Jul 15 23:42:43 combo ftpd[15329]: connection from 211.107.232.1 () at Fri Jul 15 23:42:43 2005 
+Jul 15 23:42:43 combo ftpd[15332]: connection from 211.107.232.1 () at Fri Jul 15 23:42:43 2005 
+Jul 15 23:42:43 combo ftpd[15328]: connection from 211.107.232.1 () at Fri Jul 15 23:42:43 2005 
+Jul 15 23:42:43 combo ftpd[15321]: connection from 211.107.232.1 () at Fri Jul 15 23:42:43 2005 
+Jul 15 23:42:43 combo ftpd[15326]: connection from 211.107.232.1 () at Fri Jul 15 23:42:43 2005 
+Jul 15 23:42:43 combo ftpd[15325]: connection from 211.107.232.1 () at Fri Jul 15 23:42:43 2005 
+Jul 15 23:42:43 combo ftpd[15331]: connection from 211.107.232.1 () at Fri Jul 15 23:42:43 2005 
+Jul 15 23:42:44 combo ftpd[15342]: connection from 211.107.232.1 () at Fri Jul 15 23:42:44 2005 
+Jul 16 04:07:32 combo su(pam_unix)[16058]: session opened for user cyrus by (uid=0)
+Jul 16 04:07:33 combo su(pam_unix)[16058]: session closed for user cyrus
+Jul 16 04:07:34 combo logrotate: ALERT exited abnormally with [1]
+Jul 16 04:13:59 combo su(pam_unix)[17286]: session opened for user news by (uid=0)
+Jul 16 04:14:00 combo su(pam_unix)[17286]: session closed for user news
+Jul 16 08:14:04 combo ftpd[17669]: connection from 212.65.68.82 () at Sat Jul 16 08:14:04 2005 
+Jul 16 08:14:04 combo ftpd[17670]: connection from 212.65.68.82 () at Sat Jul 16 08:14:04 2005 
+Jul 16 08:14:04 combo ftpd[17667]: connection from 212.65.68.82 () at Sat Jul 16 08:14:04 2005 
+Jul 16 08:14:07 combo ftpd[17673]: connection from 212.65.68.82 () at Sat Jul 16 08:14:07 2005 
+Jul 16 08:14:07 combo ftpd[17668]: connection from 212.65.68.82 () at Sat Jul 16 08:14:07 2005 
+Jul 16 08:14:07 combo ftpd[17671]: connection from 212.65.68.82 () at Sat Jul 16 08:14:07 2005 
+Jul 16 08:14:07 combo ftpd[17681]: connection from 212.65.68.82 () at Sat Jul 16 08:14:07 2005 
+Jul 16 08:14:07 combo ftpd[17680]: connection from 212.65.68.82 () at Sat Jul 16 08:14:07 2005 
+Jul 16 08:14:07 combo ftpd[17672]: connection from 212.65.68.82 () at Sat Jul 16 08:14:07 2005 
+Jul 16 08:14:07 combo ftpd[17687]: connection from 212.65.68.82 () at Sat Jul 16 08:14:07 2005 
+Jul 16 08:14:07 combo ftpd[17678]: connection from 212.65.68.82 () at Sat Jul 16 08:14:07 2005 
+Jul 16 08:14:07 combo ftpd[17675]: connection from 212.65.68.82 () at Sat Jul 16 08:14:07 2005 
+Jul 16 08:14:07 combo ftpd[17688]: connection from 212.65.68.82 () at Sat Jul 16 08:14:07 2005 
+Jul 16 08:14:07 combo ftpd[17677]: connection from 212.65.68.82 () at Sat Jul 16 08:14:07 2005 
+Jul 16 08:14:07 combo ftpd[17682]: connection from 212.65.68.82 () at Sat Jul 16 08:14:07 2005 
+Jul 16 08:14:07 combo ftpd[17683]: connection from 212.65.68.82 () at Sat Jul 16 08:14:07 2005 
+Jul 16 08:14:07 combo ftpd[17684]: connection from 212.65.68.82 () at Sat Jul 16 08:14:07 2005 
+Jul 16 08:14:07 combo ftpd[17685]: connection from 212.65.68.82 () at Sat Jul 16 08:14:07 2005 
+Jul 16 08:14:07 combo ftpd[17686]: connection from 212.65.68.82 () at Sat Jul 16 08:14:07 2005 
+Jul 16 08:14:07 combo ftpd[17676]: connection from 212.65.68.82 () at Sat Jul 16 08:14:07 2005 
+Jul 16 08:14:07 combo ftpd[17674]: connection from 212.65.68.82 () at Sat Jul 16 08:14:07 2005 
+Jul 16 08:14:07 combo ftpd[17689]: connection from 212.65.68.82 () at Sat Jul 16 08:14:07 2005 
+Jul 16 08:14:07 combo ftpd[17679]: connection from 212.65.68.82 () at Sat Jul 16 08:14:07 2005 
+Jul 17 04:06:32 combo ftpd[19675]: connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 04:06:32 2005 
+Jul 17 04:06:32 combo ftpd[19674]: connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 04:06:32 2005 
+Jul 17 04:08:08 combo su(pam_unix)[19686]: session opened for user cyrus by (uid=0)
+Jul 17 04:08:09 combo su(pam_unix)[19686]: session closed for user cyrus
+Jul 17 04:08:10 combo cups: cupsd shutdown succeeded
+Jul 17 04:08:16 combo cups: cupsd startup succeeded
+Jul 17 04:08:23 combo syslogd 1.4.1: restart.
+Jul 17 04:08:23 combo logrotate: ALERT exited abnormally with [1]
+Jul 17 04:13:57 combo su(pam_unix)[20282]: session opened for user news by (uid=0)
+Jul 17 04:13:58 combo su(pam_unix)[20282]: session closed for user news
+Jul 17 06:13:37 combo ftpd[23574]: connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:13:37 2005 
+Jul 17 06:13:37 combo ftpd[23575]: connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:13:37 2005 
+Jul 17 06:13:37 combo ftpd[23573]: connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:13:37 2005 
+Jul 17 06:13:37 combo ftpd[23572]: connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:13:37 2005 
+Jul 17 06:13:37 combo ftpd[23578]: connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:13:37 2005 
+Jul 17 06:13:37 combo ftpd[23577]: connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:13:37 2005 
+Jul 17 06:13:37 combo ftpd[23571]: connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:13:37 2005 
+Jul 17 06:13:37 combo ftpd[23576]: connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:13:37 2005 
+Jul 17 06:13:37 combo ftpd[23564]: connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:13:37 2005 
+Jul 17 06:13:37 combo ftpd[23560]: connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:13:37 2005 
+Jul 17 06:13:37 combo ftpd[23570]: connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:13:37 2005 
+Jul 17 06:13:37 combo ftpd[23568]: connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:13:37 2005 
+Jul 17 06:13:37 combo ftpd[23565]: connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:13:37 2005 
+Jul 17 06:13:37 combo ftpd[23566]: connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:13:37 2005 
+Jul 17 06:13:38 combo ftpd[23562]: connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:13:38 2005 
+Jul 17 06:13:38 combo ftpd[23567]: connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:13:38 2005 
+Jul 17 06:13:38 combo ftpd[23563]: connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:13:38 2005 
+Jul 17 06:13:38 combo ftpd[23561]: connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:13:38 2005 
+Jul 17 06:13:38 combo ftpd[23569]: connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:13:38 2005 
+Jul 17 06:14:36 combo ftpd[23579]: connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:14:36 2005 
+Jul 17 06:14:36 combo ftpd[23580]: connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:14:36 2005 
+Jul 17 06:14:36 combo ftpd[23581]: connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:14:36 2005 
+Jul 17 06:14:36 combo ftpd[23582]: connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:14:36 2005 
+Jul 17 06:14:36 combo ftpd[23583]: connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:14:36 2005 
+Jul 17 06:14:36 combo ftpd[23584]: connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:14:36 2005 
+Jul 17 06:14:36 combo ftpd[23586]: connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:14:36 2005 
+Jul 17 06:14:36 combo ftpd[23585]: connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:14:36 2005 
+Jul 17 06:14:36 combo ftpd[23587]: connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:14:36 2005 
+Jul 17 06:14:36 combo ftpd[23588]: connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:14:36 2005 
+Jul 17 06:14:36 combo ftpd[23589]: connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:14:36 2005 
+Jul 17 08:06:12 combo ftpd[23777]: connection from 218.146.61.230 () at Sun Jul 17 08:06:12 2005 
+Jul 17 08:06:12 combo ftpd[23779]: connection from 218.146.61.230 () at Sun Jul 17 08:06:12 2005 
+Jul 17 08:06:12 combo ftpd[23778]: connection from 218.146.61.230 () at Sun Jul 17 08:06:12 2005 
+Jul 17 08:06:12 combo ftpd[23780]: connection from 218.146.61.230 () at Sun Jul 17 08:06:12 2005 
+Jul 17 08:06:12 combo ftpd[23781]: connection from 218.146.61.230 () at Sun Jul 17 08:06:12 2005 
+Jul 17 08:06:12 combo ftpd[23782]: connection from 218.146.61.230 () at Sun Jul 17 08:06:12 2005 
+Jul 17 08:06:12 combo ftpd[23783]: connection from 218.146.61.230 () at Sun Jul 17 08:06:12 2005 
+Jul 17 08:06:12 combo ftpd[23785]: connection from 218.146.61.230 () at Sun Jul 17 08:06:12 2005 
+Jul 17 08:06:12 combo ftpd[23786]: connection from 218.146.61.230 () at Sun Jul 17 08:06:12 2005 
+Jul 17 08:06:12 combo ftpd[23787]: connection from 218.146.61.230 () at Sun Jul 17 08:06:12 2005 
+Jul 17 08:06:12 combo ftpd[23784]: connection from 218.146.61.230 () at Sun Jul 17 08:06:12 2005 
+Jul 17 08:06:12 combo ftpd[23792]: connection from 218.146.61.230 () at Sun Jul 17 08:06:12 2005 
+Jul 17 08:06:12 combo ftpd[23788]: connection from 218.146.61.230 () at Sun Jul 17 08:06:12 2005 
+Jul 17 08:06:12 combo ftpd[23793]: connection from 218.146.61.230 () at Sun Jul 17 08:06:12 2005 
+Jul 17 08:06:12 combo ftpd[23789]: connection from 218.146.61.230 () at Sun Jul 17 08:06:12 2005 
+Jul 17 08:06:12 combo ftpd[23790]: connection from 218.146.61.230 () at Sun Jul 17 08:06:12 2005 
+Jul 17 08:06:12 combo ftpd[23791]: connection from 218.146.61.230 () at Sun Jul 17 08:06:12 2005 
+Jul 17 08:06:12 combo ftpd[23794]: connection from 218.146.61.230 () at Sun Jul 17 08:06:12 2005 
+Jul 17 08:06:12 combo ftpd[23795]: connection from 218.146.61.230 () at Sun Jul 17 08:06:12 2005 
+Jul 17 08:06:12 combo ftpd[23796]: connection from 218.146.61.230 () at Sun Jul 17 08:06:12 2005 
+Jul 17 08:06:12 combo ftpd[23797]: connection from 218.146.61.230 () at Sun Jul 17 08:06:12 2005 
+Jul 17 08:06:12 combo ftpd[23798]: connection from 218.146.61.230 () at Sun Jul 17 08:06:12 2005 
+Jul 17 08:06:14 combo ftpd[23799]: connection from 218.146.61.230 () at Sun Jul 17 08:06:14 2005 
+Jul 17 09:44:07 combo ftpd[23931]: connection from 210.245.165.136 () at Sun Jul 17 09:44:07 2005 
+Jul 17 09:44:07 combo ftpd[23933]: connection from 210.245.165.136 () at Sun Jul 17 09:44:07 2005 
+Jul 17 09:44:07 combo ftpd[23932]: connection from 210.245.165.136 () at Sun Jul 17 09:44:07 2005 
+Jul 17 09:44:07 combo ftpd[23934]: connection from 210.245.165.136 () at Sun Jul 17 09:44:07 2005 
+Jul 17 09:44:07 combo ftpd[23935]: connection from 210.245.165.136 () at Sun Jul 17 09:44:07 2005 
+Jul 17 09:44:07 combo ftpd[23937]: connection from 210.245.165.136 () at Sun Jul 17 09:44:07 2005 
+Jul 17 09:44:07 combo ftpd[23938]: connection from 210.245.165.136 () at Sun Jul 17 09:44:07 2005 
+Jul 17 09:44:07 combo ftpd[23936]: connection from 210.245.165.136 () at Sun Jul 17 09:44:07 2005 
+Jul 17 09:44:07 combo ftpd[23939]: connection from 210.245.165.136 () at Sun Jul 17 09:44:07 2005 
+Jul 17 10:45:07 combo sshd(pam_unix)[24031]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61-220-159-99.hinet-ip.hinet.net  user=root
+Jul 17 10:45:07 combo sshd(pam_unix)[24033]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61-220-159-99.hinet-ip.hinet.net  user=root
+Jul 17 10:45:07 combo sshd(pam_unix)[24030]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61-220-159-99.hinet-ip.hinet.net  user=root
+Jul 17 12:30:35 combo ftpd[24192]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 12:30:35 2005 
+Jul 17 12:30:37 combo ftpd[24193]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 12:30:37 2005 
+Jul 17 12:30:42 combo ftpd[24194]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 12:30:42 2005 
+Jul 17 12:30:43 combo ftpd[24195]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 12:30:43 2005 
+Jul 17 12:30:43 combo ftpd[24196]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 12:30:43 2005 
+Jul 17 12:30:46 combo ftpd[24197]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 12:30:46 2005 
+Jul 17 12:30:47 combo ftpd[24198]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 12:30:47 2005 
+Jul 17 12:30:48 combo ftpd[24199]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 12:30:48 2005 
+Jul 17 12:30:48 combo ftpd[24200]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 12:30:48 2005 
+Jul 17 12:30:51 combo ftpd[24201]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 12:30:51 2005 
+Jul 17 12:30:53 combo ftpd[24202]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 12:30:53 2005 
+Jul 17 12:30:53 combo ftpd[24203]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 12:30:53 2005 
+Jul 17 12:30:54 combo ftpd[24204]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 12:30:54 2005 
+Jul 17 12:30:57 combo ftpd[24205]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 12:30:57 2005 
+Jul 17 12:30:57 combo ftpd[24206]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 12:30:57 2005 
+Jul 17 12:30:58 combo ftpd[24207]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 12:30:58 2005 
+Jul 17 12:30:58 combo ftpd[24208]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 12:30:58 2005 
+Jul 17 12:30:58 combo ftpd[24209]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 12:30:58 2005 
+Jul 17 12:30:59 combo ftpd[24210]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 12:30:59 2005 
+Jul 17 12:30:59 combo ftpd[24211]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 12:30:59 2005 
+Jul 17 12:30:59 combo ftpd[24212]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 12:30:59 2005 
+Jul 17 12:31:00 combo ftpd[24213]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 12:31:00 2005 
+Jul 17 12:31:04 combo ftpd[24214]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 12:31:04 2005 
+Jul 17 14:02:39 combo ftpd[24356]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 14:02:39 2005 
+Jul 17 14:02:43 combo ftpd[24357]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 14:02:43 2005 
+Jul 17 14:02:43 combo ftpd[24358]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 14:02:43 2005 
+Jul 17 14:02:44 combo ftpd[24359]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 14:02:44 2005 
+Jul 17 14:02:47 combo ftpd[24360]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 14:02:47 2005 
+Jul 17 14:02:48 combo ftpd[24361]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 14:02:48 2005 
+Jul 17 14:02:49 combo ftpd[24362]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 14:02:49 2005 
+Jul 17 14:02:49 combo ftpd[24363]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 14:02:49 2005 
+Jul 17 14:02:49 combo ftpd[24364]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 14:02:49 2005 
+Jul 17 14:02:49 combo ftpd[24365]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 14:02:49 2005 
+Jul 17 14:02:54 combo ftpd[24366]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 14:02:54 2005 
+Jul 17 14:02:54 combo ftpd[24367]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 14:02:54 2005 
+Jul 17 14:02:54 combo ftpd[24368]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 14:02:54 2005 
+Jul 17 14:02:55 combo ftpd[24369]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 14:02:55 2005 
+Jul 17 14:02:57 combo ftpd[24370]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 14:02:57 2005 
+Jul 17 14:02:59 combo ftpd[24371]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 14:02:59 2005 
+Jul 17 14:02:59 combo ftpd[24372]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 14:02:59 2005 
+Jul 17 14:03:00 combo ftpd[24373]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 14:03:00 2005 
+Jul 17 14:03:00 combo ftpd[24374]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 14:03:00 2005 
+Jul 17 14:03:00 combo ftpd[24375]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 14:03:00 2005 
+Jul 17 14:03:04 combo ftpd[24376]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 14:03:04 2005 
+Jul 17 14:03:04 combo ftpd[24377]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 14:03:04 2005 
+Jul 17 14:03:05 combo ftpd[24378]: connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 14:03:05 2005 
+Jul 17 15:09:15 combo ftpd[24465]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul 17 15:09:15 2005 
+Jul 17 15:09:15 combo ftpd[24466]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul 17 15:09:15 2005 
+Jul 17 15:09:15 combo ftpd[24467]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul 17 15:09:15 2005 
+Jul 17 15:09:15 combo ftpd[24468]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul 17 15:09:15 2005 
+Jul 17 15:09:15 combo ftpd[24469]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul 17 15:09:15 2005 
+Jul 17 15:09:15 combo ftpd[24470]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul 17 15:09:15 2005 
+Jul 17 15:09:15 combo ftpd[24471]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul 17 15:09:15 2005 
+Jul 17 15:09:15 combo ftpd[24473]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul 17 15:09:15 2005 
+Jul 17 15:09:15 combo ftpd[24474]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul 17 15:09:15 2005 
+Jul 17 15:09:15 combo ftpd[24475]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul 17 15:09:15 2005 
+Jul 17 15:09:15 combo ftpd[24472]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul 17 15:09:15 2005 
+Jul 17 15:09:15 combo ftpd[24477]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul 17 15:09:15 2005 
+Jul 17 15:09:15 combo ftpd[24478]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul 17 15:09:15 2005 
+Jul 17 15:09:15 combo ftpd[24476]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul 17 15:09:15 2005 
+Jul 17 15:09:15 combo ftpd[24480]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul 17 15:09:15 2005 
+Jul 17 15:09:15 combo ftpd[24479]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul 17 15:09:15 2005 
+Jul 17 15:09:15 combo ftpd[24481]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul 17 15:09:15 2005 
+Jul 17 15:09:15 combo ftpd[24482]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul 17 15:09:15 2005 
+Jul 17 15:09:16 combo ftpd[24483]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul 17 15:09:16 2005 
+Jul 17 15:09:16 combo ftpd[24484]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul 17 15:09:16 2005 
+Jul 17 15:09:16 combo ftpd[24485]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul 17 15:09:16 2005 
+Jul 17 15:09:16 combo ftpd[24486]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul 17 15:09:16 2005 
+Jul 17 15:09:17 combo ftpd[24487]: connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul 17 15:09:17 2005 
+Jul 17 21:23:20 combo ftpd[25038]: connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun Jul 17 21:23:20 2005 
+Jul 17 21:23:20 combo ftpd[25028]: connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun Jul 17 21:23:20 2005 
+Jul 17 21:23:20 combo ftpd[25029]: connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun Jul 17 21:23:20 2005 
+Jul 17 21:23:20 combo ftpd[25035]: connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun Jul 17 21:23:20 2005 
+Jul 17 21:23:20 combo ftpd[25030]: connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun Jul 17 21:23:20 2005 
+Jul 17 21:23:20 combo ftpd[25039]: connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun Jul 17 21:23:20 2005 
+Jul 17 21:23:20 combo ftpd[25040]: connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun Jul 17 21:23:20 2005 
+Jul 17 21:23:20 combo ftpd[25031]: connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun Jul 17 21:23:20 2005 
+Jul 17 21:23:20 combo ftpd[25041]: connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun Jul 17 21:23:20 2005 
+Jul 17 21:23:20 combo ftpd[25032]: connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun Jul 17 21:23:20 2005 
+Jul 17 21:23:20 combo ftpd[25042]: connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun Jul 17 21:23:20 2005 
+Jul 17 21:23:20 combo ftpd[25033]: connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun Jul 17 21:23:20 2005 
+Jul 17 21:23:20 combo ftpd[25043]: connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun Jul 17 21:23:20 2005 
+Jul 17 21:23:20 combo ftpd[25034]: connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun Jul 17 21:23:20 2005 
+Jul 17 21:23:20 combo ftpd[25036]: connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun Jul 17 21:23:20 2005 
+Jul 17 21:23:20 combo ftpd[25037]: connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun Jul 17 21:23:20 2005 
+Jul 17 21:23:23 combo ftpd[25044]: connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun Jul 17 21:23:23 2005 
+Jul 17 21:23:24 combo ftpd[25045]: connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun Jul 17 21:23:24 2005 
+Jul 17 21:23:24 combo ftpd[25046]: connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun Jul 17 21:23:24 2005 
+Jul 17 21:23:24 combo ftpd[25047]: connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun Jul 17 21:23:24 2005 
+Jul 17 21:23:24 combo ftpd[25048]: connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun Jul 17 21:23:24 2005 
+Jul 17 21:23:24 combo ftpd[25049]: connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun Jul 17 21:23:24 2005 
+Jul 17 21:23:24 combo ftpd[25050]: connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun Jul 17 21:23:24 2005 
+Jul 17 23:21:50 combo ftpd[25217]: connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun Jul 17 23:21:50 2005 
+Jul 17 23:21:54 combo ftpd[25218]: connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun Jul 17 23:21:54 2005 
+Jul 17 23:21:54 combo ftpd[25219]: connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun Jul 17 23:21:54 2005 
+Jul 17 23:21:54 combo ftpd[25220]: connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun Jul 17 23:21:54 2005 
+Jul 17 23:21:54 combo ftpd[25221]: connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun Jul 17 23:21:54 2005 
+Jul 17 23:21:54 combo ftpd[25222]: connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun Jul 17 23:21:54 2005 
+Jul 17 23:21:54 combo ftpd[25223]: connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun Jul 17 23:21:54 2005 
+Jul 17 23:21:54 combo ftpd[25225]: connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun Jul 17 23:21:54 2005 
+Jul 17 23:21:54 combo ftpd[25224]: connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun Jul 17 23:21:54 2005 
+Jul 17 23:21:54 combo ftpd[25226]: connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun Jul 17 23:21:54 2005 
+Jul 17 23:21:54 combo ftpd[25227]: connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun Jul 17 23:21:54 2005 
+Jul 17 23:21:54 combo ftpd[25228]: connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun Jul 17 23:21:54 2005 
+Jul 17 23:21:54 combo ftpd[25229]: connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun Jul 17 23:21:54 2005 
+Jul 17 23:21:54 combo ftpd[25230]: connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun Jul 17 23:21:54 2005 
+Jul 17 23:21:54 combo ftpd[25231]: connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun Jul 17 23:21:54 2005 
+Jul 17 23:21:54 combo ftpd[25232]: connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun Jul 17 23:21:54 2005 
+Jul 17 23:21:54 combo ftpd[25233]: connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun Jul 17 23:21:54 2005 
+Jul 17 23:21:54 combo ftpd[25234]: connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun Jul 17 23:21:54 2005 
+Jul 17 23:21:54 combo ftpd[25235]: connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun Jul 17 23:21:54 2005 
+Jul 17 23:21:54 combo ftpd[25236]: connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun Jul 17 23:21:54 2005 
+Jul 17 23:21:54 combo ftpd[25237]: connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun Jul 17 23:21:54 2005 
+Jul 17 23:21:54 combo ftpd[25238]: connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun Jul 17 23:21:54 2005 
+Jul 17 23:21:54 combo ftpd[25239]: connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun Jul 17 23:21:54 2005 
+Jul 18 03:26:48 combo ftpd[25628]: connection from 211.72.151.162 () at Mon Jul 18 03:26:48 2005 
+Jul 18 03:26:48 combo ftpd[25629]: connection from 211.72.151.162 () at Mon Jul 18 03:26:48 2005 
+Jul 18 03:26:48 combo ftpd[25630]: connection from 211.72.151.162 () at Mon Jul 18 03:26:48 2005 
+Jul 18 03:26:48 combo ftpd[25631]: connection from 211.72.151.162 () at Mon Jul 18 03:26:48 2005 
+Jul 18 03:26:48 combo ftpd[25632]: connection from 211.72.151.162 () at Mon Jul 18 03:26:48 2005 
+Jul 18 03:26:48 combo ftpd[25633]: connection from 211.72.151.162 () at Mon Jul 18 03:26:48 2005 
+Jul 18 03:26:48 combo ftpd[25634]: connection from 211.72.151.162 () at Mon Jul 18 03:26:48 2005 
+Jul 18 03:26:48 combo ftpd[25635]: connection from 211.72.151.162 () at Mon Jul 18 03:26:48 2005 
+Jul 18 03:26:49 combo ftpd[25638]: connection from 211.72.151.162 () at Mon Jul 18 03:26:49 2005 
+Jul 18 03:26:49 combo ftpd[25636]: connection from 211.72.151.162 () at Mon Jul 18 03:26:49 2005 
+Jul 18 03:26:49 combo ftpd[25637]: connection from 211.72.151.162 () at Mon Jul 18 03:26:49 2005 
+Jul 18 03:26:49 combo ftpd[25639]: connection from 211.72.151.162 () at Mon Jul 18 03:26:49 2005 
+Jul 18 03:26:49 combo ftpd[25640]: connection from 211.72.151.162 () at Mon Jul 18 03:26:49 2005 
+Jul 18 03:26:49 combo ftpd[25641]: connection from 211.72.151.162 () at Mon Jul 18 03:26:49 2005 
+Jul 18 03:26:49 combo ftpd[25643]: connection from 211.72.151.162 () at Mon Jul 18 03:26:49 2005 
+Jul 18 03:26:49 combo ftpd[25644]: connection from 211.72.151.162 () at Mon Jul 18 03:26:49 2005 
+Jul 18 03:26:49 combo ftpd[25645]: connection from 211.72.151.162 () at Mon Jul 18 03:26:49 2005 
+Jul 18 03:26:49 combo ftpd[25642]: connection from 211.72.151.162 () at Mon Jul 18 03:26:49 2005 
+Jul 18 03:26:49 combo ftpd[25646]: connection from 211.72.151.162 () at Mon Jul 18 03:26:49 2005 
+Jul 18 03:26:49 combo ftpd[25648]: connection from 211.72.151.162 () at Mon Jul 18 03:26:49 2005 
+Jul 18 03:26:49 combo ftpd[25647]: connection from 211.72.151.162 () at Mon Jul 18 03:26:49 2005 
+Jul 18 04:03:24 combo su(pam_unix)[26046]: session opened for user cyrus by (uid=0)
+Jul 18 04:03:24 combo su(pam_unix)[26046]: session closed for user cyrus
+Jul 18 04:03:25 combo logrotate: ALERT exited abnormally with [1]
+Jul 18 04:09:29 combo su(pam_unix)[27272]: session opened for user news by (uid=0)
+Jul 18 04:09:30 combo su(pam_unix)[27272]: session closed for user news
+Jul 18 23:01:25 combo sshd(pam_unix)[28975]: check pass; user unknown
+Jul 18 23:01:25 combo sshd(pam_unix)[28975]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-76-104-65.ebix.net.tw 
+Jul 18 23:01:25 combo sshd(pam_unix)[28977]: check pass; user unknown
+Jul 18 23:01:25 combo sshd(pam_unix)[28977]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-76-104-65.ebix.net.tw 
+Jul 18 23:01:25 combo sshd(pam_unix)[28980]: check pass; user unknown
+Jul 18 23:01:25 combo sshd(pam_unix)[28980]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-76-104-65.ebix.net.tw 
+Jul 18 23:01:25 combo sshd(pam_unix)[28978]: check pass; user unknown
+Jul 18 23:01:25 combo sshd(pam_unix)[28978]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-76-104-65.ebix.net.tw 
+Jul 18 23:01:26 combo sshd(pam_unix)[28983]: check pass; user unknown
+Jul 18 23:01:26 combo sshd(pam_unix)[28983]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-76-104-65.ebix.net.tw 
+Jul 18 23:01:27 combo sshd(pam_unix)[28986]: check pass; user unknown
+Jul 18 23:01:27 combo sshd(pam_unix)[28986]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-76-104-65.ebix.net.tw 
+Jul 18 23:01:27 combo sshd(pam_unix)[28985]: check pass; user unknown
+Jul 18 23:01:27 combo sshd(pam_unix)[28985]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-76-104-65.ebix.net.tw 
+Jul 18 23:01:27 combo sshd(pam_unix)[28987]: check pass; user unknown
+Jul 18 23:01:27 combo sshd(pam_unix)[28987]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-76-104-65.ebix.net.tw 
+Jul 18 23:01:27 combo sshd(pam_unix)[28988]: check pass; user unknown
+Jul 18 23:01:27 combo sshd(pam_unix)[28988]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-76-104-65.ebix.net.tw 
+Jul 18 23:01:27 combo sshd(pam_unix)[28991]: check pass; user unknown
+Jul 18 23:01:27 combo sshd(pam_unix)[28991]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-76-104-65.ebix.net.tw 
+Jul 19 04:03:43 combo su(pam_unix)[29758]: session opened for user cyrus by (uid=0)
+Jul 19 04:03:44 combo su(pam_unix)[29758]: session closed for user cyrus
+Jul 19 04:03:45 combo logrotate: ALERT exited abnormally with [1]
+Jul 19 04:09:28 combo su(pam_unix)[30128]: session opened for user news by (uid=0)
+Jul 19 04:09:29 combo su(pam_unix)[30128]: session closed for user news
+Jul 19 07:35:41 combo sshd(pam_unix)[30500]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.181.236.180  user=root
+Jul 19 07:35:41 combo sshd(pam_unix)[30510]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.181.236.180  user=root
+Jul 19 07:35:41 combo sshd(pam_unix)[30499]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.181.236.180  user=root
+Jul 19 07:35:41 combo sshd(pam_unix)[30503]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.181.236.180  user=root
+Jul 19 07:35:41 combo sshd(pam_unix)[30505]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.181.236.180  user=root
+Jul 19 07:35:41 combo sshd(pam_unix)[30501]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.181.236.180  user=root
+Jul 19 07:35:41 combo sshd(pam_unix)[30504]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.181.236.180  user=root
+Jul 19 07:35:41 combo sshd(pam_unix)[30498]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.181.236.180  user=root
+Jul 19 07:35:41 combo sshd(pam_unix)[30511]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.181.236.180  user=root
+Jul 19 07:35:41 combo sshd(pam_unix)[30508]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.181.236.180  user=root
+Jul 20 04:05:02 combo su(pam_unix)[363]: session opened for user cyrus by (uid=0)
+Jul 20 04:05:03 combo su(pam_unix)[363]: session closed for user cyrus
+Jul 20 04:05:04 combo logrotate: ALERT exited abnormally with [1]
+Jul 20 04:11:27 combo su(pam_unix)[1595]: session opened for user news by (uid=0)
+Jul 20 04:11:28 combo su(pam_unix)[1595]: session closed for user news
+Jul 20 23:37:40 combo sshd(pam_unix)[3307]: check pass; user unknown
+Jul 20 23:37:40 combo sshd(pam_unix)[3307]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.55.234.102 
+Jul 20 23:37:40 combo sshd(pam_unix)[3306]: check pass; user unknown
+Jul 20 23:37:40 combo sshd(pam_unix)[3306]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.55.234.102 
+Jul 20 23:37:40 combo sshd(pam_unix)[3308]: check pass; user unknown
+Jul 20 23:37:40 combo sshd(pam_unix)[3308]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.55.234.102 
+Jul 20 23:37:46 combo sshd(pam_unix)[3313]: check pass; user unknown
+Jul 20 23:37:46 combo sshd(pam_unix)[3313]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.55.234.102 
+Jul 20 23:37:46 combo sshd(pam_unix)[3312]: check pass; user unknown
+Jul 20 23:37:46 combo sshd(pam_unix)[3312]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.55.234.102 
+Jul 21 01:30:45 combo sshd(pam_unix)[3489]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.76.59.29  user=root
+Jul 21 01:30:49 combo sshd(pam_unix)[3493]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.76.59.29  user=root
+Jul 21 01:30:50 combo sshd(pam_unix)[3488]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.76.59.29  user=root
+Jul 21 01:30:50 combo sshd(pam_unix)[3487]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.76.59.29  user=root
+Jul 21 04:11:26 combo su(pam_unix)[4170]: session opened for user cyrus by (uid=0)
+Jul 21 04:11:27 combo su(pam_unix)[4170]: session closed for user cyrus
+Jul 21 04:11:28 combo logrotate: ALERT exited abnormally with [1]
+Jul 21 04:16:55 combo su(pam_unix)[4540]: session opened for user news by (uid=0)
+Jul 21 04:16:55 combo su(pam_unix)[4540]: session closed for user news
+Jul 21 09:04:41 combo ftpd[5033]: connection from 216.12.111.241 () at Thu Jul 21 09:04:41 2005 
+Jul 21 09:04:41 combo ftpd[5032]: connection from 216.12.111.241 () at Thu Jul 21 09:04:41 2005 
+Jul 21 09:04:41 combo ftpd[5030]: connection from 216.12.111.241 () at Thu Jul 21 09:04:41 2005 
+Jul 21 09:04:41 combo ftpd[5029]: connection from 216.12.111.241 () at Thu Jul 21 09:04:41 2005 
+Jul 21 09:04:41 combo ftpd[5018]: connection from 216.12.111.241 () at Thu Jul 21 09:04:41 2005 
+Jul 21 09:04:41 combo ftpd[5017]: connection from 216.12.111.241 () at Thu Jul 21 09:04:41 2005 
+Jul 21 09:04:41 combo ftpd[5016]: connection from 216.12.111.241 () at Thu Jul 21 09:04:41 2005 
+Jul 21 09:04:41 combo ftpd[5019]: connection from 216.12.111.241 () at Thu Jul 21 09:04:41 2005 
+Jul 21 09:04:41 combo ftpd[5022]: connection from 216.12.111.241 () at Thu Jul 21 09:04:41 2005 
+Jul 21 09:04:41 combo ftpd[5023]: connection from 216.12.111.241 () at Thu Jul 21 09:04:41 2005 
+Jul 21 09:04:41 combo ftpd[5024]: connection from 216.12.111.241 () at Thu Jul 21 09:04:41 2005 
+Jul 21 09:04:41 combo ftpd[5025]: connection from 216.12.111.241 () at Thu Jul 21 09:04:41 2005 
+Jul 21 09:04:41 combo ftpd[5028]: connection from 216.12.111.241 () at Thu Jul 21 09:04:41 2005 
+Jul 21 09:04:41 combo ftpd[5031]: connection from 216.12.111.241 () at Thu Jul 21 09:04:41 2005 
+Jul 21 09:04:41 combo ftpd[5020]: connection from 216.12.111.241 () at Thu Jul 21 09:04:41 2005 
+Jul 21 09:04:41 combo ftpd[5021]: connection from 216.12.111.241 () at Thu Jul 21 09:04:41 2005 
+Jul 21 09:04:41 combo ftpd[5027]: connection from 216.12.111.241 () at Thu Jul 21 09:04:41 2005 
+Jul 21 09:04:41 combo ftpd[5026]: connection from 216.12.111.241 () at Thu Jul 21 09:04:41 2005 
+Jul 21 09:04:41 combo ftpd[5035]: connection from 216.12.111.241 () at Thu Jul 21 09:04:41 2005 
+Jul 21 09:04:41 combo ftpd[5037]: connection from 216.12.111.241 () at Thu Jul 21 09:04:41 2005 
+Jul 21 09:04:41 combo ftpd[5034]: connection from 216.12.111.241 () at Thu Jul 21 09:04:41 2005 
+Jul 21 09:04:41 combo ftpd[5036]: connection from 216.12.111.241 () at Thu Jul 21 09:04:41 2005 
+Jul 21 09:04:43 combo ftpd[5038]: connection from 216.12.111.241 () at Thu Jul 21 09:04:43 2005 
+Jul 21 15:18:30 combo sshd(pam_unix)[5587]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=193.110.106.11  user=root
+Jul 21 15:18:30 combo sshd(pam_unix)[5586]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=193.110.106.11  user=root
+Jul 22 04:07:46 combo su(pam_unix)[7106]: session opened for user cyrus by (uid=0)
+Jul 22 04:07:47 combo su(pam_unix)[7106]: session closed for user cyrus
+Jul 22 04:07:47 combo logrotate: ALERT exited abnormally with [1]
+Jul 22 04:15:14 combo su(pam_unix)[11756]: session opened for user news by (uid=0)
+Jul 22 04:15:14 combo su(pam_unix)[11756]: session closed for user news
+Jul 22 09:27:24 combo ftpd[12294]: connection from 211.42.188.206 () at Fri Jul 22 09:27:24 2005 
+Jul 22 09:27:24 combo ftpd[12290]: connection from 211.42.188.206 () at Fri Jul 22 09:27:24 2005 
+Jul 22 09:27:24 combo ftpd[12296]: connection from 211.42.188.206 () at Fri Jul 22 09:27:24 2005 
+Jul 22 09:27:24 combo ftpd[12297]: connection from 211.42.188.206 () at Fri Jul 22 09:27:24 2005 
+Jul 22 09:27:24 combo ftpd[12291]: connection from 211.42.188.206 () at Fri Jul 22 09:27:24 2005 
+Jul 22 09:27:24 combo ftpd[12293]: connection from 211.42.188.206 () at Fri Jul 22 09:27:24 2005 
+Jul 22 09:27:24 combo ftpd[12295]: connection from 211.42.188.206 () at Fri Jul 22 09:27:24 2005 
+Jul 22 09:27:24 combo ftpd[12292]: connection from 211.42.188.206 () at Fri Jul 22 09:27:24 2005 
+Jul 22 09:27:24 combo ftpd[12282]: connection from 211.42.188.206 () at Fri Jul 22 09:27:24 2005 
+Jul 22 09:27:24 combo ftpd[12288]: connection from 211.42.188.206 () at Fri Jul 22 09:27:24 2005 
+Jul 22 09:27:24 combo ftpd[12284]: connection from 211.42.188.206 () at Fri Jul 22 09:27:24 2005 
+Jul 22 09:27:24 combo ftpd[12279]: connection from 211.42.188.206 () at Fri Jul 22 09:27:24 2005 
+Jul 22 09:27:24 combo ftpd[12285]: connection from 211.42.188.206 () at Fri Jul 22 09:27:24 2005 
+Jul 22 09:27:24 combo ftpd[12286]: connection from 211.42.188.206 () at Fri Jul 22 09:27:24 2005 
+Jul 22 09:27:24 combo ftpd[12278]: connection from 211.42.188.206 () at Fri Jul 22 09:27:24 2005 
+Jul 22 09:27:24 combo ftpd[12277]: connection from 211.42.188.206 () at Fri Jul 22 09:27:24 2005 
+Jul 22 09:27:24 combo ftpd[12280]: connection from 211.42.188.206 () at Fri Jul 22 09:27:24 2005 
+Jul 22 09:27:24 combo ftpd[12289]: connection from 211.42.188.206 () at Fri Jul 22 09:27:24 2005 
+Jul 22 09:27:24 combo ftpd[12281]: connection from 211.42.188.206 () at Fri Jul 22 09:27:24 2005 
+Jul 22 09:27:24 combo ftpd[12283]: connection from 211.42.188.206 () at Fri Jul 22 09:27:24 2005 
+Jul 22 09:27:24 combo ftpd[12287]: connection from 211.42.188.206 () at Fri Jul 22 09:27:24 2005 
+Jul 22 09:27:24 combo ftpd[12298]: connection from 211.42.188.206 () at Fri Jul 22 09:27:24 2005 
+Jul 22 09:27:24 combo ftpd[12299]: connection from 211.42.188.206 () at Fri Jul 22 09:27:24 2005 
+Jul 22 19:29:09 combo ftpd[13152]: connection from 67.95.49.172 () at Fri Jul 22 19:29:09 2005 
+Jul 22 19:29:09 combo ftpd[13150]: connection from 67.95.49.172 () at Fri Jul 22 19:29:09 2005 
+Jul 22 19:29:09 combo ftpd[13147]: connection from 67.95.49.172 () at Fri Jul 22 19:29:09 2005 
+Jul 22 19:29:09 combo ftpd[13149]: connection from 67.95.49.172 () at Fri Jul 22 19:29:09 2005 
+Jul 22 19:29:09 combo ftpd[13148]: connection from 67.95.49.172 () at Fri Jul 22 19:29:09 2005 
+Jul 22 19:29:09 combo ftpd[13151]: connection from 67.95.49.172 () at Fri Jul 22 19:29:09 2005 
+Jul 22 19:29:09 combo ftpd[13153]: connection from 67.95.49.172 () at Fri Jul 22 19:29:09 2005 
+Jul 22 19:29:09 combo ftpd[13141]: connection from 67.95.49.172 () at Fri Jul 22 19:29:09 2005 
+Jul 22 19:29:09 combo ftpd[13146]: connection from 67.95.49.172 () at Fri Jul 22 19:29:09 2005 
+Jul 22 19:29:09 combo ftpd[13140]: connection from 67.95.49.172 () at Fri Jul 22 19:29:09 2005 
+Jul 22 19:29:09 combo ftpd[13142]: connection from 67.95.49.172 () at Fri Jul 22 19:29:09 2005 
+Jul 22 19:29:09 combo ftpd[13143]: connection from 67.95.49.172 () at Fri Jul 22 19:29:09 2005 
+Jul 22 19:29:09 combo ftpd[13145]: connection from 67.95.49.172 () at Fri Jul 22 19:29:09 2005 
+Jul 22 19:29:09 combo ftpd[13144]: connection from 67.95.49.172 () at Fri Jul 22 19:29:09 2005 
+Jul 22 19:29:09 combo ftpd[13154]: connection from 67.95.49.172 () at Fri Jul 22 19:29:09 2005 
+Jul 22 19:29:09 combo ftpd[13155]: connection from 67.95.49.172 () at Fri Jul 22 19:29:09 2005 
+Jul 22 19:29:09 combo ftpd[13156]: connection from 67.95.49.172 () at Fri Jul 22 19:29:09 2005 
+Jul 22 19:29:09 combo ftpd[13157]: connection from 67.95.49.172 () at Fri Jul 22 19:29:09 2005 
+Jul 22 19:29:09 combo ftpd[13158]: connection from 67.95.49.172 () at Fri Jul 22 19:29:09 2005 
+Jul 22 19:29:09 combo ftpd[13159]: connection from 67.95.49.172 () at Fri Jul 22 19:29:09 2005 
+Jul 22 19:29:09 combo ftpd[13160]: connection from 67.95.49.172 () at Fri Jul 22 19:29:09 2005 
+Jul 22 19:29:09 combo ftpd[13161]: connection from 67.95.49.172 () at Fri Jul 22 19:29:09 2005 
+Jul 22 19:29:10 combo ftpd[13162]: connection from 67.95.49.172 () at Fri Jul 22 19:29:10 2005 
+Jul 23 04:09:35 combo su(pam_unix)[14314]: session opened for user cyrus by (uid=0)
+Jul 23 04:09:36 combo su(pam_unix)[14314]: session closed for user cyrus
+Jul 23 04:09:37 combo logrotate: ALERT exited abnormally with [1]
+Jul 23 04:15:13 combo su(pam_unix)[14692]: session opened for user news by (uid=0)
+Jul 23 04:15:13 combo su(pam_unix)[14692]: session closed for user news
+Jul 23 11:46:41 combo sshd(pam_unix)[15385]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=85.44.47.166  user=root
+Jul 23 20:04:41 combo sshd(pam_unix)[16159]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.9.58.217  user=root
+Jul 23 20:04:41 combo sshd(pam_unix)[16158]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.9.58.217  user=root
+Jul 23 20:04:41 combo sshd(pam_unix)[16156]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.9.58.217  user=root
+Jul 23 20:04:41 combo sshd(pam_unix)[16157]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.9.58.217  user=root
+Jul 23 20:04:41 combo sshd(pam_unix)[16162]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.9.58.217  user=root
+Jul 23 20:04:41 combo sshd(pam_unix)[16155]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.9.58.217  user=root
+Jul 23 20:04:41 combo sshd(pam_unix)[16160]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.9.58.217  user=root
+Jul 23 20:04:41 combo sshd(pam_unix)[16154]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.9.58.217  user=root
+Jul 23 20:04:42 combo sshd(pam_unix)[16161]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.9.58.217  user=root
+Jul 23 20:04:42 combo sshd(pam_unix)[16153]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.9.58.217  user=root
+Jul 24 02:38:22 combo ftpd[16773]: connection from 84.102.20.2 () at Sun Jul 24 02:38:22 2005 
+Jul 24 02:38:22 combo ftpd[16789]: connection from 84.102.20.2 () at Sun Jul 24 02:38:22 2005 
+Jul 24 02:38:22 combo ftpd[16783]: connection from 84.102.20.2 () at Sun Jul 24 02:38:22 2005 
+Jul 24 02:38:22 combo ftpd[16792]: connection from 84.102.20.2 () at Sun Jul 24 02:38:22 2005 
+Jul 24 02:38:22 combo ftpd[16784]: connection from 84.102.20.2 () at Sun Jul 24 02:38:22 2005 
+Jul 24 02:38:22 combo ftpd[16781]: connection from 84.102.20.2 () at Sun Jul 24 02:38:22 2005 
+Jul 24 02:38:22 combo ftpd[16786]: connection from 84.102.20.2 () at Sun Jul 24 02:38:22 2005 
+Jul 24 02:38:22 combo ftpd[16788]: connection from 84.102.20.2 () at Sun Jul 24 02:38:22 2005 
+Jul 24 02:38:22 combo ftpd[16785]: connection from 84.102.20.2 () at Sun Jul 24 02:38:22 2005 
+Jul 24 02:38:22 combo ftpd[16790]: connection from 84.102.20.2 () at Sun Jul 24 02:38:22 2005 
+Jul 24 02:38:22 combo ftpd[16780]: connection from 84.102.20.2 () at Sun Jul 24 02:38:22 2005 
+Jul 24 02:38:22 combo ftpd[16779]: connection from 84.102.20.2 () at Sun Jul 24 02:38:22 2005 
+Jul 24 02:38:22 combo ftpd[16782]: connection from 84.102.20.2 () at Sun Jul 24 02:38:22 2005 
+Jul 24 02:38:22 combo ftpd[16787]: connection from 84.102.20.2 () at Sun Jul 24 02:38:22 2005 
+Jul 24 02:38:22 combo ftpd[16774]: connection from 84.102.20.2 () at Sun Jul 24 02:38:22 2005 
+Jul 24 02:38:22 combo ftpd[16772]: connection from 84.102.20.2 () at Sun Jul 24 02:38:22 2005 
+Jul 24 02:38:22 combo ftpd[16775]: connection from 84.102.20.2 () at Sun Jul 24 02:38:22 2005 
+Jul 24 02:38:22 combo ftpd[16778]: connection from 84.102.20.2 () at Sun Jul 24 02:38:22 2005 
+Jul 24 02:38:22 combo ftpd[16776]: connection from 84.102.20.2 () at Sun Jul 24 02:38:22 2005 
+Jul 24 02:38:22 combo ftpd[16777]: connection from 84.102.20.2 () at Sun Jul 24 02:38:22 2005 
+Jul 24 02:38:22 combo ftpd[16791]: connection from 84.102.20.2 () at Sun Jul 24 02:38:22 2005 
+Jul 24 02:38:22 combo ftpd[16793]: connection from 84.102.20.2 () at Sun Jul 24 02:38:22 2005 
+Jul 24 02:38:22 combo ftpd[16794]: connection from 84.102.20.2 () at Sun Jul 24 02:38:22 2005 
+Jul 24 02:38:23 combo ftpd[16781]: ANONYMOUS FTP LOGIN FROM 84.102.20.2,  (anonymous)
+Jul 24 02:38:23 combo ftpd[16782]: ANONYMOUS FTP LOGIN FROM 84.102.20.2,  (anonymous)
+Jul 24 04:20:19 combo su(pam_unix)[17283]: session opened for user cyrus by (uid=0)
+Jul 24 04:20:19 combo su(pam_unix)[17283]: session closed for user cyrus
+Jul 24 04:20:21 combo cups: cupsd shutdown succeeded
+Jul 24 04:20:26 combo cups: cupsd startup succeeded
+Jul 24 04:20:42 combo syslogd 1.4.1: restart.
+Jul 24 04:20:42 combo logrotate: ALERT exited abnormally with [1]
+Jul 24 04:33:57 combo su(pam_unix)[21805]: session opened for user news by (uid=0)
+Jul 24 04:33:58 combo su(pam_unix)[21805]: session closed for user news
+Jul 24 08:31:57 combo sshd(pam_unix)[22185]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.251.225.101  user=root
+Jul 24 08:31:57 combo sshd(pam_unix)[22184]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.251.225.101  user=root
+Jul 24 08:31:59 combo sshd(pam_unix)[22188]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.251.225.101  user=root
+Jul 24 08:31:59 combo sshd(pam_unix)[22189]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.251.225.101  user=root
+Jul 24 08:31:59 combo sshd(pam_unix)[22191]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.251.225.101  user=root
+Jul 24 13:46:32 combo ftpd[22655]: connection from 211.107.232.1 () at Sun Jul 24 13:46:32 2005 
+Jul 24 13:46:32 combo ftpd[22652]: connection from 211.107.232.1 () at Sun Jul 24 13:46:32 2005 
+Jul 24 13:46:32 combo ftpd[22658]: connection from 211.107.232.1 () at Sun Jul 24 13:46:32 2005 
+Jul 24 13:46:32 combo ftpd[22653]: connection from 211.107.232.1 () at Sun Jul 24 13:46:32 2005 
+Jul 24 13:46:32 combo ftpd[22657]: connection from 211.107.232.1 () at Sun Jul 24 13:46:32 2005 
+Jul 24 13:46:32 combo ftpd[22659]: connection from 211.107.232.1 () at Sun Jul 24 13:46:32 2005 
+Jul 24 13:46:32 combo ftpd[22656]: connection from 211.107.232.1 () at Sun Jul 24 13:46:32 2005 
+Jul 24 13:46:32 combo ftpd[22651]: connection from 211.107.232.1 () at Sun Jul 24 13:46:32 2005 
+Jul 24 13:46:32 combo ftpd[22654]: connection from 211.107.232.1 () at Sun Jul 24 13:46:32 2005 
+Jul 24 13:46:34 combo ftpd[22660]: connection from 211.107.232.1 () at Sun Jul 24 13:46:34 2005 
+Jul 24 13:46:34 combo ftpd[22661]: connection from 211.107.232.1 () at Sun Jul 24 13:46:34 2005 
+Jul 24 13:46:34 combo ftpd[22662]: connection from 211.107.232.1 () at Sun Jul 24 13:46:34 2005 
+Jul 24 13:46:34 combo ftpd[22663]: connection from 211.107.232.1 () at Sun Jul 24 13:46:34 2005 
+Jul 24 13:46:34 combo ftpd[22665]: connection from 211.107.232.1 () at Sun Jul 24 13:46:34 2005 
+Jul 24 13:46:34 combo ftpd[22666]: connection from 211.107.232.1 () at Sun Jul 24 13:46:34 2005 
+Jul 24 13:46:34 combo ftpd[22667]: connection from 211.107.232.1 () at Sun Jul 24 13:46:34 2005 
+Jul 24 13:46:34 combo ftpd[22664]: connection from 211.107.232.1 () at Sun Jul 24 13:46:34 2005 
+Jul 24 13:46:34 combo ftpd[22668]: connection from 211.107.232.1 () at Sun Jul 24 13:46:34 2005 
+Jul 24 13:46:35 combo ftpd[22669]: connection from 211.107.232.1 () at Sun Jul 24 13:46:35 2005 
+Jul 25 04:03:58 combo su(pam_unix)[24312]: session opened for user cyrus by (uid=0)
+Jul 25 04:03:59 combo su(pam_unix)[24312]: session closed for user cyrus
+Jul 25 04:04:00 combo logrotate: ALERT exited abnormally with [1]
+Jul 25 04:09:32 combo su(pam_unix)[24683]: session opened for user news by (uid=0)
+Jul 25 04:09:33 combo su(pam_unix)[24683]: session closed for user news
+Jul 25 06:39:18 combo ftpd[24970]: connection from 206.47.209.10 () at Mon Jul 25 06:39:18 2005 
+Jul 25 06:39:18 combo ftpd[24971]: connection from 206.47.209.10 () at Mon Jul 25 06:39:18 2005 
+Jul 25 06:39:18 combo ftpd[24972]: connection from 206.47.209.10 () at Mon Jul 25 06:39:18 2005 
+Jul 25 06:39:18 combo ftpd[24977]: connection from 206.47.209.10 () at Mon Jul 25 06:39:18 2005 
+Jul 25 06:39:18 combo ftpd[24976]: connection from 206.47.209.10 () at Mon Jul 25 06:39:18 2005 
+Jul 25 06:39:18 combo ftpd[24974]: connection from 206.47.209.10 () at Mon Jul 25 06:39:18 2005 
+Jul 25 06:39:18 combo ftpd[24973]: connection from 206.47.209.10 () at Mon Jul 25 06:39:18 2005 
+Jul 25 06:39:18 combo ftpd[24975]: connection from 206.47.209.10 () at Mon Jul 25 06:39:18 2005 
+Jul 25 06:39:18 combo ftpd[24978]: connection from 206.47.209.10 () at Mon Jul 25 06:39:18 2005 
+Jul 25 06:39:18 combo ftpd[24962]: connection from 206.47.209.10 () at Mon Jul 25 06:39:18 2005 
+Jul 25 06:39:18 combo ftpd[24967]: connection from 206.47.209.10 () at Mon Jul 25 06:39:18 2005 
+Jul 25 06:39:18 combo ftpd[24966]: connection from 206.47.209.10 () at Mon Jul 25 06:39:18 2005 
+Jul 25 06:39:18 combo ftpd[24968]: connection from 206.47.209.10 () at Mon Jul 25 06:39:18 2005 
+Jul 25 06:39:18 combo ftpd[24965]: connection from 206.47.209.10 () at Mon Jul 25 06:39:18 2005 
+Jul 25 06:39:18 combo ftpd[24964]: connection from 206.47.209.10 () at Mon Jul 25 06:39:18 2005 
+Jul 25 06:39:18 combo ftpd[24958]: connection from 206.47.209.10 () at Mon Jul 25 06:39:18 2005 
+Jul 25 06:39:18 combo ftpd[24956]: connection from 206.47.209.10 () at Mon Jul 25 06:39:18 2005 
+Jul 25 06:39:18 combo ftpd[24957]: connection from 206.47.209.10 () at Mon Jul 25 06:39:18 2005 
+Jul 25 06:39:18 combo ftpd[24959]: connection from 206.47.209.10 () at Mon Jul 25 06:39:18 2005 
+Jul 25 06:39:18 combo ftpd[24969]: connection from 206.47.209.10 () at Mon Jul 25 06:39:18 2005 
+Jul 25 06:39:18 combo ftpd[24960]: connection from 206.47.209.10 () at Mon Jul 25 06:39:18 2005 
+Jul 25 06:39:18 combo ftpd[24963]: connection from 206.47.209.10 () at Mon Jul 25 06:39:18 2005 
+Jul 25 06:39:18 combo ftpd[24961]: connection from 206.47.209.10 () at Mon Jul 25 06:39:18 2005 
+Jul 25 12:09:06 combo named[2306]: notify question section contains no SOA
+Jul 25 12:18:50 combo named[2306]: notify question section contains no SOA
+Jul 25 12:27:05 combo named[2306]: notify question section contains no SOA
+Jul 25 12:35:24 combo named[2306]: notify question section contains no SOA
+Jul 25 12:54:46 combo named[2306]: notify question section contains no SOA
+Jul 25 13:33:41 combo named[2306]: notify question section contains no SOA
+Jul 25 13:41:34 combo named[2306]: notify question section contains no SOA
+Jul 25 13:50:24 combo named[2306]: notify question section contains no SOA
+Jul 25 14:00:03 combo named[2306]: notify question section contains no SOA
+Jul 25 14:08:28 combo named[2306]: notify question section contains no SOA
+Jul 25 14:17:19 combo named[2306]: notify question section contains no SOA
+Jul 25 14:33:46 combo named[2306]: notify question section contains no SOA
+Jul 25 14:48:30 combo named[2306]: notify question section contains no SOA
+Jul 25 14:56:13 combo named[2306]: notify question section contains no SOA
+Jul 25 15:50:04 combo named[2306]: notify question section contains no SOA
+Jul 25 16:29:20 combo named[2306]: notify question section contains no SOA
+Jul 25 23:23:13 combo ftpd[26463]: getpeername (ftpd): Transport endpoint is not connected
+Jul 25 23:23:13 combo ftpd[26466]: getpeername (ftpd): Transport endpoint is not connected
+Jul 25 23:23:13 combo xinetd[26482]: warning: can't get client address: Connection reset by peer
+Jul 25 23:23:13 combo ftpd[26482]: getpeername (ftpd): Transport endpoint is not connected
+Jul 25 23:23:13 combo xinetd[26484]: warning: can't get client address: Connection reset by peer
+Jul 25 23:23:13 combo ftpd[26484]: getpeername (ftpd): Transport endpoint is not connected
+Jul 25 23:24:09 combo ftpd[26479]: connection from 217.187.83.50 () at Mon Jul 25 23:24:09 2005 
+Jul 25 23:24:09 combo ftpd[26478]: connection from 217.187.83.50 () at Mon Jul 25 23:24:09 2005 
+Jul 25 23:24:09 combo ftpd[26477]: connection from 217.187.83.50 () at Mon Jul 25 23:24:09 2005 
+Jul 25 23:24:09 combo ftpd[26476]: connection from 217.187.83.50 () at Mon Jul 25 23:24:09 2005 
+Jul 25 23:24:09 combo ftpd[26475]: connection from 217.187.83.50 () at Mon Jul 25 23:24:09 2005 
+Jul 25 23:24:09 combo ftpd[26474]: connection from 217.187.83.50 () at Mon Jul 25 23:24:09 2005 
+Jul 25 23:24:09 combo ftpd[26473]: connection from 217.187.83.50 () at Mon Jul 25 23:24:09 2005 
+Jul 25 23:24:09 combo ftpd[26467]: connection from 217.187.83.50 () at Mon Jul 25 23:24:09 2005 
+Jul 25 23:24:09 combo ftpd[26471]: connection from 217.187.83.50 () at Mon Jul 25 23:24:09 2005 
+Jul 25 23:24:09 combo ftpd[26472]: connection from 217.187.83.50 () at Mon Jul 25 23:24:09 2005 
+Jul 25 23:24:09 combo ftpd[26468]: connection from 217.187.83.50 () at Mon Jul 25 23:24:09 2005 
+Jul 25 23:24:09 combo ftpd[26470]: connection from 217.187.83.50 () at Mon Jul 25 23:24:09 2005 
+Jul 25 23:24:09 combo ftpd[26469]: connection from 217.187.83.50 () at Mon Jul 25 23:24:09 2005 
+Jul 25 23:24:09 combo ftpd[26464]: connection from 217.187.83.50 () at Mon Jul 25 23:24:09 2005 
+Jul 25 23:24:09 combo ftpd[26465]: connection from 217.187.83.50 () at Mon Jul 25 23:24:09 2005 
+Jul 25 23:24:09 combo ftpd[26480]: connection from 217.187.83.50 () at Mon Jul 25 23:24:09 2005 
+Jul 25 23:24:09 combo ftpd[26481]: connection from 217.187.83.50 () at Mon Jul 25 23:24:09 2005 
+Jul 25 23:24:09 combo ftpd[26483]: connection from 217.187.83.50 () at Mon Jul 25 23:24:09 2005 
+Jul 25 23:24:09 combo ftpd[26485]: connection from 217.187.83.50 () at Mon Jul 25 23:24:09 2005 
+Jul 26 04:05:22 combo su(pam_unix)[27285]: session opened for user cyrus by (uid=0)
+Jul 26 04:05:23 combo su(pam_unix)[27285]: session closed for user cyrus
+Jul 26 04:05:24 combo logrotate: ALERT exited abnormally with [1]
+Jul 26 04:11:23 combo su(pam_unix)[28514]: session opened for user news by (uid=0)
+Jul 26 04:11:23 combo su(pam_unix)[28514]: session closed for user news
+Jul 26 05:47:42 combo ftpd[28699]: connection from 172.181.208.156 () at Tue Jul 26 05:47:42 2005 
+Jul 26 05:47:42 combo ftpd[28703]: connection from 172.181.208.156 () at Tue Jul 26 05:47:42 2005 
+Jul 26 05:47:42 combo ftpd[28700]: connection from 172.181.208.156 () at Tue Jul 26 05:47:42 2005 
+Jul 26 05:47:42 combo ftpd[28701]: connection from 172.181.208.156 () at Tue Jul 26 05:47:42 2005 
+Jul 26 05:47:42 combo ftpd[28702]: connection from 172.181.208.156 () at Tue Jul 26 05:47:42 2005 
+Jul 26 05:47:42 combo ftpd[28696]: connection from 172.181.208.156 () at Tue Jul 26 05:47:42 2005 
+Jul 26 05:47:42 combo ftpd[28694]: connection from 172.181.208.156 () at Tue Jul 26 05:47:42 2005 
+Jul 26 05:47:42 combo ftpd[28695]: connection from 172.181.208.156 () at Tue Jul 26 05:47:42 2005 
+Jul 26 05:47:42 combo ftpd[28697]: connection from 172.181.208.156 () at Tue Jul 26 05:47:42 2005 
+Jul 26 05:47:42 combo ftpd[28698]: connection from 172.181.208.156 () at Tue Jul 26 05:47:42 2005 
+Jul 26 05:47:42 combo ftpd[28693]: connection from 172.181.208.156 () at Tue Jul 26 05:47:42 2005 
+Jul 26 05:47:42 combo ftpd[28689]: connection from 172.181.208.156 () at Tue Jul 26 05:47:42 2005 
+Jul 26 05:47:42 combo ftpd[28690]: connection from 172.181.208.156 () at Tue Jul 26 05:47:42 2005 
+Jul 26 05:47:42 combo ftpd[28691]: connection from 172.181.208.156 () at Tue Jul 26 05:47:42 2005 
+Jul 26 05:47:42 combo ftpd[28686]: connection from 172.181.208.156 () at Tue Jul 26 05:47:42 2005 
+Jul 26 05:47:42 combo ftpd[28687]: connection from 172.181.208.156 () at Tue Jul 26 05:47:42 2005 
+Jul 26 05:47:42 combo ftpd[28688]: connection from 172.181.208.156 () at Tue Jul 26 05:47:42 2005 
+Jul 26 05:47:42 combo ftpd[28692]: connection from 172.181.208.156 () at Tue Jul 26 05:47:42 2005 
+Jul 26 05:47:51 combo ftpd[28705]: connection from 172.181.208.156 () at Tue Jul 26 05:47:51 2005 
+Jul 26 05:47:51 combo ftpd[28704]: connection from 172.181.208.156 () at Tue Jul 26 05:47:51 2005 
+Jul 26 05:47:51 combo ftpd[28706]: connection from 172.181.208.156 () at Tue Jul 26 05:47:51 2005 
+Jul 26 05:47:51 combo ftpd[28707]: connection from 172.181.208.156 () at Tue Jul 26 05:47:51 2005 
+Jul 26 05:47:51 combo ftpd[28708]: connection from 172.181.208.156 () at Tue Jul 26 05:47:51 2005 
+Jul 26 07:02:27 combo sshd(pam_unix)[28842]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114  user=root
+Jul 26 07:02:35 combo sshd(pam_unix)[28844]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114  user=root
+Jul 26 07:02:37 combo sshd(pam_unix)[28846]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114  user=root
+Jul 26 07:02:45 combo sshd(pam_unix)[28848]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114  user=root
+Jul 26 07:02:47 combo sshd(pam_unix)[28850]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114  user=root
+Jul 26 07:02:55 combo sshd(pam_unix)[28852]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114  user=root
+Jul 26 07:02:57 combo sshd(pam_unix)[28854]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114  user=root
+Jul 26 07:03:05 combo sshd(pam_unix)[28856]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114  user=root
+Jul 26 07:03:07 combo sshd(pam_unix)[28858]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114  user=root
+Jul 26 07:03:15 combo sshd(pam_unix)[28860]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114  user=root
+Jul 26 07:03:17 combo sshd(pam_unix)[28862]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114  user=root
+Jul 26 07:03:26 combo sshd(pam_unix)[28864]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114  user=root
+Jul 26 07:03:27 combo sshd(pam_unix)[28866]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114  user=root
+Jul 26 07:03:35 combo sshd(pam_unix)[28868]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114  user=root
+Jul 26 07:03:37 combo sshd(pam_unix)[28870]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114  user=root
+Jul 26 07:03:45 combo sshd(pam_unix)[28872]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114  user=root
+Jul 26 07:03:47 combo sshd(pam_unix)[28874]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114  user=root
+Jul 26 07:03:55 combo sshd(pam_unix)[28876]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114  user=root
+Jul 26 07:03:57 combo sshd(pam_unix)[28878]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114  user=root
+Jul 26 07:04:02 combo sshd(pam_unix)[28880]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114  user=root
+Jul 26 07:04:05 combo sshd(pam_unix)[28882]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114  user=root
+Jul 26 07:04:07 combo sshd(pam_unix)[28884]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114  user=root
+Jul 26 07:04:12 combo sshd(pam_unix)[28886]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114  user=root
+Jul 27 04:16:07 combo su(pam_unix)[30999]: session opened for user cyrus by (uid=0)
+Jul 27 04:16:08 combo su(pam_unix)[30999]: session closed for user cyrus
+Jul 27 04:16:09 combo logrotate: ALERT exited abnormally with [1]
+Jul 27 04:21:39 combo su(pam_unix)[31373]: session opened for user news by (uid=0)
+Jul 27 04:21:40 combo su(pam_unix)[31373]: session closed for user news
+Jul 27 10:59:53 combo ftpd[31985]: connection from 218.38.58.3 () at Wed Jul 27 10:59:53 2005 
+Jul 27 14:41:57 combo syslogd 1.4.1: restart.
+Jul 27 14:41:57 combo syslog: syslogd startup succeeded
+Jul 27 14:41:57 combo kernel: klogd 1.4.1, log source = /proc/kmsg started.
+Jul 27 14:41:57 combo kernel: Linux version 2.6.5-1.358 (bhcompile@bugs.build.redhat.com) (gcc version 3.3.3 20040412 (Red Hat Linux 3.3.3-7)) #1 Sat May 8 09:04:50 EDT 2004
+Jul 27 14:41:57 combo kernel: BIOS-provided physical RAM map:
+Jul 27 14:41:57 combo kernel:  BIOS-e820: 0000000000000000 - 00000000000a0000 (usable)
+Jul 27 14:41:57 combo kernel:  BIOS-e820: 00000000000f0000 - 0000000000100000 (reserved)
+Jul 27 14:41:57 combo kernel:  BIOS-e820: 0000000000100000 - 0000000007eae000 (usable)
+Jul 27 14:41:57 combo kernel:  BIOS-e820: 0000000007eae000 - 0000000008000000 (reserved)
+Jul 27 14:41:57 combo kernel:  BIOS-e820: 00000000ffb00000 - 0000000100000000 (reserved)
+Jul 27 14:41:57 combo kernel: 0MB HIGHMEM available.
+Jul 27 14:41:57 combo kernel: 126MB LOWMEM available.
+Jul 27 14:41:57 combo kernel: zapping low mappings.
+Jul 27 14:41:57 combo syslog: klogd startup succeeded
+Jul 27 14:41:57 combo kernel: On node 0 totalpages: 32430
+Jul 27 14:41:57 combo kernel:   DMA zone: 4096 pages, LIFO batch:1
+Jul 27 14:41:57 combo kernel:   Normal zone: 28334 pages, LIFO batch:6
+Jul 27 14:41:57 combo irqbalance: irqbalance startup succeeded
+Jul 27 14:41:57 combo kernel:   HighMem zone: 0 pages, LIFO batch:1
+Jul 27 14:41:57 combo kernel: DMI 2.3 present.
+Jul 27 14:41:57 combo kernel: ACPI disabled because your bios is from 2000 and too old
+Jul 27 14:41:57 combo kernel: You can enable it with acpi=force
+Jul 27 14:41:57 combo kernel: Built 1 zonelists
+Jul 27 14:41:57 combo kernel: Kernel command line: ro root=LABEL=/ rhgb quiet
+Jul 27 14:41:57 combo kernel: mapped 4G/4G trampoline to ffff3000.
+Jul 27 14:41:57 combo kernel: Initializing CPU#0
+Jul 27 14:41:57 combo kernel: CPU 0 irqstacks, hard=02345000 soft=02344000
+Jul 27 14:41:57 combo portmap: portmap startup succeeded
+Jul 27 14:41:57 combo kernel: PID hash table entries: 512 (order 9: 4096 bytes)
+Jul 27 14:41:57 combo kernel: Detected 731.219 MHz processor.
+Jul 27 14:41:57 combo rpc.statd[1618]: Version 1.0.6 Starting
+Jul 27 14:41:57 combo kernel: Using tsc for high-res timesource
+Jul 27 14:41:58 combo nfslock: rpc.statd startup succeeded
+Jul 27 14:41:58 combo kernel: Console: colour VGA+ 80x25
+Jul 27 14:41:58 combo kernel: Memory: 125312k/129720k available (1540k kernel code, 3860k reserved, 599k data, 144k init, 0k highmem)
+Jul 27 14:41:58 combo kernel: Calibrating delay loop... 1445.88 BogoMIPS
+Jul 27 14:41:58 combo kernel: Security Scaffold v1.0.0 initialized
+Jul 27 14:41:58 combo kernel: SELinux:  Initializing.
+Jul 27 14:41:58 combo kernel: SELinux:  Starting in permissive mode
+Jul 27 14:41:58 combo kernel: There is already a security framework initialized, register_security failed.
+Jul 27 14:41:58 combo kernel: Failure registering capabilities with the kernel
+Jul 27 14:41:58 combo kernel: selinux_register_security:  Registering secondary module capability
+Jul 27 14:41:58 combo kernel: Capability LSM initialized
+Jul 27 14:41:58 combo rpcidmapd: rpc.idmapd startup succeeded
+Jul 27 14:41:58 combo kernel: Dentry cache hash table entries: 16384 (order: 4, 65536 bytes)
+Jul 27 14:41:58 combo kernel: Inode-cache hash table entries: 8192 (order: 3, 32768 bytes)
+Jul 27 14:41:58 combo kernel: Mount-cache hash table entries: 512 (order: 0, 4096 bytes)
+Jul 27 14:41:58 combo kernel: CPU: L1 I cache: 16K, L1 D cache: 16K
+Jul 27 14:41:58 combo kernel: CPU: L2 cache: 256K
+Jul 27 14:41:58 combo kernel: Intel machine check architecture supported.
+Jul 27 14:41:58 combo kernel: Intel machine check reporting enabled on CPU#0.
+Jul 27 14:41:58 combo kernel: CPU: Intel Pentium III (Coppermine) stepping 06
+Jul 27 14:41:58 combo kernel: Enabling fast FPU save and restore... done.
+Jul 27 14:41:58 combo kernel: Enabling unmasked SIMD FPU exception support... done.
+Jul 27 14:41:58 combo kernel: Checking 'hlt' instruction... OK.
+Jul 27 14:41:58 combo random: Initializing random number generator:  succeeded
+Jul 27 14:41:58 combo kernel: POSIX conformance testing by UNIFIX
+Jul 27 14:41:58 combo kernel: NET: Registered protocol family 16
+Jul 27 14:41:58 combo kernel: PCI: PCI BIOS revision 2.10 entry at 0xfc0ce, last bus=1
+Jul 27 14:41:58 combo kernel: PCI: Using configuration type 1
+Jul 27 14:41:58 combo kernel: mtrr: v2.0 (20020519)
+Jul 27 14:41:58 combo kernel: ACPI: Subsystem revision 20040326
+Jul 27 14:41:58 combo kernel: ACPI: Interpreter disabled.
+Jul 27 14:41:58 combo kernel: Linux Plug and Play Support v0.97 (c) Adam Belay
+Jul 27 14:41:58 combo rc: Starting pcmcia:  succeeded
+Jul 27 14:41:58 combo kernel: usbcore: registered new driver usbfs
+Jul 27 14:41:58 combo kernel: usbcore: registered new driver hub
+Jul 27 14:41:58 combo kernel: ACPI: ACPI tables contain no PCI IRQ routing entries
+Jul 27 14:41:59 combo kernel: PCI: Invalid ACPI-PCI IRQ routing table
+Jul 27 14:41:59 combo kernel: PCI: Probing PCI hardware
+Jul 27 14:41:59 combo kernel: PCI: Probing PCI hardware (bus 00)
+Jul 27 14:41:59 combo kernel: Transparent bridge - 0000:00:1e.0
+Jul 27 14:41:59 combo kernel: PCI: Using IRQ router PIIX/ICH [8086/2410] at 0000:00:1f.0
+Jul 27 14:41:59 combo kernel: apm: BIOS version 1.2 Flags 0x03 (Driver version 1.16ac)
+Jul 27 14:41:59 combo kernel: audit: initializing netlink socket (disabled)
+Jul 27 14:41:54 combo sysctl: kernel.core_uses_pid = 1 
+Jul 27 14:41:59 combo hcid[1690]: HCI daemon ver 2.4 started
+Jul 27 14:41:59 combo bluetooth: hcid startup succeeded
+Jul 27 14:41:59 combo kernel: audit(1122475266.4294965305:0): initialized
+Jul 27 14:41:54 combo network: Setting network parameters:  succeeded 
+Jul 27 14:41:59 combo bluetooth: sdpd startup succeeded
+Jul 27 14:41:59 combo sdpd[1696]: sdpd v1.5 started 
+Jul 27 14:41:59 combo kernel: Total HugeTLB memory allocated, 0
+Jul 27 14:41:54 combo network: Bringing up loopback interface:  succeeded 
+Jul 27 14:41:59 combo kernel: VFS: Disk quotas dquot_6.5.1
+Jul 27 14:41:59 combo kernel: Dquot-cache hash table entries: 1024 (order 0, 4096 bytes)
+Jul 27 14:41:59 combo kernel: SELinux:  Registering netfilter hooks
+Jul 27 14:41:59 combo kernel: Initializing Cryptographic API
+Jul 27 14:41:59 combo kernel: pci_hotplug: PCI Hot Plug PCI Core version: 0.5
+Jul 27 14:42:00 combo kernel: isapnp: Scanning for PnP cards...
+Jul 27 14:42:00 combo kernel: isapnp: No Plug & Play device found
+Jul 27 14:42:00 combo kernel: Real Time Clock Driver v1.12
+Jul 27 14:42:00 combo kernel: Linux agpgart interface v0.100 (c) Dave Jones

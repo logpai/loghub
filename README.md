@@ -1,5 +1,5 @@
 # loghub
-Loghub maintains a collection of system logs, which are freely accessible for research purposes. Some of the logs are production data released from previous studies, some others are collected from real systems in our lab environment. Wherever possible, the logs are NOT sanitized, anonymized or modified in any way. All these logs amount to XX GB in size. We host only a small sample (2k lines) on Github for each dataset, please request the [raw datasets at Zenodo](https://zenodo.org/record/1144101#.WlYIzVWWbIU).
+Loghub maintains a collection of system logs, which are freely accessible for research purposes. Some of the logs are production data released from previous studies, some others are collected from real systems in our lab environment. Wherever possible, the logs are NOT sanitized, anonymized or modified in any way. All these logs amount to XX GB in size. We thus host only a small sample (2k lines) on Github for each dataset. Please request the [raw datasets at Zenodo](https://zenodo.org/record/1144101#.WlYIzVWWbIU) if you are interested in them.
 
 Logs currently available:
 
@@ -16,11 +16,11 @@ Logs currently available:
 | [Windows](./Windows) | Windows | 226.7 days | 114,608,388 | 27.36GB | 1.63GB |
 | [Linux](./Linux) | Linux | 263.9 days | 25,567 | 2.30MB | 228KB |
 | [Mac](./Mac) | Mac | xx | xx | xx | xx |
-| Web applications |
+| **Web applications** |
 | [Apache](./Apache) | Apache | xx | xx | xx | xx |
 | **Mobile systems** |
 | [Andriod](./Andriod) | Andriod | xx | xx | xx | xx |
-| [HealthApp](./HealthApp) | HealthApp | xx | xx | xx | xx |
+| [HealthApp](./HealthApp) | HealthApp | xx | 253,395 | 22.98MB | 2.24MB |
 | **Supercomputers** |
 | [BGL](./BGL) | BGL | 214.7 days | 4,747,963 | 725.77MB | 61.46MB |
 | [HPC](./HPC) | HPC | xx | xx | xx | xx |
@@ -31,6 +31,7 @@ Logs currently available:
 
 
 ### Publications using these datasets
++ [**CCS'17**] Min Du, Feifei Li, Guineng Zheng, Vivek Srikumar. [DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning](https://acmccs.github.io/papers/p1285-duA.pdf). ACM Conference on Computer and Communications Security (CCS), 2017.
 + [**TDSC'17**] Pinjia He, Jieming Zhu, Shilin He, Jian Li, Michael R. Lyu. [Towards Automated Log Parsing for Large-Scale Log Data Analysis](http://jiemingzhu.github.io/pub/pjhe_tdsc2017.pdf). IEEE Transactions on Dependable and Secure Computing (TDSC), 2017.
 + [**ICWS'17**] Pinjia He, Jieming Zhu, Zibin Zheng, Michael R. Lyu. [Drain: An Online Log Parsing Approach with Fixed Depth Tree](http://jiemingzhu.github.io/pub/pjhe_icws2017.pdf). IEEE International Conference on Web Services (ICWS), 2017.
 + [**ICSE'16**] Qingwei Lin, Hongyu Zhang, Jian-Guang Lou, Yu Zhang, Xuewei Chen. [Log Clustering Based Problem Identification for Online Service Systems](http://ieeexplore.ieee.org/document/7883294/). International Conference on Software Engineering (ICSE), 2016.
@@ -41,6 +42,14 @@ Logs currently available:
 + [**DSN'07**] Adam J. Oliner, Jon Stearley. [What Supercomputers Say: A Study of Five System Logs](http://ieeexplore.ieee.org/document/4273008/). IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2007.
 
 
+### Organizations that request these datasets
+| Industry | || Academy | |  
+| :---: | :---: | :---: | :---: |:---: |
+| Huawei | VMWare Research || Simula Research Lab | CUHK | 
+| HSBC | || | |
+
+### Feedback
+For any questions or feedback, please post to [our issue page](https://github.com/logpai/loghub/issues).
 
 ### License
 The log datasets are freely available ONLY for research purposes. 

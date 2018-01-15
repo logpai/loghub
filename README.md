@@ -1,4 +1,4 @@
-# loghub
+# Loghub
 Loghub maintains a collection of system logs, which are freely accessible for research purposes. Some of the logs are production data released from previous studies, some others are collected from real systems in our lab environment. Wherever possible, the logs are NOT sanitized, anonymized or modified in any way. All these logs amount to XX GB in size. We thus host only a small sample (2k lines) on Github for each dataset. Please request the [raw datasets at Zenodo](https://doi.org/10.5281/zenodo.1144100) if you are interested in them.
 
 Logs currently available:
@@ -9,7 +9,7 @@ Logs currently available:
 | [HDFS](./HDFS)               |    HDFS-1    | 38.7 hours | 11,175,629  |  1.54GB  |       152.01MB       |
 |                              |    HDFS-2    |    N.A.    | 71,118,073  | 16.84GB  |       877.38MB       |
 | [Hadoop](./Hadoop)           |    Hadoop    |    N.A.    |   394,308   | 49.78MB  |        2.50MB        |
-| [Spark](./Spark)             |    Spark     |     xx     |     xx      |    xx    |          xx          |
+| [Spark](./Spark)             |    Spark     |     N.A.     |     33,236,604     |  2.88GB    |          179.18MB          |
 | [Zookeeper](./Zookeeper)     |  Zookeeper   | 26.7 days  |   74,380    | 10.18MB  |        452KB         |
 | **Operating systems**        |              |            |             |          |                      |
 | [Windows](./Windows)         |   Windows    | 226.7 days | 114,608,388 | 27.36GB  |        1.63GB        |
@@ -22,13 +22,13 @@ Logs currently available:
 | [HealthApp](./HealthApp)     |  HealthApp   | 10.5 days  |   253,395   | 22.98MB  |        2.24MB        |
 | **Supercomputers**           |              |            |             |          |                      |
 | [BGL](./BGL)                 |     BGL      | 214.7 days |  4,747,963  | 725.77MB |       61.46MB        |
-| [HPC](./HPC)                 |     HPC      |     xx     |     xx      |    xx    |          xx          |
+| [HPC](./HPC)                 |     HPC      |     N.A.    |     433,489      |    32.77MB    |          3.21MB        |
 | [Thunderbird](./Thunderbird) | Thunderbird  |  244 days  | 211,212,192 | 31.04GB  |        1.97GB        |
 | **On-premises software**     |              |            |             |          |                      |
 | [Proxifier](./Proxifier)     |  Proxifier   |    N.A.    |   21,329    |  2.48MB  |        172KB         |
 | [OpenSSH](./OpenSSH)         |     SSH      | 28.4 days  |   655,146   | 71.70MB  |        4.49MB        |
 
-
+ 
 ### Publications using these datasets
 + [**CCS'17**] Min Du, Feifei Li, Guineng Zheng, Vivek Srikumar. [DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning](https://acmccs.github.io/papers/p1285-duA.pdf). ACM Conference on Computer and Communications Security (CCS), 2017.
 + [**TDSC'17**] Pinjia He, Jieming Zhu, Shilin He, Jian Li, Michael R. Lyu. [Towards Automated Log Parsing for Large-Scale Log Data Analysis](http://jiemingzhu.github.io/pub/pjhe_tdsc2017.pdf). IEEE Transactions on Dependable and Secure Computing (TDSC), 2017.

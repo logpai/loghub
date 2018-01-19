@@ -1,32 +1,33 @@
 # Loghub
-Loghub maintains a collection of system logs, which are freely accessible for research purposes. Some of the logs are production data released from previous studies, some others are collected from real systems in our lab environment. Wherever possible, the logs are NOT sanitized, anonymized or modified in any way. All these logs amount to XX GB in size. We thus host only a small sample (2k lines) on Github for each dataset. Please request the [raw datasets at Zenodo](https://doi.org/10.5281/zenodo.1144100) if you are interested in them.
+Loghub maintains a collection of system logs, which are freely accessible for research purposes. Some of the logs are production data released from previous studies, some others are collected from real systems in our lab environment. Wherever possible, the logs are NOT sanitized, anonymized or modified in any way. All these logs amount to **87.6 GB** in size. We thus host only a small sample (2k lines) on Github for each dataset. Please request the [raw datasets at Zenodo](https://doi.org/10.5281/zenodo.1144100) if you are interested in them.
 
 Logs currently available:
 
-| Software System              | Dataset Name | Time Span  |  #Messages  |   Size   | Compressed (.tar.gz) |
-| :--------------------------- | :----------: | :--------: | :---------: | :------: | :------------------: |
-| **Big data systems**         |              |            |             |          |                      |
-| [HDFS](./HDFS)               |    HDFS-1    | 38.7 hours | 11,175,629  |  1.54GB  |       152.01MB       |
-|                              |    HDFS-2    |    N.A.    | 71,118,073  | 16.84GB  |       877.38MB       |
-| [Hadoop](./Hadoop)           |    Hadoop    |    N.A.    |   394,308   | 49.78MB  |        2.50MB        |
-| [Spark](./Spark)             |    Spark     |     N.A.     |     33,236,604     |  2.88GB    |          179.18MB          |
-| [Zookeeper](./Zookeeper)     |  Zookeeper   | 26.7 days  |   74,380    | 10.18MB  |        452KB         |
-| **Operating systems**        |              |            |             |          |                      |
-| [Windows](./Windows)         |   Windows    | 226.7 days | 114,608,388 | 27.36GB  |        1.63GB        |
-| [Linux](./Linux)             |    Linux     | 263.9 days |   25,567    |  2.30MB  |        228KB         |
-| [Mac](./Mac)                 |     Mac      |  7.0 days  |   117,283   | 16.48MB  |        1.46MB        |
-| **Web applications**         |              |            |             |          |                      |
-| [Apache](./Apache)           |    Apache    | 263.9 days |   56,481    |  5.02MB  |        260KB         |
-| **Mobile systems**           |              |            |             |          |                      |
-| [Andriod](./Andriod)         |   Andriod    |     xx     |     xx      |    xx    |          xx          |
-| [HealthApp](./HealthApp)     |  HealthApp   | 10.5 days  |   253,395   | 22.98MB  |        2.24MB        |
-| **Supercomputers**           |              |            |             |          |                      |
-| [BGL](./BGL)                 |     BGL      | 214.7 days |  4,747,963  | 725.77MB |       61.46MB        |
-| [HPC](./HPC)                 |     HPC      |     N.A.    |     433,489      |    32.77MB    |          3.21MB        |
-| [Thunderbird](./Thunderbird) | Thunderbird  |  244 days  | 211,212,192 | 31.04GB  |        1.97GB        |
-| **On-premises software**     |              |            |             |          |                      |
-| [Proxifier](./Proxifier)     |  Proxifier   |    N.A.    |   21,329    |  2.48MB  |        172KB         |
-| [OpenSSH](./OpenSSH)         |     SSH      | 28.4 days  |   655,146   | 71.70MB  |        4.49MB        |
+| Software System          |         Dataset Name         | Time Span  |  #Messages  |   Size   | Compressed (.tar.gz) |
+| :----------------------- | :--------------------------: | :--------: | :---------: | :------: | :------------------: |
+| **Big data systems**     |                              |            |             |          |                      |
+| HDFS                     |   [HDFS-1](./HDFS/HDFS-1)    | 38.7 hours | 11,175,629  |  1.54GB  |       152.01MB       |
+|                          |   [HDFS-2](./HDFS/HDFS-2)    |    N.A.    | 71,118,073  | 16.84GB  |       877.38MB       |
+| Hadoop                   |      [Hadoop](./Hadoop)      |    N.A.    |   394,308   | 49.78MB  |        2.50MB        |
+| Spark                    |       [Spark](./Spark)       |    N.A.    | 33,236,604  |  2.88GB  |       179.18MB       |
+| Zookeeper                |   [Zookeeper](./Zookeeper)   | 26.7 days  |   74,380    | 10.18MB  |        452KB         |
+| **Operating systems**    |                              |            |             |          |                      |
+| Windows                  |     [Windows](./Windows)     | 226.7 days | 114,608,388 | 27.36GB  |        1.63GB        |
+| Linux                    |       [Linux](./Linux)       | 263.9 days |   25,567    |  2.30MB  |        228KB         |
+| Mac                      |         [Mac](./Mac)         |  7.0 days  |   117,283   | 16.48MB  |        1.46MB        |
+| **Web applications**     |                              |            |             |          |                      |
+| Apache Web server        |      [Apache](./Apache)      | 263.9 days |   56,481    |  5.02MB  |        260KB         |
+| **Mobile systems**       |                              |            |             |          |                      |
+| Andriod                  |     [Andriod](./Andriod)     |    N.A.    | 63,042,037  |  7.00GB  |       825.57MB       |
+| Health App               |   [HealthApp](./HealthApp)   | 10.5 days  |   253,395   | 22.98MB  |        2.24MB        |
+| **Supercomputers**       |                              |            |             |          |                      |
+| Blue Gene/L              |         [BGL](./BGL)         | 214.7 days |  4,747,963  | 725.77MB |       61.46MB        |
+| HPC                      |         [HPC](./HPC)         |    N.A.    |   433,489   | 32.77MB  |        3.21MB        |
+| Thunderbird              | [Thunderbird](./Thunderbird) |  244 days  | 211,212,192 | 31.04GB  |        1.97GB        |
+| **On-premises software** |                              |            |             |          |                      |
+| Proxifier                |   [Proxifier](./Proxifier)   |    N.A.    |   21,329    |  2.48MB  |        172KB         |
+| OpenSSH                  |     [OpenSSH](./OpenSSH)     | 28.4 days  |   655,146   | 71.70MB  |        4.49MB        |
+
 
  
 ### Publications using these datasets
@@ -42,12 +43,12 @@ Logs currently available:
 
 
 ### Organizations that request these datasets
-| Industry | | | | | 
-| :--- | :--- | :--- | :--- |:--- |
+| Industry | | | | 
+| :--- | :--- | :--- | :--- |
 | Huawei | VMWare Research | HSBC | 
-| **Academy** | | | | | 
-| CUHK | University of Utah | Trinity College Dublin | University of La Rochelle| University of Hamburg| 
-| Simula Research Lab |Indraprastha University | 
+| **Academy** | | | | 
+| CUHK | University of Utah | Trinity College Dublin | University of La Rochelle| 
+| Simula Research Lab | Indraprastha University | University of Hamburg| |
 
 
 

@@ -1,5 +1,7 @@
 # Loghub
-Loghub maintains a collection of system logs, which are freely accessible for research purposes. Some of the logs are production data released from previous studies, some others are collected from real systems in our lab environment. Wherever possible, the logs are NOT sanitized, anonymized or modified in any way. All these logs amount to **87.6 GB** in size. We thus host only a small sample (2k lines) on Github for each dataset. Please request the [raw datasets at Zenodo](https://doi.org/10.5281/zenodo.1144100) if you are interested in them.
+Loghub maintains a collection of system logs, which are freely accessible for research purposes. Some of the logs are production data released from previous studies, some others are collected from real systems in our lab environment. Wherever possible, the logs are NOT sanitized, anonymized or modified in any way. All these logs amount to **87.6 GB** in size. We thus host only a small sample (2k lines) on Github for each dataset. 
+
+Please request the [raw logs at Zenodo](https://doi.org/10.5281/zenodo.1144100) if you are interested in these datasets.
 
 Logs currently available:
 

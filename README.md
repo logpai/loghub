@@ -60,5 +60,5 @@ For any questions or feedback, please post to [our issue page](https://github.co
 ### License
 The log datasets are freely available ONLY for research purposes. 
 
-copyright 2018 [LogPAI Team]()
+Copyright &copy; 2018, [LogPAI Team](https://github.com/orgs/logpai/people)
 

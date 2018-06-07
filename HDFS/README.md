@@ -1,4 +1,8 @@
-# HDFS.log
+## HDFS_1
+From SOSP 2009.
+
+
+## HDFS_2
 
 This log set was collected by aggregating logs from the HDFS system in our lab at CUHK for research purpose, which comprises one name node and 32 data nodes. The logs are aggregated at the node level. However, three nodes have been restored and thus their logs are lost. The raw logs are hosted on our Zenodo project page.
 

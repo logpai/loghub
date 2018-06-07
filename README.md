@@ -2,7 +2,9 @@
 Loghub maintains a collection of system logs, which are freely accessible for research purposes. Some of the logs are production data released from previous studies, while some others are collected from real systems in our lab environment. Wherever possible, the logs are NOT sanitized, anonymized or modified in any way. All these logs amount to over **87GB** in size. We thus host only a small sample (2k lines) on Github for each dataset. 
 
 ### How to get the data? 
-If you are interested in these datasets, please request the **[raw logs at Zenodo](https://doi.org/10.5281/zenodo.1144100)** or visit the source links wherever applicable.
+If you are interested in these datasets, please request the **[raw logs at Zenodo](https://doi.org/10.5281/zenodo.1144100)**. Kindly note that missing of the required information may result in ignorance of your request without any further notification.
+
+**Note**: The loghub datasets are currently in beta release!
 
 Logs currently available:
 
@@ -46,13 +48,7 @@ Logs currently available:
 
 
 ### Organizations that request these datasets
-| Industry | | | | 
-| :--- | :--- | :--- | :--- |
-| Huawei | VMWare Research | HSBC | 
-| **Academy** | | | | 
-| CUHK | University of Utah | Trinity College Dublin | University of La Rochelle| 
-| Simula Research Lab | Indraprastha University | University of Hamburg| |
-
+We proudly announce that the loghub datasets have been requested by more than [31 organizations](https://github.com/logpai/loghub/wiki/Loghub).
 
 
 ### Feedback
@@ -61,5 +57,5 @@ For any questions or feedback, please post to [our issue page](https://github.co
 ### License
 The log datasets are freely available ONLY for research purposes. 
 
-[LogPAI Team](https://github.com/orgs/logpai/people), 2018
+[![copyright](https://img.shields.io/badge/copyright-2018%20LogPAI-blue.svg)](https://github.com/orgs/logpai/people)
 

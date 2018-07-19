@@ -55,7 +55,7 @@ We proudly announce that the loghub datasets have been requested by more than [3
 For any questions or feedback, please post to [our issue page](https://github.com/logpai/loghub/issues).
 
 ### License
-The log datasets are freely available ONLY for research purposes. 
+The log datasets are freely available for research purposes. 
 
-[![copyright](https://img.shields.io/badge/copyright-2018%20LogPAI-blue.svg)](https://github.com/orgs/logpai/people)
+
 

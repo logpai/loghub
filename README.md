@@ -48,7 +48,7 @@ Logs currently available:
 
 
 ### Organizations that request these datasets
-We proudly announce that the loghub datasets have been requested by more than [64 organizations](https://github.com/logpai/loghub/wiki/Loghub).
+We proudly announce that the loghub datasets have been requested by more than [64 organizations](https://github.com/logpai/loghub/wiki/Loghub) from both industry and academia.
 
 
 ### Feedback

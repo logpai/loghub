@@ -1,3 +1,6 @@
+<p align="center"> <img src="https://github.com/logpai/logpai.github.io/blob/master/img/logpai_logo.jpg" width="500" height="125"/>
+</p>
+
 # Loghub
 Loghub maintains a collection of system logs, which are freely accessible for research purposes. Some of the logs are production data released from previous studies, while some others are collected from real systems in our lab environment. Wherever possible, the logs are NOT sanitized, anonymized or modified in any way. All these logs amount to over **87GB** in size. We thus host only a small sample (2k lines) on Github for each dataset. 
 

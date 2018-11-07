@@ -12,7 +12,7 @@ If you are interested in these datasets, please request the **[raw logs at Zenod
 Logs currently available:
 
 | Software System               | Time Span  |  #Messages  |   Size   | Compressed (gzip) |        
-| :---------------------------- | --------: | ---------: | ------: | ------------------: | :--------------------------------------: |
+| :---------------------------- | --------: | ---------: | ------: | ------------------: | 
 | **Distributed systems**       |            |             |          |                      |                                          
 | [HDFS](./HDFS)                | 38.7 hours | 11,175,629  |  1.54GB  |       152.01MB       |                                          
 |                               |    N.A.    | 71,118,073  | 16.84GB  |       877.38MB       |                                          

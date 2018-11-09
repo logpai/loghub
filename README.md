@@ -5,11 +5,14 @@
 Loghub maintains a collection of system logs, which are freely accessible for research purposes. Some of the logs are production data released from previous studies, while some others are collected from real systems in our lab environment. Wherever possible, the logs are NOT sanitized, anonymized or modified in any way. All these logs amount to over **87GB** in size. We thus host only a small sample (2k lines) on Github for each dataset. 
 
 ### How to get the data? 
-If you are interested in these datasets, please request the **[raw logs at Zenodo](https://doi.org/10.5281/zenodo.1144100)**. Kindly note that missing of the required information may result in ignorance of your request without any further notification.
+If you are interested in these datasets, please request the **[raw logs at Zenodo](https://doi.org/10.5281/zenodo.1144100)**. Please kindly note that the affiliation information is minimally required for your data request.
 
-**Note**: The loghub datasets are currently in beta release!
 
-Logs currently available:
+**Note**: If you use our loghub datasets in your research for publication, please kindly cite the following paper.
++ [**Arxiv'18**] Jieming Zhu, Shilin He, Jinyang Liu, Pinjia He, Qi Xie, Zibin Zheng, Michael R. Lyu. [Tools and Benchmarks for Automated Log Parsing](https://arxiv.org/pdf/1811.03509.pdf). arXiv:1811.03509, 2018.
+
+
+### Logs currently available (still in beta release):
 
 | Software System               | Time Span  |  #Messages  |   Size   | Compressed (gzip) |        
 | :---------------------------- | --------: | ---------: | ------: | ------------------: | 

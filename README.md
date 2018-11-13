@@ -53,7 +53,7 @@ If you are interested in these datasets, please request the **[raw logs at Zenod
 
 
 ### Organizations that request these datasets
-We proudly announce that the loghub datasets have been requested by more than [**110 organizations**](https://github.com/logpai/loghub/wiki/Loghub) from both industry and academia.
+We proudly announce that the loghub datasets have been requested by more than [**120 organizations**](https://github.com/logpai/loghub/wiki/Loghub) from both industry and academia.
 
 
 ### Feedback

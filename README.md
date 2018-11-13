@@ -30,7 +30,8 @@ If you are interested in these datasets, please request the **[raw logs at Zenod
 | [Windows](./Windows)          | Windows event log | 226.7 days | 114,608,388 | 27.36GB  |        1.63GB        |                       
 | [Linux](./Linux)              | Linux system log | 263.9 days |   25,567    |  2.30MB  |        228KB         |                       
 | [Mac](./Mac)                  | Mac OS log | 7.0 days  |   117,283   | 16.48MB  |        1.46MB        |                               | **Mobile systems**            |     |       |             |          |                      |                                         
-| [Andriod](./Andriod)          |  Andriod framework log |  N.A.    | 63,042,037  |  7.00GB  |       825.57MB       |                   |                               |  Andriod kernel log    |  N.A.     |            |          |                       |         
+| [Andriod](./Andriod)          |  Andriod framework log |  N.A.    | 63,042,037  |  7.00GB  |       825.57MB       |
+|                               |  Andriod kernel log    |  N.A.     |            |          |                      |         
 | [HealthApp](./HealthApp)      | Health app log | 10.5 days  |   253,395   | 22.98MB  |        2.24MB        |            
 | **Server applications**       |    |        |             |          |                      |                                         
 | [Apache](./Apache) | Apache web server error log | 263.9 days |   56,481    |  5.02MB  |        260KB         |                       

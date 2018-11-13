@@ -36,7 +36,7 @@ If you are interested in these datasets, please request the **[raw logs at Zenod
 | [Apache](./Apache) | Apache web server error log | 263.9 days |   56,481    |  5.02MB  |        260KB         |                       
 | [OpenSSH](./OpenSSH)          | OpenSSH server log |  28.4 days  |   655,146   | 71.70MB  |        4.49MB        |                     
 | **Standalone software**       |   |         |             |          |                      |                                         
-| [Proxifier](./Proxifier)      |   Proxifier software log | N.A.    |   21,329    |  2.48MB  |        172KB         |                                          
+| [Proxifier](./Proxifier)      |   Proxifier software log | N.A.    |   21,329    |  2.48MB  |        172KB         |                                        
 
  
 ### Publications using these datasets

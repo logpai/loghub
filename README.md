@@ -11,19 +11,19 @@ If you use our loghub datasets in your research for publication, please kindly c
 If you are interested in these datasets, please request the **[raw logs at Zenodo](https://doi.org/10.5281/zenodo.1144100)**. Please kindly note that the affiliation information is minimally required for your data request. 
 
 
-### Logs currently available (still in beta release):
+### Logs currently available:
 
 | Software System               | Description | Time Span  |  #Messages  |   Size   | Compressed (gzip) |        
 | :---------------------------- | :--------| --------: | ---------: | ------: | ------------------: | 
 | **Distributed systems**       |    |        |             |          |                      |                                         
-| [HDFS](./HDFS)                | Hadoop distributed file system log | 38.7 hours | 11,175,629  |  1.54GB  |       152.01MB       |     
+| [HDFS](./HDFS)                | Hadoop distributed file system log (labeled) | 38.7 hours | 11,175,629  |  1.54GB  |       152.01MB       |     
 |                               | |    N.A.    | 71,118,073  | 16.84GB  |       877.38MB       |                                         
-| [Hadoop](./Hadoop)            |  Hadoop mapreduce job log |  N.A.    |   394,308   | 49.78MB  |        2.50MB        |                 
+| [Hadoop](./Hadoop)            |  Hadoop mapreduce job log (labeled) |  N.A.    |   394,308   | 49.78MB  |        2.50MB        |                 
 | [Spark](./Spark)              | Spark job log|    N.A.    | 33,236,604  |  2.88GB  |       179.18MB       |                           
 | [Zookeeper](./Zookeeper)      | ZooKeeper service log | 26.7 days  |   74,380    | 10.18MB  |        452KB         |                   
-| [OpenStack](./OpenStack)      |  OpenStack software log |  N.A.    |   207,820   | 60.02MB  |        5.27MB        | 
+| [OpenStack](./OpenStack)      |  OpenStack infrastructure log (labeled) |  N.A.    |   207,820   | 60.02MB  |        5.27MB        | 
 | **Supercomputers**            |     |       |             |          |                      |                                         
-| [BGL](./BGL)          | Blue Gene/L supercomputer log | 214.7 days |  4,747,963  | 725.77MB |       61.46MB        | 
+| [BGL](./BGL)          | Blue Gene/L supercomputer log (labeled) | 214.7 days |  4,747,963  | 725.77MB |       61.46MB        | 
 | [HPC](./HPC)                  |  High performance cluster log |  N.A.    |   433,489   | 32.77MB  |        3.21MB        |             
 | [Thunderbird](./Thunderbird)  |  Thunderbird supercomputer log | 244 days  | 211,212,192 | 31.04GB  |        1.97GB        |  
 | **Operating systems**         |   |         |             |          |                      |                                         
@@ -31,8 +31,7 @@ If you are interested in these datasets, please request the **[raw logs at Zenod
 | [Linux](./Linux)              | Linux system log | 263.9 days |   25,567    |  2.30MB  |        228KB         |                       
 | [Mac](./Mac)                  | Mac OS log | 7.0 days  |   117,283   | 16.48MB  |        1.46MB        |
 | **Mobile systems**            |     |       |             |          |                      |                                         
-| [Andriod](./Andriod)          |  Andriod framework log |  N.A.    | 63,042,037  |  7.00GB  |       825.57MB       |
-|                               |  Andriod kernel log    |  N.A.     |            |          |                      |         
+| [Andriod](./Andriod)          |  Andriod framework log |  N.A.    | 63,042,037  |  7.00GB  |       825.57MB       |        
 | [HealthApp](./HealthApp)      | Health app log | 10.5 days  |   253,395   | 22.98MB  |        2.24MB        |            
 | **Server applications**       |    |        |             |          |                      |                                         
 | [Apache](./Apache) | Apache web server error log | 263.9 days |   56,481    |  5.02MB  |        260KB         |                       
@@ -40,10 +39,10 @@ If you are interested in these datasets, please request the **[raw logs at Zenod
 | **Standalone software**       |   |         |             |          |                      |                                         
 | [Proxifier](./Proxifier)      |   Proxifier software log | N.A.    |   21,329    |  2.48MB  |        172KB         |                                        
 
- 
 ### Publications using these datasets
++ [**TDSC'17**] Min Du, Feifei Li. [Spell: Online Streaming Parsing of Large Unstructured System Logs](https://ieeexplore.ieee.org/abstract/document/8489912). IEEE Transactions on Knowledge and Data Engineering (TKDE), 2018.
++ [**TDSC'18**] Pinjia He, Jieming Zhu, Shilin He, Jian Li, Michael R. Lyu. [Towards Automated Log Parsing for Large-Scale Log Data Analysis](https://ieeexplore.ieee.org/document/8067504). IEEE Transactions on Dependable and Secure Computing (TDSC), 2018.
 + [**CCS'17**] Min Du, Feifei Li, Guineng Zheng, Vivek Srikumar. [DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning](https://acmccs.github.io/papers/p1285-duA.pdf). ACM Conference on Computer and Communications Security (CCS), 2017.
-+ [**TDSC'17**] Pinjia He, Jieming Zhu, Shilin He, Jian Li, Michael R. Lyu. [Towards Automated Log Parsing for Large-Scale Log Data Analysis](http://jiemingzhu.github.io/pub/pjhe_tdsc2017.pdf). IEEE Transactions on Dependable and Secure Computing (TDSC), 2017.
 + [**ICWS'17**] Pinjia He, Jieming Zhu, Zibin Zheng, Michael R. Lyu. [Drain: An Online Log Parsing Approach with Fixed Depth Tree](http://jiemingzhu.github.io/pub/pjhe_icws2017.pdf). IEEE International Conference on Web Services (ICWS), 2017.
 + [**ICSE'16**] Qingwei Lin, Hongyu Zhang, Jian-Guang Lou, Yu Zhang, Xuewei Chen. [Log Clustering Based Problem Identification for Online Service Systems](http://ieeexplore.ieee.org/document/7883294/). International Conference on Software Engineering (ICSE), 2016.
 + [**DSN'16**] Pinjia He, Jieming Zhu, Shilin He, Jian Li, Michael R. Lyu. [An Evaluation Study on Log Parsing and Its Use in Log Mining](http://jiemingzhu.github.io/pub/pjhe_dsn2016.pdf). IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2016.

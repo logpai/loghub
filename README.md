@@ -55,11 +55,12 @@ If you are interested in these datasets, please request the **[raw logs at Zenod
 ### Organizations that request these datasets
 We proudly announce that the loghub datasets have been requested by more than [**120 organizations**](https://github.com/logpai/loghub/wiki/Loghub) from both industry and academia.
 
-### Links
+### Additional Logs
 We have some links to additional log datasets that are related to security research.
 + VizSec Datasets: https://vizsec.org/data
 + Security Repo: http://www.secrepo.com
 + Public Security Log Sharing Site: http://log-sharing.dreamhosters.com
++ The Computer Failure Data Repository: https://www.usenix.org/cfdr
 + EDGAR Log File Data Set: https://www.sec.gov/dera/data/edgar-log-file-data-set.html
 
 ### Feedback

@@ -60,6 +60,7 @@ We have some links to additional log datasets that are related to security resea
 + VizSec Datasets: https://vizsec.org/data
 + Security Repo: http://www.secrepo.com
 + Public Security Log Sharing Site: http://log-sharing.dreamhosters.com
++ EDGAR Log File Data Set: https://www.sec.gov/dera/data/edgar-log-file-data-set.html
 
 ### Feedback
 For any questions or feedback, please post to [our issue page](https://github.com/logpai/loghub/issues).

@@ -6,7 +6,7 @@ The logs are generated from a Hadoop cluster using two testing applications:
 occurrences of each word in the input files.
 + *PageRank*: a program that is used by a search engine for ranking Web pages. 
 
-Firstly, the applications are run without injecting any failures. Then, in order to simulate service failures in production environment, the following deployment failures are injected:
+Firstly, the applications are run without injecting any failure . Then, in order to simulate service failures in production environment, the following deployment failures are injected:
 + *Machine down*: turn off one server when the applications are running to simulate the machine failure.
 + *Network disconnection*: disconnect one server from the network to simulate the network connection failure.
 + *Disk full*: manually fill up one server's hard disk when the applications are running to simulate the disk full failure.

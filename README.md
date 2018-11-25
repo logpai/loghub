@@ -25,7 +25,7 @@ If you are interested in these datasets, please request the **[raw logs at Zenod
 | **Supercomputers**            |     |       |             |          |                      |                                         
 | [BGL](./BGL)          | Blue Gene/L supercomputer log (*labeled*) | 214.7 days |  4,747,963  | 725.77MB |       61.46MB        | 
 | [HPC](./HPC)                  |  High performance cluster log |  N.A.    |   433,489   | 32.77MB  |        3.21MB        |             
-| [Thunderbird](./Thunderbird)  |  Thunderbird supercomputer log | 244 days  | 211,212,192 | 31.04GB  |        1.97GB        |  
+| [Thunderbird](./Thunderbird)  |  Thunderbird supercomputer log (*labeled*) | 244 days  | 211,212,192 | 31.04GB  |        1.97GB        |  
 | **Operating systems**         |   |         |             |          |                      |                                         
 | [Windows](./Windows)          | Windows event log | 226.7 days | 114,608,388 | 27.36GB  |        1.63GB        |                       
 | [Linux](./Linux)              | Linux system log | 263.9 days |   25,567    |  2.30MB  |        228KB         |                       

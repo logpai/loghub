@@ -4,7 +4,7 @@
 # Loghub
 Loghub maintains a collection of system logs, which are freely accessible for research purposes. Some of the logs are production data released from previous studies, while some others are collected from real systems in our lab environment. Wherever possible, the logs are NOT sanitized, anonymized or modified in any way. All these logs amount to over **87GB** in size. We thus host only a small sample (2k lines) on Github for each dataset. 
 
-If you use our loghub datasets in your research for publication, please kindly cite the following paper.
+If you use the loghub datasets in your research for publication, please kindly cite the following paper.
 + Jieming Zhu, Shilin He, Jinyang Liu, Pinjia He, Qi Xie, Zibin Zheng, Michael R. Lyu. [Tools and Benchmarks for Automated Log Parsing](https://arxiv.org/pdf/1811.03509.pdf). *arXiv:1811.03509*, 2018.
 
 ### How to get the data? 
@@ -16,28 +16,29 @@ If you are interested in these datasets, please request the **[raw logs at Zenod
 | Software System               | Description | Time Span  |  #Messages  |   Size   | Compressed (gzip) |        
 | :---------------------------- | :--------| --------: | ---------: | ------: | ------------------: | 
 | **Distributed systems**       |    |        |             |          |                      |                                         
-| [HDFS](./HDFS)                | Hadoop distributed file system log (*labeled*) | 38.7 hours | 11,175,629  |  1.54GB  |       152.01MB       |     
-|                               | |    N.A.    | 71,118,073  | 16.84GB  |       877.38MB       |                                         
-| [Hadoop](./Hadoop)            |  Hadoop mapreduce job log (*labeled*) |  N.A.    |   394,308   | 49.78MB  |        2.50MB        |                 
-| [Spark](./Spark)              | Spark job log|    N.A.    | 33,236,604  |  2.88GB  |       179.18MB       |                           
-| [Zookeeper](./Zookeeper)      | ZooKeeper service log | 26.7 days  |   74,380    | 10.18MB  |        452KB         |                   
-| [OpenStack](./OpenStack)      |  OpenStack infrastructure log (*labeled*) |  N.A.    |   207,820   | 60.02MB  |        5.27MB        | 
-| **Supercomputers**            |     |       |             |          |                      |                                         
-| [BGL](./BGL)          | Blue Gene/L supercomputer log (*labeled*) | 214.7 days |  4,747,963  | 725.77MB |       61.46MB        | 
-| [HPC](./HPC)                  |  High performance cluster log |  N.A.    |   433,489   | 32.77MB  |        3.21MB        |             
-| [Thunderbird](./Thunderbird)  |  Thunderbird supercomputer log (*labeled*) | 244 days  | 211,212,192 | 31.04GB  |        1.97GB        |  
+| [HDFS](./HDFS)                | Hadoop distributed file system log (*labeled*) | 38.7 hours | 11,175,629  |  1.47GB  |       154.39MB       |     
+|                               | Hadoop distributed file system log  |    N.A.    | 71,118,073  | 16.06GB  |       856.82MB       |     
+| [Hadoop](./Hadoop)            |  Hadoop mapreduce job log (*labeled*) |   N.A.    |   394,308   | 48.61MB  |        2.45MB        |
+| [Spark](./Spark)              | Spark job log|    N.A.    | 33,236,604  |  2.75GB  |       174.98MB       |                           
+| [Zookeeper](./Zookeeper)      | ZooKeeper service log | 26.7 days  |   74,380    | 9.95MB  |        452KB         |     
+| [OpenStack](./OpenStack)      |  OpenStack infrastructure log (*labeled*) |  N.A.    |   207,820   | 58.61MB  |        5.15MB      | 
+| **Supercomputers**            |     |       |            |          |               |
+| [BGL](./BGL)          | Blue Gene/L supercomputer log (*labeled*) | 214.7 days |  4,747,963  | 708.76MB |       60.02MB        | 
+| [HPC](./HPC)                  |  High performance cluster log |  N.A.    |   433,489   | 32.00MB  |        3.13MB        |             
+| [Thunderbird](./Thunderbird)  |  Thunderbird supercomputer log (*labeled*) | 244 days  | 211,212,192 | 29.60GB  |       1.88GB        |  
 | **Operating systems**         |   |         |             |          |                      |                                         
-| [Windows](./Windows)          | Windows event log | 226.7 days | 114,608,388 | 27.36GB  |        1.63GB        |                       
-| [Linux](./Linux)              | Linux system log | 263.9 days |   25,567    |  2.30MB  |        228KB         |                       
-| [Mac](./Mac)                  | Mac OS log | 7.0 days  |   117,283   | 16.48MB  |        1.46MB        |
+| [Windows](./Windows)          | Windows event log | 226.7 days | 114,608,388 | 26.09GB  |        1.55GB        |      
+| [Linux](./Linux)              | Linux system log | 263.9 days |   25,567    |  2.25MB  |        228KB         |   
+| [Mac](./Mac)                  | Mac OS log | 7.0 days  |   117,283   | 16.09MB  |        1.43MB        |
 | **Mobile systems**            |     |       |             |          |                      |                                         
-| [Andriod](./Andriod)          |  Andriod framework log |  N.A.    | 63,042,037  |  7.00GB  |       825.57MB       |        
-| [HealthApp](./HealthApp)      | Health app log | 10.5 days  |   253,395   | 22.98MB  |        2.24MB        |            
+| [Andriod](./Andriod)          |  Andriod framework log |  N.A.    | 63,042,037  |  183.37MB |       24.51MB       |        
+| [HealthApp](./HealthApp)      | Health app log | 10.5 days  |   253,395   | 22.44MB  |        2.19MB        |            
 | **Server applications**       |    |        |             |          |                      |                                         
-| [Apache](./Apache) | Apache web server error log | 263.9 days |   56,481    |  5.02MB  |        260KB         |                       
-| [OpenSSH](./OpenSSH)          | OpenSSH server log |  28.4 days  |   655,146   | 71.70MB  |        4.49MB        |                     
+| [Apache](./Apache) | Apache web server error log | 263.9 days |   56,481    |  4.90MB  |        260KB         |                       
+| [OpenSSH](./OpenSSH)          | OpenSSH server log |  28.4 days  |   655,146   | 70.02MB  |        4.38MB        |                     
 | **Standalone software**       |   |         |             |          |                      |                                         
-| [Proxifier](./Proxifier)      |   Proxifier software log | N.A.    |   21,329    |  2.48MB  |        172KB         |                                        
+| [Proxifier](./Proxifier)      |   Proxifier software log | N.A.    |   21,329    |  2.42MB  |        172KB         |                                        
+
 
 ### Publications using these datasets
 + [**TKDE'18**] Min Du, Feifei Li. [Spell: Online Streaming Parsing of Large Unstructured System Logs](https://ieeexplore.ieee.org/abstract/document/8489912). IEEE Transactions on Knowledge and Data Engineering (TKDE), 2018.
@@ -52,8 +53,8 @@ If you are interested in these datasets, please request the **[raw logs at Zenod
 + [**DSN'07**] Adam J. Oliner, Jon Stearley. [What Supercomputers Say: A Study of Five System Logs](http://ieeexplore.ieee.org/document/4273008/). IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2007.
 
 
-### Organizations that request these datasets
-We proudly announce that the loghub datasets have been requested by more than [**120 organizations**](https://github.com/logpai/loghub/wiki/Loghub) from both industry and academia.
+### Organizations that download these datasets
+We proudly announce that the loghub datasets have been downloaded [580+](https://doi.org/10.5281/zenodo.1144100) times by more than [**130 organizations**](https://github.com/logpai/loghub/wiki/Loghub) from both industry and academia.
 
 ### Additional Logs
 We have some links to additional log datasets that are related to security research.

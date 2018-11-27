@@ -2,7 +2,7 @@
 </p>
 
 # Loghub
-Loghub maintains a collection of system logs, which are freely accessible for research purposes. Some of the logs are production data released from previous studies, while some others are collected from real systems in our lab environment. Wherever possible, the logs are NOT sanitized, anonymized or modified in any way. All these logs amount to over **87GB** in size. We thus host only a small sample (2k lines) on Github for each dataset. 
+Loghub maintains a collection of system logs, which are freely accessible for research purposes. Some of the logs are production data released from previous studies, while some others are collected from real systems in our lab environment. Wherever possible, the logs are NOT sanitized, anonymized or modified in any way. All these logs amount to over **77GB** in size. We thus host only a small sample (2k lines) on Github for each dataset. 
 
 If you use the loghub datasets in your research for publication, please kindly cite the following paper.
 + Jieming Zhu, Shilin He, Jinyang Liu, Pinjia He, Qi Xie, Zibin Zheng, Michael R. Lyu. [Tools and Benchmarks for Automated Log Parsing](https://arxiv.org/pdf/1811.03509.pdf). *arXiv:1811.03509*, 2018.
@@ -31,7 +31,7 @@ If you are interested in these datasets, please request the **[raw logs at Zenod
 | [Linux](./Linux)              | Linux system log | 263.9 days |   25,567    |  2.25MB  |        228KB         |   
 | [Mac](./Mac)                  | Mac OS log | 7.0 days  |   117,283   | 16.09MB  |        1.43MB        |
 | **Mobile systems**            |     |       |             |          |                      |                                         
-| [Andriod](./Andriod)          |  Andriod framework log |  N.A.    | 63,042,037  |  183.37MB |       24.51MB       |        
+| [Andriod](./Andriod)          |  Andriod framework log |  N.A.    | 1,555,005  |  183.37MB |       24.51MB       |        
 | [HealthApp](./HealthApp)      | Health app log | 10.5 days  |   253,395   | 22.44MB  |        2.19MB        |            
 | **Server applications**       |    |        |             |          |                      |                                         
 | [Apache](./Apache) | Apache web server error log | 263.9 days |   56,481    |  4.90MB  |        260KB         |                       
@@ -54,7 +54,7 @@ If you are interested in these datasets, please request the **[raw logs at Zenod
 
 
 ### Organizations that download these datasets
-We proudly announce that the loghub datasets have been downloaded [580+](https://doi.org/10.5281/zenodo.1144100) times by more than [**130 organizations**](https://github.com/logpai/loghub/wiki/Loghub) from both industry and academia.
+We proudly announce that the loghub datasets have been downloaded [**580+**](https://doi.org/10.5281/zenodo.1144100) times by more than [**130 organizations**](https://github.com/logpai/loghub/wiki/Loghub) from both industry and academia.
 
 ### Additional Logs
 We have some links to additional log datasets that are related to security research.

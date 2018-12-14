@@ -8,8 +8,6 @@ Loghub maintains a collection of system logs, which are freely accessible for re
 + Jieming Zhu, Shilin He, Jinyang Liu, Pinjia He, Qi Xie, Zibin Zheng, Michael R. Lyu. [Tools and Benchmarks for Automated Log Parsing](https://arxiv.org/pdf/1811.03509.pdf). *arXiv:1811.03509*, 2018.
 
 ### How to get the data? 
-:telescope: **News**: All data have been released, 2018/11/28.
-
 If you are interested in these datasets, please request the **[raw logs at Zenodo](https://doi.org/10.5281/zenodo.1144100)**. Kindly note that the affiliation information is minimally required for your data request. 
 
 

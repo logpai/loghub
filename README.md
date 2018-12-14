@@ -15,31 +15,31 @@ If you are interested in these datasets, please request the **[raw logs at Zenod
 
 ### Logs currently available:
 
-| Software System               | Description | Time Span  |  #Messages  |   Size   | Compressed (gzip) |        
-| :---------------------------- | :--------| --------: | ---------: | ------: | ------------------: | 
-| **Distributed systems**       |    |        |             |          |                      |                                         
-| [HDFS](./HDFS)                | Hadoop distributed file system log (*labeled*) | 38.7 hours | 11,175,629  |  1.47GB  |       154.39MB       |     
-|                               | Hadoop distributed file system log  |    N.A.    | 71,118,073  | 16.06GB  |       856.82MB       |     
-| [Hadoop](./Hadoop)            |  Hadoop mapreduce job log (*labeled*) |   N.A.    |   394,308   | 48.61MB  |        2.45MB        |
-| [Spark](./Spark)              | Spark job log|    N.A.    | 33,236,604  |  2.75GB  |       174.98MB       |                           
-| [Zookeeper](./Zookeeper)      | ZooKeeper service log | 26.7 days  |   74,380    | 9.95MB  |        452KB         |     
-| [OpenStack](./OpenStack)      |  OpenStack infrastructure log (*labeled*) |  N.A.    |   207,820   | 58.61MB  |        5.15MB      | 
-| **Supercomputers**            |     |       |            |          |               |
-| [BGL](./BGL)          | Blue Gene/L supercomputer log (*labeled*) | 214.7 days |  4,747,963  | 708.76MB |       60.02MB        | 
-| [HPC](./HPC)                  |  High performance cluster log |  N.A.    |   433,489   | 32.00MB  |        3.13MB        |             
-| [Thunderbird](./Thunderbird)  |  Thunderbird supercomputer log (*labeled*) | 244 days  | 211,212,192 | 29.60GB  |       1.88GB        |  
-| **Operating systems**         |   |         |             |          |                      |                                         
-| [Windows](./Windows)          | Windows event log | 226.7 days | 114,608,388 | 26.09GB  |        1.55GB        |      
-| [Linux](./Linux)              | Linux system log | 263.9 days |   25,567    |  2.25MB  |        228KB         |   
-| [Mac](./Mac)                  | Mac OS log | 7.0 days  |   117,283   | 16.09MB  |        1.43MB        |
-| **Mobile systems**            |     |       |             |          |                      |                                         
-| [Andriod](./Andriod)          |  Andriod framework log |  N.A.    | 1,555,005  |  183.37MB |       24.51MB       |        
-| [HealthApp](./HealthApp)      | Health app log | 10.5 days  |   253,395   | 22.44MB  |        2.19MB        |            
-| **Server applications**       |    |        |             |          |                      |                                         
-| [Apache](./Apache) | Apache web server error log | 263.9 days |   56,481    |  4.90MB  |        260KB         |                       
-| [OpenSSH](./OpenSSH)          | OpenSSH server log |  28.4 days  |   655,146   | 70.02MB  |        4.38MB        |                     
-| **Standalone software**       |   |         |             |          |                      |                                         
-| [Proxifier](./Proxifier)      |   Proxifier software log | N.A.    |   21,329    |  2.42MB  |        172KB         |                                        
+| Software System               | Description | Time Span  |  #Messages  |   Raw Size   |     
+| :---------------------------- | :--------| --------: | ---------: | ------: | 
+| **Distributed systems**       |    |        |             |          |                                                
+| [HDFS](./HDFS)                | Hadoop distributed file system log (*labeled*) | 38.7 hours | 11,175,629  |  1.47GB  |        
+|                               | Hadoop distributed file system log  |    N.A.    | 71,118,073  | 16.06GB  |          
+| [Hadoop](./Hadoop)            |  Hadoop mapreduce job log (*labeled*) |   N.A.    |   394,308   | 48.61MB  |     
+| [Spark](./Spark)              | Spark job log|    N.A.    | 33,236,604  |  2.75GB  |                               
+| [Zookeeper](./Zookeeper)      | ZooKeeper service log | 26.7 days  |   74,380    | 9.95MB  |      
+| [OpenStack](./OpenStack)      |  OpenStack infrastructure log (*labeled*) |  N.A.    |   207,820   | 58.61MB  |       
+| **Supercomputers**            |     |       |            |          |               
+| [BGL](./BGL)          | Blue Gene/L supercomputer log (*labeled*) | 214.7 days |  4,747,963  | 708.76MB |    
+| [HPC](./HPC)                  |  High performance cluster log |  N.A.    |   433,489   | 32.00MB  |               
+| [Thunderbird](./Thunderbird)  |  Thunderbird supercomputer log (*labeled*) | 244 days  | 211,212,192 | 29.60GB  |  
+| **Operating systems**         |   |         |             |          |                                                              
+| [Windows](./Windows)          | Windows event log | 226.7 days | 114,608,388 | 26.09GB  |        
+| [Linux](./Linux)              | Linux system log | 263.9 days |   25,567    |  2.25MB  |   
+| [Mac](./Mac)                  | Mac OS log | 7.0 days  |   117,283   | 16.09MB  |   
+| **Mobile systems**            |     |       |             |          |                                                     
+| [Andriod](./Andriod)          |  Andriod framework log |  N.A.    | 1,555,005  |  183.37MB |       
+| [HealthApp](./HealthApp)      | Health app log | 10.5 days  |   253,395   | 22.44MB  |               
+| **Server applications**       |    |        |             |          |                                                    
+| [Apache](./Apache) | Apache web server error log | 263.9 days |   56,481    |  4.90MB  |                           
+| [OpenSSH](./OpenSSH)          | OpenSSH server log |  28.4 days  |   655,146   | 70.02MB  |                        
+| **Standalone software**       |   |         |             |          |                                                     
+| [Proxifier](./Proxifier)      |   Proxifier software log | N.A.    |   21,329    |  2.42MB  |                                             
 
 
 ### Publications using these datasets

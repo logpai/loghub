@@ -5,7 +5,7 @@
 Loghub maintains a collection of system logs, which are freely accessible for research purposes. Some of the logs are production data released from previous studies, while some others are collected from real systems in our lab environment. Wherever possible, the logs are NOT sanitized, anonymized or modified in any way. All these logs amount to over **77GB** in total. We thus host only a small sample (2k lines) on Github for each dataset. 
 
 :telescope: If you use the loghub datasets in your research for publication, please kindly cite the following paper.
-+ Jieming Zhu, Shilin He, Jinyang Liu, Pinjia He, Qi Xie, Zibin Zheng, Michael R. Lyu. [Tools and Benchmarks for Automated Log Parsing](https://arxiv.org/pdf/1811.03509.pdf). To appear in International Conference on Software Engineering (**ICSE**), 2019.
++ Jieming Zhu, Shilin He, Jinyang Liu, Pinjia He, Qi Xie, Zibin Zheng, Michael R. Lyu. [Tools and Benchmarks for Automated Log Parsing](https://arxiv.org/pdf/1811.03509.pdf). *To appear in International Conference on Software Engineering (ICSE)*, 2019.
 
 ### How to get the data? 
 If you are interested in these datasets, please request the **[raw logs at Zenodo](https://doi.org/10.5281/zenodo.1144100)**. Kindly note that the affiliation information is minimally required for your data request. 
@@ -41,6 +41,7 @@ If you are interested in these datasets, please request the **[raw logs at Zenod
 
 
 ### Publications using these datasets
++ [**ICSE'19**] Jieming Zhu, Shilin He, Jinyang Liu, Pinjia He, Qi Xie, Zibin Zheng, Michael R. Lyu. [Tools and Benchmarks for Automated Log Parsing](https://arxiv.org/pdf/1811.03509.pdf). International Conference on Software Engineering (ICSE), 2019.
 + [**TKDE'18**] Min Du, Feifei Li. [Spell: Online Streaming Parsing of Large Unstructured System Logs](https://ieeexplore.ieee.org/abstract/document/8489912). IEEE Transactions on Knowledge and Data Engineering (TKDE), 2018.
 + [**TDSC'18**] Pinjia He, Jieming Zhu, Shilin He, Jian Li, Michael R. Lyu. [Towards Automated Log Parsing for Large-Scale Log Data Analysis](https://ieeexplore.ieee.org/document/8067504). IEEE Transactions on Dependable and Secure Computing (TDSC), 2018.
 + [**CCS'17**] Min Du, Feifei Li, Guineng Zheng, Vivek Srikumar. [DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning](https://acmccs.github.io/papers/p1285-duA.pdf). ACM Conference on Computer and Communications Security (CCS), 2017.

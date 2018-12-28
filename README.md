@@ -13,7 +13,7 @@ If you are interested in these datasets, please request the **[raw logs at Zenod
 
 ### Logs currently available:
 
-| Software System               | Description | Time Span  |  #Messages  |   Raw Size   |     
+| Software System               | Description | Time Span  |  #Messages  |   Data Size   |     
 | :---------------------------- | :--------| --------: | ---------: | ------: | 
 | **Distributed systems**       |    |        |             |          |                                                
 | [HDFS](./HDFS)                | Hadoop distributed file system log (*labeled*) | 38.7 hours | 11,175,629  |  1.47GB  |        

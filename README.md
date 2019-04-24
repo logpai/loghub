@@ -8,7 +8,7 @@ Loghub maintains a collection of system logs, which are freely accessible for re
 + Jieming Zhu, Shilin He, Jinyang Liu, Pinjia He, Qi Xie, Zibin Zheng, Michael R. Lyu. [Tools and Benchmarks for Automated Log Parsing](https://arxiv.org/pdf/1811.03509.pdf). *To appear in International Conference on Software Engineering (ICSE)*, 2019.
 
 ### How to get the data? 
-If you are interested in these datasets, please request the **[raw logs via Zenodo](https://doi.org/10.5281/zenodo.1144100)**. Kindly note that the affiliation information is required for your data request. If not, your request may be rejected and in this case, Zenodo will make no notifications. So, please consider to resubmit your data request **with the required information** if you do not receive any response from Zenodo within one week. 
+If you are interested in these datasets, please request the **[raw logs via Zenodo](https://doi.org/10.5281/zenodo.1144100)**. Kindly note that the affiliation information is required for your data request. If you do not receive any response from Zenodo within one week, please check your spam mailbox or consider to resubmit your data request **with the required information**. 
 
 
 ### Logs currently available:
@@ -55,7 +55,7 @@ If you are interested in these datasets, please request the **[raw logs via Zeno
 
 
 ### Organizations that download these datasets
-:telescope: We proudly announce that the loghub datasets have been downloaded [**2100+**](https://doi.org/10.5281/zenodo.1144100) times by more than [**210 organizations**](https://github.com/logpai/loghub/wiki/Loghub) from both industry and academia.
+:telescope: We proudly announce that the loghub datasets have been downloaded [**2300+**](https://doi.org/10.5281/zenodo.1144100) times by more than [**225 organizations**](https://github.com/logpai/loghub/wiki/Loghub) from both industry and academia.
 
 ### Additional Logs
 We have some links to additional log datasets that are related to security research.

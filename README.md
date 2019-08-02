@@ -1,10 +1,10 @@
 <p align="center"> <a href="https://github.com/logpai"> <img src="https://github.com/logpai/logpai.github.io/blob/master/img/logpai_logo.jpg" width="425"></a></p>
 
-:telescope: If you use the loghub datasets in your research for publication, please kindly cite the following paper.
-+ Jieming Zhu, Shilin He, Jinyang Liu, Pinjia He, Qi Xie, Zibin Zheng, Michael R. Lyu. [Tools and Benchmarks for Automated Log Parsing](https://arxiv.org/pdf/1811.03509.pdf). *International Conference on Software Engineering (ICSE)*, 2019. 
-
 # Loghub
 Loghub maintains a collection of system logs, which are freely accessible for research purposes. Some of the logs are production data released from previous studies, while some others are collected from real systems in our lab environment. Wherever possible, the logs are NOT sanitized, anonymized or modified in any way. All these logs amount to over **77GB** in total. We thus host only a small sample (2k lines) on Github for each dataset. 
+
+:telescope: If you use the loghub datasets in your research for publication, please kindly cite the following paper.
++ Jieming Zhu, Shilin He, Jinyang Liu, Pinjia He, Qi Xie, Zibin Zheng, Michael R. Lyu. [Tools and Benchmarks for Automated Log Parsing](https://arxiv.org/pdf/1811.03509.pdf). *International Conference on Software Engineering (ICSE)*, 2019. 
 
 ### How to get the data? 
 If you are interested in these datasets, please request the **[raw logs via Zenodo](https://doi.org/10.5281/zenodo.1144100)**. Kindly note that the affiliation information is required for your data request. If you do not receive any response from Zenodo within one week, please check your spam mailbox or consider to resubmit your data request **with the required information**. 

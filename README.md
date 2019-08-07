@@ -40,7 +40,7 @@ If you are interested in these datasets, please request the **[raw logs via Zeno
 
 
 ### Publications using these datasets
-+ [**ASE'19**] Jinyang Liu, Jieming Zhu, Shilin He, Pinjia He, Zibin Zheng, Michael R. Lyu. [Logzip: Extracting Hidden Structures via Iterative Clustering for Log Compression](to appear). To appear in IEEE/ACM International Conference on Automated Software Engineering (ASE), 2019.
++ [**ASE'19**] Jinyang Liu, Jieming Zhu, Shilin He, Pinjia He, Zibin Zheng, Michael R. Lyu. [Logzip: Extracting Hidden Structures via Iterative Clustering for Log Compression](). To appear in IEEE/ACM International Conference on Automated Software Engineering (ASE), 2019.
 + [**ICSE'19**] Jieming Zhu, Shilin He, Jinyang Liu, Pinjia He, Qi Xie, Zibin Zheng, Michael R. Lyu. [Tools and Benchmarks for Automated Log Parsing](https://arxiv.org/pdf/1811.03509.pdf). International Conference on Software Engineering (ICSE), 2019.
 + [**TKDE'18**] Min Du, Feifei Li. [Spell: Online Streaming Parsing of Large Unstructured System Logs](https://ieeexplore.ieee.org/abstract/document/8489912). IEEE Transactions on Knowledge and Data Engineering (TKDE), 2018.
 + [**TDSC'18**] Pinjia He, Jieming Zhu, Shilin He, Jian Li, Michael R. Lyu. [Towards Automated Log Parsing for Large-Scale Log Data Analysis](https://ieeexplore.ieee.org/document/8067504). IEEE Transactions on Dependable and Secure Computing (TDSC), 2018.

@@ -7,7 +7,7 @@ Loghub maintains a collection of system logs, which are freely accessible for re
 + Jieming Zhu, Shilin He, Jinyang Liu, Pinjia He, Qi Xie, Zibin Zheng, Michael R. Lyu. [Tools and Benchmarks for Automated Log Parsing](https://arxiv.org/pdf/1811.03509.pdf). *International Conference on Software Engineering (ICSE)*, 2019. 
 
 ### How to get the data? 
-If you are interested in these datasets, please request the **[raw logs via Zenodo](https://doi.org/10.5281/zenodo.1144100)**. Kindly note that the affiliation information is required for your data request. If you do not receive any response from Zenodo within one week, please check your spam mailbox or consider to resubmit your data request **with the required information**. 
+If you are interested in these datasets, please request the **[raw logs via Zenodo](https://doi.org/10.5281/zenodo.1144100)**. Kindly note that **the affiliation information** (i.e., organization, university, or company) is required for your data request. If you do not receive any response from Zenodo within one week, please check your spam mailbox or consider to resubmit your data request **with the required information**. 
 
 
 ### Logs currently available:

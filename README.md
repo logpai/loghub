@@ -55,7 +55,7 @@ If you are interested in these datasets, please request the **[raw logs via Zeno
 
 
 ### Organizations that download these datasets
-:telescope: We proudly announce that the loghub datasets have been downloaded [**3400+**](https://doi.org/10.5281/zenodo.1144100) times by more than [**280 organizations**](https://github.com/logpai/loghub/wiki/Loghub) from both industry and academia.
+:telescope: We proudly announce that the loghub datasets have been downloaded [**7400+**](https://zenodo.org/record/3227177) times by more than [**360+ organizations**](https://github.com/logpai/loghub/wiki/Loghub) from both industry and academia.
 
 ### Additional Logs
 We have some links to additional log datasets that are related to security research.

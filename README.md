@@ -30,7 +30,7 @@ If you are interested in these datasets, please request the **[raw logs via Zeno
 | [Linux](./Linux)              | Linux system log | | 263.9 days |   25,567    |  2.25MB  |   
 | [Mac](./Mac)                  | Mac OS log | | 7.0 days  |   117,283   | 16.09MB  |   
 | **Mobile systems**            |     |   |     |             |          |                                                     
-| [Andriod](./Andriod)          |  Andriod framework log | |  N.A.    | 1,555,005  |  183.37MB |       
+| [Android](./Android)          |  Android framework log | |  N.A.    | 1,555,005  |  183.37MB |       
 | [HealthApp](./HealthApp)      | Health app log  | | 10.5 days  |   253,395   | 22.44MB  |               
 | **Server applications**       |    |        |  |            |          |                                                    
 | [Apache](./Apache) | Apache web server error log | | 263.9 days |   56,481    |  4.90MB  |                           

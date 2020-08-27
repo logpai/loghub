@@ -4,7 +4,7 @@
 Loghub maintains a collection of system logs, which are freely accessible for research purposes. Some of the logs are production data released from previous studies, while some others are collected from real systems in our lab environment. Wherever possible, the logs are NOT sanitized, anonymized or modified in any way. All these logs amount to over **77GB** in total. We thus host only a small sample (2k lines) on Github for each dataset. 
 
 :telescope: If you use the loghub datasets in your research for publication, please kindly cite the following paper.
-+ Jieming Zhu, Shilin He, Jinyang Liu, Pinjia He, Qi Xie, Zibin Zheng, Michael R. Lyu. [Tools and Benchmarks for Automated Log Parsing](https://arxiv.org/pdf/1811.03509.pdf). *International Conference on Software Engineering (ICSE)*, 2019. 
++ Shilin He, Jieming Zhu, Pinjia He, Michael R. Lyu. [Loghub: A Large Collection of System Log Datasets towards Automated Log Analytics](https://arxiv.org/abs/2008.06448). *Arxiv*, 2020. 
 
 ### How to get the data? 
 If you are interested in these datasets, please request the **[raw logs via Zenodo](https://doi.org/10.5281/zenodo.1144100)**. 

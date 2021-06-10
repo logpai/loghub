@@ -4,5 +4,6 @@ OpenSSH is the premier connectivity tool for remote login with the SSH protocol.
 
 Note that `SSH_2k.log` is a sample log. The raw logs can be requested from Zenodo: https://doi.org/10.5281/zenodo.1144100
 
-
-
+## Scripting - Parse a log file and extract IP addresses with Perl
+[Repository](https://github.com/NoNameoN-A/OpenSSH-BlackList-Perl)
+[Guide](https://www.inforge.net/forum/threads/analizzare-un-file-di-log-openssh-con-perl-salvando-gli-ip-di-chi-prova-ad-attaccarci.604333/)

@@ -1,0 +1,35 @@
+#!/bin/bash
+
+# Extract authentication failures per month
+echo -e "Month\tAuthFailure"
+grep "authentication failure" Linux\ 2k.log | awk '{print $1}' | cut -c 2- | sort | uniq -c | awk '{print $2 "\t" $1}'
+
+# Extract sessions for user 'cyrus' per month
+echo -e "Month\tSessions-cyrus"
+grep "session opened for user cyrus" Linux\ 2k.log | awk '{print $1}' | cut -c 2- | sort | uniq -c | awk '{print $2 "\t" $1}'
+
+# Extract sessions for user 'news' per month
+echo -e "Month\tSessions-news"
+grep "session opened for user news" Linux\ 2k.log | awk '{print $1}' | cut -c 2- | sort | uniq -c | awk '{print $2 "\t" $1}'
+
+# Extract connections from IP 210.x.x.x per month
+echo -e "Month\tConnect-210"
+grep "from 210." Linux\ 2k.log | awk '{print
+
+#Extract successful logins per month
+echo -e "Month\tLogins"
+grep "session opened for user" Linux\ 2k.log | awk '{print $1}' | cut -c 2- | sort | uniq -c | awk '{print $2 "\t" $1}'
+
+#Extract failed logins per month
+echo -e "Month\tFailedLogins"
+grep "authentication failure; logname=" Linux\ 2k.log | awk '{print $1}' | cut -c 2- | sort | uniq -c | awk '{print $2 "\t" $1}'
+
+#Extract sudo commands per month
+echo -e "Month\tSudoCommands"
+grep "COMMAND=" Linux\ 2k.log | awk '{print $1}' | cut -c 2- | sort | uniq -c | awk '{print $2 "\t" $1}'
+
+
+
+
+
+

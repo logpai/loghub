@@ -14,8 +14,3 @@ Firstly, the applications are run without injecting any failure. Then, in order 
 You may find more details of this dataset from the original paper:
 + Qingwei Lin, Hongyu Zhang, Jian-Guang Lou, Yu Zhang, Xuewei Chen. [Log Clustering Based Problem Identification for Online Service Systems](http://ieeexplore.ieee.org/document/7883294/), in Proc. of International Conference on Software Engineering (ICSE), 2016. 
 
-Note that `Hadoop_2k.log` is a sample log. The raw logs can be requested from Zenodo: https://doi.org/10.5281/zenodo.1144100
-
-
-
-

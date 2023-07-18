@@ -1,75 +1,73 @@
 <p align="center"> <a href="https://github.com/logpai"> <img src="https://github.com/logpai/logpai.github.io/blob/master/img/logpai_logo.jpg" width="425"></a></p>
 
 # Loghub
-Loghub maintains a collection of system logs, which are freely accessible for research purposes. Some of the logs are production data released from previous studies, while some others are collected from real systems in our lab environment. Wherever possible, the logs are NOT sanitized, anonymized or modified in any way. All these logs amount to over **77GB** in total.  
+Loghub maintains a collection of system logs, which are freely accessible for research purposes. Some of the logs are production data released from previous studies, while some others are collected from real systems in our lab environment. Wherever possible, the logs are NOT sanitized, anonymized or modified in any way. These log datasets are freely available for research purposes. 
 
+**Logs currently available**:
 
-:telescope: If you use the loghub datasets in your research for publication, please kindly cite the following paper.
-+ Shilin He, Jieming Zhu, Pinjia He, Michael R. Lyu. [Loghub: A Large Collection of System Log Datasets towards Automated Log Analytics](https://arxiv.org/abs/2008.06448). *Arxiv*, 2020. 
-
-
-### Logs currently available:
-
-| Software System               | Description | Labeled | Time Span  |  #Messages  |   Data Size   |     
+| Dataset              | Description | Labeled | Time Span  |  #Lines  |   Data Size   |     
 | :---------------------------- | :--------|  :--------: | --------: | ---------: | ------: | 
-| **Distributed systems**       |    |        | |             |          |                                                
-| [HDFS_1](./HDFS#hdfs_1)                | Hadoop distributed file system log | :heavy_check_mark: | 38.7 hours | 11,175,629  |  1.47GB  |        
-| [HDFS_2](./HDFS#hdfs_2)                               | Hadoop distributed file system log|  |    N.A.    | 71,118,073  | 16.06GB  |          
+|<tr><th colspan=6 align="center">:open_file_folder: **Distributed systems**</th></tr>|
+| [HDFS_v1](./HDFS#hdfs_v1)     | Hadoop distributed file system log | :heavy_check_mark: | 38.7 hours | 11,175,629  |  1.47GB  |        
+| [HDFS_v2](./HDFS#hdfs_v2)     | Hadoop distributed file system log|  |    N.A.    | 71,118,073  | 16.06GB  |          
 | [Hadoop](./Hadoop)            |  Hadoop mapreduce job log | :heavy_check_mark: |   N.A.    |   394,308   | 48.61MB  |     
 | [Spark](./Spark)              | Spark job log ||    N.A.    | 33,236,604  |  2.75GB  |                               
 | [Zookeeper](./Zookeeper)      | ZooKeeper service log | | 26.7 days  |   74,380    | 9.95MB  |      
 | [OpenStack](./OpenStack)      |  OpenStack infrastructure log | :heavy_check_mark: |  N.A.    |   207,820   | 58.61MB  |       
-| **Supercomputers**            |     |      | |            |          |               
+|<tr><th colspan=6 align="center">:open_file_folder: **Super computers**</th></tr>|
 | [BGL](./BGL)          | Blue Gene/L supercomputer log | :heavy_check_mark: | 214.7 days |  4,747,963  | 708.76MB |    
 | [HPC](./HPC)                  |  High performance cluster log | |  N.A.    |   433,489   | 32.00MB  |               
-| [Thunderbird](./Thunderbird)  |  Thunderbird supercomputer log | :heavy_check_mark: | 244 days  | 211,212,192 | 29.60GB  |  
-| **Operating systems**         |   |         |         |    |          |                                                              
+| [Thunderbird](./Thunderbird)  |  Thunderbird supercomputer log | :heavy_check_mark: | 244 days  | 211,212,192 | 29.60GB  |
+|<tr><th colspan=6 align="center">:open_file_folder: **Operating systems**</th></tr>|  
 | [Windows](./Windows)          | Windows event log | | 226.7 days | 114,608,388 | 26.09GB  |        
 | [Linux](./Linux)              | Linux system log | | 263.9 days |   25,567    |  2.25MB  |   
 | [Mac](./Mac)                  | Mac OS log | | 7.0 days  |   117,283   | 16.09MB  |   
-| **Mobile systems**            |     |   |     |             |          |                                                     
-| [Android](./Android)          |  Android framework log | |  N.A.    | 1,555,005  |  183.37MB |       
-| [HealthApp](./HealthApp)      | Health app log  | | 10.5 days  |   253,395   | 22.44MB  |               
-| **Server applications**       |    |        |  |            |          |                                                    
+|<tr><th colspan=6 align="center">:open_file_folder: **Mobile systems**</th></tr>|  
+| [Android](./Android)          |  Android framework log | |  N.A.    | 1,555,005  |  183.37MB | 
+| [HealthApp](./HealthApp)      | Health app log  | | 10.5 days  |   253,395   | 22.44MB  |
+|<tr><th colspan=6 align="center">:open_file_folder: **Server applications**</th></tr>|            
 | [Apache](./Apache) | Apache web server error log | | 263.9 days |   56,481    |  4.90MB  |                           
-| [OpenSSH](./OpenSSH)          | OpenSSH server log | | 28.4 days  |   655,146   | 70.02MB  |                        
-| **Standalone software**       |   |         |       |      |          |                                                     
+| [OpenSSH](./OpenSSH)          | OpenSSH server log | | 28.4 days  |   655,146   | 70.02MB  |
+|<tr><th colspan=6 align="center">:open_file_folder: **Standalone software**</th></tr>|                           
 | [Proxifier](./Proxifier)      |   Proxifier software log | | N.A.    |   21,329    |  2.42MB  |                                             
 
 
 ### Datasets download 
-We host only a small sample (2k lines) of each dataset on Github. If you are interested in these datasets, please download [the raw logs at Zenodo](https://doi.org/10.5281/zenodo.1144100). 
+We host only a small sample (2k lines) of each log dataset on Github. If you are interested in these datasets, please download [the raw logs at Zenodo](https://doi.org/10.5281/zenodo.1144100).
 
-:telescope: We proudly announce that the loghub datasets have been downloaded [**48000+**](https://zenodo.org/record/3227177) times by more than [**380+ organizations**](https://github.com/logpai/loghub/wiki/Loghub) (incomplete list) from both industry and academia.
-
-
-### Publications using these datasets
-+ [**ASE'19**] Jinyang Liu, Jieming Zhu, Shilin He, Pinjia He, Zibin Zheng, Michael R. Lyu. [Logzip: Extracting Hidden Structures via Iterative Clustering for Log Compression](). To appear in IEEE/ACM International Conference on Automated Software Engineering (ASE), 2019.
-+ [**ICSE'19**] Jieming Zhu, Shilin He, Jinyang Liu, Pinjia He, Qi Xie, Zibin Zheng, Michael R. Lyu. [Tools and Benchmarks for Automated Log Parsing](https://arxiv.org/pdf/1811.03509.pdf). International Conference on Software Engineering (ICSE), 2019.
-+ [**TKDE'18**] Min Du, Feifei Li. [Spell: Online Streaming Parsing of Large Unstructured System Logs](https://ieeexplore.ieee.org/abstract/document/8489912). IEEE Transactions on Knowledge and Data Engineering (TKDE), 2018.
-+ [**TDSC'18**] Pinjia He, Jieming Zhu, Shilin He, Jian Li, Michael R. Lyu. [Towards Automated Log Parsing for Large-Scale Log Data Analysis](https://ieeexplore.ieee.org/document/8067504). IEEE Transactions on Dependable and Secure Computing (TDSC), 2018.
-+ [**CCS'17**] Min Du, Feifei Li, Guineng Zheng, Vivek Srikumar. [DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning](https://acmccs.github.io/papers/p1285-duA.pdf). ACM Conference on Computer and Communications Security (CCS), 2017.
-+ [**ICWS'17**] Pinjia He, Jieming Zhu, Zibin Zheng, Michael R. Lyu. [Drain: An Online Log Parsing Approach with Fixed Depth Tree](https://jiemingzhu.github.io/pub/pjhe_icws2017.pdf). IEEE International Conference on Web Services (ICWS), 2017.
-+ [**ICSE'16**] Qingwei Lin, Hongyu Zhang, Jian-Guang Lou, Yu Zhang, Xuewei Chen. [Log Clustering Based Problem Identification for Online Service Systems](http://ieeexplore.ieee.org/document/7883294/). International Conference on Software Engineering (ICSE), 2016.
-+ [**DSN'16**] Pinjia He, Jieming Zhu, Shilin He, Jian Li, Michael R. Lyu. [An Evaluation Study on Log Parsing and Its Use in Log Mining](https://jiemingzhu.github.io/pub/pjhe_dsn2016.pdf). IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2016.
-+ [**ISSRE'16**] Shilin He, Jieming Zhu, Pinjia He, Michael R. Lyu. [Experience Report: System Log Analysis for Anomaly Detection](https://jiemingzhu.github.io/pub/slhe_issre2016.pdf). IEEE International Symposium on Software Reliability Engineering (ISSRE), 2016.
-+ [**KDD'09**] Adetokunbo Makanju, A. Nur Zincir-Heywood, Evangelos E. Milios. [Clustering Event Logs Using Iterative Partitioning](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.503.7668&rep=rep1&type=pdf). ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2009.
-+ [**SOSP'09**] Wei Xu, Ling Huang, Armando Fox, David A. Patterson, Michael I. Jordan. [Detecting Large-Scale System Problems by Mining Console Logs](https://www.sigops.org/sosp/sosp09/papers/xu-sosp09.pdf). ACM Symposium on Operating Systems Principles (SOSP), 2009. 
-+ [**DSN'07**] Adam J. Oliner, Jon Stearley. [What Supercomputers Say: A Study of Five System Logs](http://ieeexplore.ieee.org/document/4273008/). IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2007.
+:telescope: We proudly announce that the loghub datasets have been downloaded [**48000+**](https://zenodo.org/record/3227177) times by more than [**380+ organizations**](https://github.com/logpai/loghub/wiki/Loghub) from both industry and academia.
 
 
-### Additional Logs
-We have some links to additional log datasets that are related to security research.
-+ VizSec Datasets: https://vizsec.org/data
-+ Security Repo: http://www.secrepo.com
-+ Public Security Log Sharing Site: http://log-sharing.dreamhosters.com
-+ The Computer Failure Data Repository: https://www.usenix.org/cfdr
-+ EDGAR Log File Data Set: https://www.sec.gov/dera/data/edgar-log-file-data-set.html
+### Citation
+:bell: If you use the loghub datasets in your research for publication, please kindly cite the following paper.
++ Shilin He, Jieming Zhu, Pinjia He, Michael R. Lyu. [Loghub: A Large Collection of System Log Datasets towards Automated Log Analytics](https://arxiv.org/abs/2008.06448). *Arxiv*, 2020. 
 
-### Feedback
-For any questions or feedback, please [raise an issue here](https://github.com/logpai/loghub/issues).
+
+### Publications using loghub datasets
+
+| Publication       | Paper Title | 
+| :----: | :---- | 
+| DSN'07 | Adam J. Oliner, Jon Stearley. [What Supercomputers Say: A Study of Five System Logs](http://ieeexplore.ieee.org/document/4273008/). IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2007. |
+| SOSP'09  |  Wei Xu, Ling Huang, Armando Fox, David A. Patterson, Michael I. Jordan. [Detecting Large-Scale System Problems by Mining Console Logs](https://www.sigops.org/sosp/sosp09/papers/xu-sosp09.pdf). ACM Symposium on Operating Systems Principles (SOSP), 2009. |
+| KDD'09 | Adetokunbo Makanju, A. Nur Zincir-Heywood, Evangelos E. Milios. [Clustering Event Logs Using Iterative Partitioning](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.503.7668&rep=rep1&type=pdf). ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2009. |
+| ISSRE'16 | Shilin He, Jieming Zhu, Pinjia He, Michael R. Lyu. [Experience Report: System Log Analysis for Anomaly Detection](https://jiemingzhu.github.io/pub/slhe_issre2016.pdf). IEEE International Symposium on Software Reliability Engineering (ISSRE), 2016. |
+| DSN'16 | Pinjia He, Jieming Zhu, Shilin He, Jian Li, Michael R. Lyu. [An Evaluation Study on Log Parsing and Its Use in Log Mining](https://jiemingzhu.github.io/pub/pjhe_dsn2016.pdf). IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2016. |
+| ICSE'16 | Qingwei Lin, Hongyu Zhang, Jian-Guang Lou, Yu Zhang, Xuewei Chen. [Log Clustering Based Problem Identification for Online Service Systems](http://ieeexplore.ieee.org/document/7883294/). International Conference on Software Engineering (ICSE), 2016. |
+| ICWS'17 | Pinjia He, Jieming Zhu, Zibin Zheng, Michael R. Lyu. [Drain: An Online Log Parsing Approach with Fixed Depth Tree](https://jiemingzhu.github.io/pub/pjhe_icws2017.pdf). IEEE International Conference on Web Services (ICWS), 2017. |
+| CCS'17 | Min Du, Feifei Li, Guineng Zheng, Vivek Srikumar. [DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning](https://acmccs.github.io/papers/p1285-duA.pdf). ACM Conference on Computer and Communications Security (CCS), 2017. |
+| TDSC'18 | Pinjia He, Jieming Zhu, Shilin He, Jian Li, Michael R. Lyu. [Towards Automated Log Parsing for Large-Scale Log Data Analysis](https://ieeexplore.ieee.org/document/8067504). IEEE Transactions on Dependable and Secure Computing (TDSC), 2018. |
+| TKDE'18 | Min Du, Feifei Li. [Spell: Online Streaming Parsing of Large Unstructured System Logs](https://ieeexplore.ieee.org/abstract/document/8489912). IEEE Transactions on Knowledge and Data Engineering (TKDE), 2018. |
+| ASE'19 |  Jinyang Liu, Jieming Zhu, Shilin He, Pinjia He, Zibin Zheng, Michael R. Lyu. [Logzip: Extracting Hidden Structures via Iterative Clustering for Log Compression](). To appear in IEEE/ACM International Conference on Automated Software Engineering (ASE), 2019. |
+| ICSE'19 | Jieming Zhu, Shilin He, Jinyang Liu, Pinjia He, Qi Xie, Zibin Zheng, Michael R. Lyu. [Tools and Benchmarks for Automated Log Parsing](https://arxiv.org/pdf/1811.03509.pdf). International Conference on Software Engineering (ICSE), 2019. |
+| ICSE'22 | Zanis Ali Khan, Donghwan Shin, Domenico Bianculli, Lionel Briand. [Guidelines for Assessing the Accuracy of Log Message Template Identification Techniques](https://dl.acm.org/doi/pdf/10.1145/3510003.3510101). International Conference on Software Engineering (ICSE), 2023. |
+| ICSE'23 | Van-Hoang Le, Hongyu Zhang. [Log Parsing with Prompt-based Few-shot Learning](https://arxiv.org/abs/2302.07435). International Conference on Software Engineering (ICSE), 2023. |
+| ICSE'23 | Zhenhao Li, Chuan Luo, Tse-Hsun Chen, Weiyi Shang, Shilin He, Qingwei Lin, Dongmei Zhang. [Did We Miss Something Important? Studying and Exploring Variable-Aware Log Abstraction](https://arxiv.org/abs/2304.11391). International Conference on Software Engineering (ICSE), 2023. |
+| ICSE'23 | Yintong Huo, Yuxin Su, Cheryl Lee, Michael R. Lyu. [SemParser: A Semantic Parser for Log Analysis](https://arxiv.org/abs/2112.12636). International Conference on Software Engineering (ICSE), 2023. |
+| WWW'23 | Liming Wang, Hong Xie, Ye Li, Jian Tan, John C.S. Lui. [Interactive Log Parsing via Light-weight User Feedback](https://arxiv.org/abs/2301.12225). ACM Web Conference, 2023. | 
+| TSC'23 | Siyu Yu, Pinjia He, Ningjiang Chen, Yifan Wu. [Brain: Log Parsing with Bidirectional Parallel Tree](https://ieeexplore.ieee.org/document/10109145). IEEE Transaction on Severice Computing, 2023. |
+
+### Discussion
+For any questions or feedback, please [open a discussion here](https://github.com/logpai/loghub/discussions/new/choose).
 
 ### License
-The log datasets are freely available for research purposes. 
-
-
+The log datasets are freely available for research purposes.

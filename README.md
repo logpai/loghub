@@ -1,7 +1,7 @@
-<p align="center"> <a href="https://github.com/logpai"> <img src="https://github.com/logpai/logpai.github.io/blob/master/img/logpai_logo.jpg" width="425"></a></p>
+<p align="center"> <a href="https://github.com/logpai"> <img src="https://cdn.jsdelivr.net/gh/logpai/logpai.github.io@master/img/logpai_logo.jpg" width="480"></a></p>
 
 # Loghub
-Loghub maintains a collection of system logs, which are freely accessible for research purposes. Some of the logs are production data released from previous studies, while some others are collected from real systems in our lab environment. Wherever possible, the logs are NOT sanitized, anonymized or modified in any way. These log datasets are freely available for research purposes. 
+Loghub maintains a collection of system logs, which are freely accessible for research purposes. Some of the logs are production data released from previous studies, while some others are collected from real systems in our lab environment. Wherever possible, the logs are NOT sanitized, anonymized or modified in any way. These log datasets are freely available for research or academic work. 
 
 **Logs currently available**:
 
@@ -39,7 +39,7 @@ We host only a small sample (2k lines) of each log dataset on Github. If you are
 
 
 ### Citation
-:bell: If you use the loghub datasets in your research for publication, please kindly cite the following paper.
+:bell: If you use the loghub datasets in your work, please cite the following paper.
 + Shilin He, Jieming Zhu, Pinjia He, Michael R. Lyu. [Loghub: A Large Collection of System Log Datasets towards Automated Log Analytics](https://arxiv.org/abs/2008.06448). *Arxiv*, 2020. 
 
 
@@ -66,8 +66,12 @@ We host only a small sample (2k lines) of each log dataset on Github. If you are
 | WWW'23 | Liming Wang, Hong Xie, Ye Li, Jian Tan, John C.S. Lui. [Interactive Log Parsing via Light-weight User Feedback](https://arxiv.org/abs/2301.12225). ACM Web Conference, 2023. | 
 | TSC'23 | Siyu Yu, Pinjia He, Ningjiang Chen, Yifan Wu. [Brain: Log Parsing with Bidirectional Parallel Tree](https://ieeexplore.ieee.org/document/10109145). IEEE Transaction on Severice Computing, 2023. |
 
+:bell: If you use loghub datasets in your paper, please feel free to make a PR to add your paper to the table.
+
 ### Discussion
-For any questions or feedback, please [open a discussion here](https://github.com/logpai/loghub/discussions/new/choose).
+Welcome to join our WeChat group for any question and discussion. Also, you can [open a discussion here](https://github.com/logpai/loghub/discussions/new/choose).
+
+![Scan QR code](https://cdn.jsdelivr.net/gh/logpai/logpai.github.io@master/img/wechat.png)
 
 ### License
-The log datasets are freely available for research purposes.
+The datasets are freely available for research or academic work, subject to the following conditions: Any usage or distribution of the loghub datasets shall [cite the paper](https://github.com/logpai/loghub/blob/master/CITATION) or refer to the repository https://github.com/logpai/loghub.

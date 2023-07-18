@@ -1,0 +1,11 @@
+@article{Loghub,
+  author       = {Shilin He and
+                  Jieming Zhu and
+                  Pinjia He and
+                  Michael R. Lyu},
+  title        = {Loghub: {A} Large Collection of System Log Datasets towards Automated
+                  Log Analytics},
+  journal      = {CoRR},
+  volume       = {abs/2008.06448},
+  year         = {2020}
+}

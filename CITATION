@@ -1,11 +1,11 @@
-@article{Loghub,
-  author       = {Shilin He and
-                  Jieming Zhu and
+@inproceedings{Loghub,
+  author       = {Jieming Zhu and
+                  Shilin He and
                   Pinjia He and
+                  Jinyang Liu and
                   Michael R. Lyu},
-  title        = {Loghub: {A} Large Collection of System Log Datasets towards Automated
+  title        = {Loghub: {A} Large Collection of System Log Datasets for AI-driven 
                   Log Analytics},
-  journal      = {CoRR},
-  volume       = {abs/2008.06448},
-  year         = {2020}
+  booktitle    = {IEEE International Symposium on Software Reliability Engineering (ISSRE)},
+  year         = {2023}
 }

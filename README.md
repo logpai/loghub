@@ -5,30 +5,30 @@ Loghub maintains a collection of system logs, which are freely accessible for AI
 
 **Logs currently available**:
 
-| Dataset              | Description | Labeled | Time Span  |  #Lines  |   Unzipped Size   |  Contributed By  |    
+| Dataset              | Description | Labeled | Time Span  |  #Lines  |   Raw Size   |  Contributed By  |
 | :---------------------------- | :--------|  :--------: | --------: | ---------: | ------: | :------: | 
 |<tr><th colspan=7 align="center">:open_file_folder: **Distributed systems**</th></tr>|
-| [HDFS_v1](./HDFS#hdfs_v1)     | Hadoop distributed file system log | :heavy_check_mark: | 38.7 hours | 11,175,629  |  1.47GB  | [link](https://www.sigops.org/sosp/sosp09/papers/xu-sosp09.pdf)   |      
+| [HDFS_v1](./HDFS#hdfs_v1)     | Hadoop distributed file system log | :heavy_check_mark: | 38.7 hours | 11,175,629  |  1.47GB  | [Link](https://www.sigops.org/sosp/sosp09/papers/xu-sosp09.pdf)   |      
 | [HDFS_v2](./HDFS#hdfs_v2)     | Hadoop distributed file system log|  |    N.A.    | 71,118,073  | 16.06GB  |   |
-| [HDFS_v3](./HDFS#hdfs_v3_tracebench)     | Instrumented HDFS trace log (TraceBench) | :heavy_check_mark: |    N.A.    | 14,778,079  | 2.96GB  | [link](http://zbchen.github.io/Papers_files/cloudcom2014.pdf)  |
-| [Hadoop](./Hadoop)            |  Hadoop mapreduce job log | :heavy_check_mark: |   N.A.    |   394,308   | 48.61MB  |  [link](http://ieeexplore.ieee.org/document/7883294/)   |
+| [HDFS_v3](./HDFS#hdfs_v3_tracebench)     | Instrumented HDFS trace log (TraceBench) | :heavy_check_mark: |    N.A.    | 14,778,079  | 2.96GB  | [Link](http://zbchen.github.io/Papers_files/cloudcom2014.pdf)  |
+| [Hadoop](./Hadoop)            |  Hadoop mapreduce job log | :heavy_check_mark: |   N.A.    |   394,308   | 48.61MB  |  [Link](http://ieeexplore.ieee.org/document/7883294/)   |
 | [Spark](./Spark)              | Spark job log ||    N.A.    | 33,236,604  |  2.75GB  |   |                            
 | [Zookeeper](./Zookeeper)      | ZooKeeper service log | | 26.7 days  |   74,380    | 9.95MB  |     | 
-| [OpenStack](./OpenStack)      |  OpenStack infrastructure log | :heavy_check_mark: |  N.A.    |   207,820   | 58.61MB  |  [link](https://acmccs.github.io/papers/p1285-duA.pdf) |    
+| [OpenStack](./OpenStack)      |  OpenStack infrastructure log | :heavy_check_mark: |  N.A.    |   207,820   | 58.61MB  |  [Link](https://acmccs.github.io/papers/p1285-duA.pdf) |    
 |<tr><th colspan=7 align="center">:open_file_folder: **Super computers**</th></tr>|
-| [BGL](./BGL)          | Blue Gene/L supercomputer log | :heavy_check_mark: | 214.7 days |  4,747,963  | 708.76MB |  [link](http://ieeexplore.ieee.org/document/4273008/)   |
-| [HPC](./HPC)                  |  High performance cluster log | |  N.A.    |   433,489   | 32.00MB  |  [link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.503.7668&rep=rep1&type=pdf)  |           
-| [Thunderbird](./Thunderbird)  |  Thunderbird supercomputer log | :heavy_check_mark: | 244 days  | 211,212,192 | 29.60GB  | [link](http://ieeexplore.ieee.org/document/4273008/)   |
+| [BGL](./BGL)          | Blue Gene/L supercomputer log | :heavy_check_mark: | 214.7 days |  4,747,963  | 708.76MB |  [Link](http://ieeexplore.ieee.org/document/4273008/)   |
+| [HPC](./HPC)                  |  High performance cluster log | |  N.A.    |   433,489   | 32.00MB  |  [Link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.503.7668&rep=rep1&type=pdf)  |           
+| [Thunderbird](./Thunderbird)  |  Thunderbird supercomputer log | :heavy_check_mark: | 244 days  | 211,212,192 | 29.60GB  | [Link](http://ieeexplore.ieee.org/document/4273008/)   |
 |<tr><th colspan=7 align="center">:open_file_folder: **Operating systems**</th></tr>|  
 | [Windows](./Windows)          | Windows event log | | 226.7 days | 114,608,388 | 26.09GB  |    |    
-| [Linux](./Linux)              | Linux system log | | 263.9 days |   25,567    |  2.25MB  |  [link](http://log-sharing.dreamhosters.com)  |
+| [Linux](./Linux)              | Linux system log | | 263.9 days |   25,567    |  2.25MB  |  [Link](http://log-sharing.dreamhosters.com)  |
 | [Mac](./Mac)                  | Mac OS log | | 7.0 days  |   117,283   | 16.09MB  |   |
 |<tr><th colspan=7 align="center">:open_file_folder: **Mobile systems**</th></tr>|  
 | [Android_v1](./Android#android_v1)          |  Android framework log | |  N.A.    | 1,555,005  |  183.37MB |  |
-| [Android_v2](./Android#android_v2)          |  Android framework log | |  N.A.    | 30,348,042  | 3.37GB  |  |
+| [Android_v2](./Android#android_v2)          |  Android framework log | |  N.A.    | 30,348,042  | 3.38GB  |  |
 | [HealthApp](./HealthApp)      | Health app log  | | 10.5 days  |   253,395   | 22.44MB  | |
 |<tr><th colspan=7 align="center">:open_file_folder: **Server applications**</th></tr>|            
-| [Apache](./Apache) | Apache web server error log | | 263.9 days |   56,481    |  4.90MB  | [link](http://log-sharing.dreamhosters.com)  |                     
+| [Apache](./Apache) | Apache web server error log | | 263.9 days |   56,481    |  4.90MB  | [Link](http://log-sharing.dreamhosters.com)  |                     
 | [OpenSSH](./OpenSSH)          | OpenSSH server log | | 28.4 days  |   655,146   | 70.02MB  | |
 |<tr><th colspan=7 align="center">:open_file_folder: **Standalone software**</th></tr>|                           
 | [Proxifier](./Proxifier)      |   Proxifier software log | | N.A.    |   21,329    |  2.42MB  |  |                                           
@@ -37,11 +37,11 @@ Loghub maintains a collection of system logs, which are freely accessible for AI
 ### Datasets download 
 We host only a small sample (2k lines) of each log dataset on Github. If you are interested in these raw datasets, please download them [via Zenodo](https://doi.org/10.5281/zenodo.1144100).
 
-:telescope: We proudly announce that the loghub datasets have been downloaded [**90000+**](https://zenodo.org/record/3227177) times by more than [**380+ organizations**](https://github.com/logpai/loghub/wiki/Loghub) from both industry and academia.
+:bell: We proudly announce that the loghub datasets have attained [**90000+ total downloads**](https://doi.org/10.5281/zenodo.1144100) by more than [**450 organizations**](https://github.com/logpai/loghub/wiki/Loghub-download-list) from both industry and academia.
 
 
 ### Citation
-:bell: Please cite the following paper if you use the loghub datasets for research.
+Please cite the following paper if you use the loghub datasets for research.
 + Jieming Zhu, Shilin He, Pinjia He, Jinyang Liu, Michael R. Lyu. [Loghub: A Large Collection of System Log Datasets for AI-driven Log Analytics](https://arxiv.org/abs/2008.06448). IEEE International Symposium on Software Reliability Engineering (ISSRE), 2023.
 
 
@@ -68,12 +68,12 @@ We host only a small sample (2k lines) of each log dataset on Github. If you are
 | WWW'23 | Liming Wang, Hong Xie, Ye Li, Jian Tan, John C.S. Lui. [Interactive Log Parsing via Light-weight User Feedback](https://arxiv.org/abs/2301.12225). ACM Web Conference, 2023. | 
 | TSC'23 | Siyu Yu, Pinjia He, Ningjiang Chen, Yifan Wu. [Brain: Log Parsing with Bidirectional Parallel Tree](https://ieeexplore.ieee.org/document/10109145). IEEE Transaction on Severice Computing, 2023. |
 
-:bell: If you use loghub datasets in your paper, please feel free to make a PR to add your paper to the table.
+:bulb: If you use loghub datasets in your paper, please feel free to make a PR to add your paper to the table.
 
 ### Discussion
-Welcome to join our WeChat group for any question and discussion. Also, you can [open a discussion here](https://github.com/logpai/loghub/discussions/new/choose).
+Welcome to join our WeChat group for any question and discussion. Alternatively, you can [open a discussion here](https://github.com/logpai/loghub/discussions/new/choose).
 
 ![Scan QR code](https://cdn.jsdelivr.net/gh/logpai/logpai.github.io@master/img/wechat.png)
 
 ### License
-The datasets are freely available for research or academic work, subject to the condition that usage or distribution of loghub datasets should [cite the loghub paper](https://github.com/logpai/loghub/blob/master/CITATION) or refer to [the loghub repository](https://github.com/logpai/loghub).
+The datasets are freely available for research or academic work. For any usage or distribution of the datasets, please refer to the loghub repository https://github.com/logpai/loghub.

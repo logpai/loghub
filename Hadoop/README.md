@@ -12,6 +12,9 @@ Each application has been run for several times, simulating both normal and abno
 
 We provide the labeled abnormal/normal job IDs in `abnormal_label.txt`.
 
+### Download
+The raw logs are available for downloading at https://github.com/logpai/loghub.
+
 ### Citation
 If you use this dataset from loghub in your research, please cite the following paper.
 + Qingwei Lin, Hongyu Zhang, Jian-Guang Lou, Yu Zhang, Xuewei Chen. [Log Clustering Based Problem Identification for Online Service Systems](http://ieeexplore.ieee.org/document/7883294/), International Conference on Software Engineering (ICSE), 2016.

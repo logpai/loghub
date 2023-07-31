@@ -2,6 +2,8 @@
 
 HealthApp is a mobile application for Andriod devices. We collected the application logs from an Android smartphone after 10+ days of use. 
 
+### Download
+The raw logs are available for downloading at https://github.com/logpai/loghub.
 
 ### Citation
 If you use this dataset from loghub in your research, please cite the following papers.

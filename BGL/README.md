@@ -3,6 +3,9 @@ BGL is an open dataset of logs collected from a BlueGene/L supercomputer system 
 
 For more detailed information, please visit the project page: https://www.usenix.org/cfdr-data#hpc4.
 
+### Download
+The raw logs are available for downloading at https://github.com/logpai/loghub.
+
 ### Citation
 If you use this dataset from loghub in your research, please cite the following paper.
 + Adam J. Oliner, Jon Stearley. [What Supercomputers Say: A Study of Five System Logs](http://ieeexplore.ieee.org/document/4273008/), in Proc. of IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2007.

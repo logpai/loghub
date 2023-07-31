@@ -1,6 +1,8 @@
 ## Mac
-
 We collected the MacOS logs from `/var/log/system.log` on a Macbook after 7 days of use. 
+
+### Download
+The raw logs are available for downloading at https://github.com/logpai/loghub.
 
 ### Citation
 If you use this dataset from loghub in your research, please cite the following papers.

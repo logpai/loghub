@@ -4,6 +4,9 @@ OpenStack (https://www.openstack.org) is a cloud operating system that controls 
 
 For the usage of this dataset, please refer to an example: https://github.com/nailo2c/deeplog/blob/master/example/preprocess.py
 
+### Download
+The raw logs are available for downloading at https://github.com/logpai/loghub.
+
 ### Citation
 If you use this dataset from loghub in your research, please cite the following papers.
 + Min Du, Feifei Li, Guineng Zheng, Vivek Srikumar. [DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning](https://acmccs.github.io/papers/p1285-duA.pdf), in Proc. of ACM Conference on Computer and Communications Security (CCS), 2017. 

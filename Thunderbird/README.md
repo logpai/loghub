@@ -3,6 +3,9 @@ Thunderbird is an open dataset of logs collected from a Thunderbird supercompute
 
 For more detailed information, please visit the project page: https://www.usenix.org/cfdr-data#hpc4.
 
+### Download
+The raw logs are available for downloading at https://github.com/logpai/loghub.
+
 ### Citation
 If you use this dataset from loghub in your research, please cite the following papers.
 + Adam J. Oliner, Jon Stearley. [What Supercomputers Say: A Study of Five System Logs](http://ieeexplore.ieee.org/document/4273008/). In Proc. of IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2007.

@@ -1,0 +1,31 @@
+EventId,EventTemplate
+E1,<*>Adding an already existing block<*>
+E2,<*>Verification succeeded for<*>
+E3,<*>Served block<*>to<*>
+E4,<*>Got exception while serving<*>to<*>
+E5,<*>Receiving block<*>src:<*>dest:<*>
+E6,<*>Received block<*>src:<*>dest:<*>of size<*>
+E7,<*>writeBlock<*>received exception<*>
+E8,<*>PacketResponder<*>for block<*>Interrupted<*>
+E9,<*>Received block<*>of size<*>from<*>
+E10,<*>PacketResponder<*>Exception<*>
+E11,<*>PacketResponder <*> for block <*> terminating<*>
+E12,<*>:Exception writing block<*>to mirror<*>
+E13,<*>Receiving empty packet for block<*>
+E14,<*>Exception in receiveBlock for block<*>
+E15,<*>Changing block file offset of block<*>from<*>to<*>meta file offset to<*>
+E16,<*>:Transmitted block<*>to<*>
+E17,<*>:Failed to transfer<*>to<*>got<*>
+E18,<*>Starting thread to transfer block<*>to<*>
+E19,<*>Reopen Block<*>
+E20,<*>Unexpected error trying to delete block<*>BlockInfo not found in volumeMap<*>
+E21,<*>Deleting block<*>file<*>
+E22,<*>BLOCK* NameSystem<*>allocateBlock:<*>
+E23,<*>BLOCK* NameSystem<*>delete:<*>is added to invalidSet of<*>
+E24,<*>BLOCK* Removing block<*>from neededReplications as it does not belong to any file<*>
+E25,<*>BLOCK* ask<*>to replicate<*>to<*>
+E26,<*>BLOCK* NameSystem<*>addStoredBlock: blockMap updated:<*>is added to<*>size<*>
+E27,<*>BLOCK* NameSystem<*>addStoredBlock: Redundant addStoredBlock request received for<*>on<*>size<*>
+E28,<*>BLOCK* NameSystem<*>addStoredBlock: addStoredBlock request received for<*>on<*>size<*>But it does not belong to any file.
+E29,<*>PendingReplicationMonitor timed out block<*>
+E30,<*>BLOCK* ask <*> to delete <*>

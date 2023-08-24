@@ -1,0 +1,37 @@
+EventId,EventTemplate
+E1,attempt_<*>: Committed
+E2,"Block <*> stored as bytes in memory (estimated size <*>, free <*>)"
+E3,"Block <*> stored as values in memory (estimated size <*>, free <*>)"
+E4,Changing modify acls to: <*>
+E5,Changing view acls to: <*>
+E6,Connecting to driver: spark://<*>
+E7,Created local directory at <*>
+E8,File Output Committer Algorithm version is <*>
+E9,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+E10,Found block rdd_<*> locally
+E11,Got assigned task <*>
+E12,Input split: hdfs://<*>
+E13,"mapred.job.id is deprecated. Instead, use mapreduce.job.id"
+E14,"mapred.task.id is deprecated. Instead, use mapreduce.task.attempt.id"
+E15,"mapred.task.is.map is deprecated. Instead, use mapreduce.task.ismap"
+E16,"mapred.task.partition is deprecated. Instead, use mapreduce.task.partition"
+E17,"mapred.tip.id is deprecated. Instead, use mapreduce.task.id"
+E18,MemoryStore started with capacity <*> GB
+E19,"Partition rdd_<*> not found, computing it"
+E20,Reading broadcast variable <*> took <*> ms
+E21,Registered BlockManager
+E22,"Registered signal handlers for [TERM, HUP, INT]"
+E23,Remoting started; listening on addresses :[akka.tcp://<*>]
+E24,Running task <*> in stage <*> (TID <*>)
+E25,Saved output of task 'attempt_<*>' to hdfs://<*>
+E26,"SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(yarn, curi); users with modify permissions: Set(yarn, curi)"
+E27,Server created on <*>
+E28,Slf4jLogger started
+E29,Started reading broadcast variable <*>
+E30,Starting executor ID <*> on host <*>
+E31,Starting remoting
+E32,Successfully registered with driver
+E33,Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port <*>.
+E34,Successfully started service 'sparkExecutorActorSystem' on port <*>.
+E35,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+E36,Trying to register BlockManager

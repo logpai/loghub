@@ -4,7 +4,7 @@ HDFS (http://hadoop.apache.org/hdfs) is the Hadoop Distributed File System desig
 This log set is generated in a private cloud environment using benchmark workloads, and manually labeled through handcrafted rules to identify the anomalies. The logs are sliced into traces according to block ids. Then each trace associated with a specific block id is assigned a groundtruth label: normal/anomaly. 
 
 We have preprocessed the dataset for easy use in research, including:
-+ HDFS.log_templates.csv
++ HDFS_templates.csv
 + anomaly_label.csv
 + Event_traces.csv
 + Event_occurrence_matrix.csv

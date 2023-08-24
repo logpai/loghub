@@ -1,0 +1,51 @@
+EventId,EventTemplate
+E1,******* GOODBYE /<*>:<*> ********
+E2,Accepted socket connection from /<*>:<*>
+E3,autopurge.purgeInterval set to <*>
+E4,autopurge.snapRetainCount set to <*>
+E5,Cannot open channel to <*> at election address /<*>:<*>
+E6,caught end of stream exception
+E7,Client attempting to establish new session at /<*>:<*>
+E8,Client attempting to renew session <*> at /<*>:<*>
+E9,Closed socket connection for client /<*>:<*> (no session established for client)
+E10,Closed socket connection for client /<*>:<*> which had sessionid <*>
+E11,"Connection broken for id <*>, my id = <*>, error ="
+E12,Connection request from old client /<*>:<*>; will be dropped if server is in r-o mode
+E13,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+E14,Exception causing close of session <*> due to java.io.IOException: ZooKeeperServer not running
+E15,"Expiring session <*>, timeout of <*>ms exceeded"
+E16,First is <*>
+E17,Follower sid: <*> : info : org.apache.zookeeper.server.quorum.QuorumPeer$QuorumServer@<*>
+E18,FOLLOWING
+E19,FOLLOWING - LEADER ELECTION TOOK - <*>
+E20,Getting a snapshot from leader
+E21,Got user-level KeeperException when processing sessionid:<*> type:create cxid:<*> zxid:<*> txntype:<*> reqpath:<*> Error Path:<*> Error:KeeperErrorCode = NodeExists for <*>
+E22,Have quorum of supporters; starting up and setting last processed zxid: <*>
+E23,"Have smaller server identifier, so dropping the connection: (<*>, <*>)"
+E24,Interrupted while waiting for message on queue
+E25,Interrupting SendWorker
+E26,LOOKING
+E27,maxSessionTimeout set to <*>
+E28,minSessionTimeout set to <*>
+E29,My election bind port: <*>/<*>:<*>
+E30,"New election. My id =  <*>, proposed zxid=<*>"
+E31,Notification time out: <*>
+E32,"Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), FOLLOWING (n.state), <*> (n.sid), <*> (n.peerEPoch), FOLLOWING (my state)"
+E33,"Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), FOLLOWING (n.state), <*> (n.sid), <*> (n.peerEPoch), LEADING (my state)"
+E34,"Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), LEADING (n.state), <*> (n.sid), <*> (n.peerEPoch), LOOKING (my state)"
+E35,"Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), LOOKING (n.state), <*> (n.sid), <*> (n.peerEPoch), FOLLOWING (my state)"
+E36,"Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), LOOKING (n.state), <*> (n.sid), <*> (n.peerEPoch), LEADING (my state)"
+E37,"Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), LOOKING (n.state), <*> (n.sid), <*> (n.peerEPoch), LOOKING (my state)"
+E38,Processed session termination for sessionid: <*>
+E39,Reading snapshot <*>
+E40,Received connection request /<*>:<*>
+E41,Revalidating client: <*>
+E42,Send worker leaving thread
+E43,Sending DIFF
+E44,Server environment:<*>
+E45,shutdown of request processor complete
+E46,Snapshotting: <*> to <*>
+E47,Starting quorum peer
+E48,tickTime set to <*>
+E49,Unexpected exception causing shutdown while sock still open
+E50,Unexpected Exception:

@@ -1,0 +1,15 @@
+EventId,EventTemplate
+E1,<*>:<*> Served block blk_<*> to /<*>
+E2,<*>:<*> Starting thread to transfer block blk_<*> to <*>:<*>
+E3,<*>:<*>:Got exception while serving blk_<*> to /<*>:
+E4,BLOCK* ask <*>:<*> to delete  blk_<*>
+E5,BLOCK* ask <*>:<*> to replicate blk_<*> to datanode(s) <*>:<*>
+E6,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>
+E7,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>
+E8,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>
+E9,Deleting block blk_<*> file /<*>/blk_<*>
+E10,PacketResponder <*> for block blk_<*> terminating
+E11,Received block blk_<*> of size <*> from /<*>
+E12,Received block blk_<*> src: /<*>:<*> dest: /<*>:<*> of size <*>
+E13,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>
+E14,Verification succeeded for blk_<*>

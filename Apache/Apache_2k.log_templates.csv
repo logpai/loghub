@@ -1,0 +1,7 @@
+EventId,EventTemplate
+E1,jk2_init() Found child <*> in scoreboard slot <*>
+E2,workerEnv.init() ok <*>
+E3,mod_jk child workerEnv in error state <*>
+E4,[client <*>] Directory index forbidden by rule: <*>
+E5,jk2_init() Can't find child <*> in scoreboard
+E6,mod_jk child init <*> <*>

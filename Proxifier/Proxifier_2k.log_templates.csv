@@ -1,0 +1,9 @@
+EventId,EventTemplate
+E1,<*>:<*> open through proxy <*>:<*> SOCKS5
+E2,<*>:<*> open through proxy <*>:<*> HTTPS
+E3,<*>:<*> error : Could not connect to proxy <*>:<*> - Could not resolve <*> error <*>
+E4,<*>:<*> error : Could not connect to proxy <*>:<*> - connection attempt failed with error <*>
+E5,"<*>:<*> error : Could not connect through proxy <*>:<*> - Proxy server cannot establish a connection with the target, status code <*>"
+E6,<*>:<*> error : Could not connect through proxy <*>:<*> - Proxy closed the connection unexpectedly.
+E7,<*>:<*> error : A connection request was canceled before the completion.
+E8,"<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"

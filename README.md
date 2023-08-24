@@ -76,4 +76,4 @@ Welcome to join our WeChat group for any question and discussion. Alternatively,
 ![Scan QR code](https://cdn.jsdelivr.net/gh/logpai/logpai.github.io@master/img/wechat.png)
 
 ### License
-The datasets are freely available for research or academic work. For any usage or distribution of the datasets, please refer to the loghub repository https://github.com/logpai/loghub.
+The datasets are freely available for research or academic work. For any usage or distribution of the datasets, please refer to the loghub repository URL https://github.com/logpai/loghub and cite [the loghub paper](https://github.com/logpai/loghub/blob/master/CITATION) where applicable.

@@ -1,0 +1,47 @@
+EventId,EventTemplate
+E1,active
+E2,ambient=<*>
+E3,blocked
+E4,boot  (command <*>)
+E5,boot (command <*>) Error: HALT asserted\  cannot continue
+E6,bootGenvmunix  (command <*>)
+E7,closing
+E8,clusterAddMember  (command <*>)
+E9,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node node-<*>
+E10,ClusterFileSystem: There is no server for ServerFileSystem domain storage<*>
+E11,Command has been aborted
+E12,Command has completed successfully
+E13,Component State Change: Component <*> is in the unavailable state (HWID=<*>)
+E14,configured out
+E15,critical
+E16,Failed subcommands <*>
+E17,Fan speeds ( <*> <*> <*> **** <*> <*> )
+E18,Fan speeds ( <*> <*> <*> <*> <*> <*> )
+E19,halt  (command <*>)
+E20,inconsistent nodesets node-<*> <*> <ok> node-<*> <*> <ok> node-<*> <*> <ok> node-<*> <*> <ok><*>
+E21,Link error
+E22,Link error on broadcast tree Interconnect-<*>:<*>:<*>:<*>
+E23,link errors remain current
+E24,Link in reset
+E25,Link ok
+E26,Linkerror event interval expired
+E27,NIFF: node node-<*> detected a failed network connection on network <*> via interface alt0
+E28,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+E29,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+E30,NIFF: node node-<*> has detected an available network connection on network <*> via interface scip0
+E31,normal
+E32,not responding
+E33,not-responding
+E34,power/control problem
+E35,psu failure\ ambient=<*>
+E36,risBoot  (command <*>)
+E37,risBoot (command <*>) Error: Timed out while waiting for SRM prompt: <ABORT code completed>
+E38,running
+E39,ServerFileSystem: An ServerFileSystem domain panic has occurred on <*>
+E40,ServerFileSystem: ServerFileSystem domain <*> is full
+E41,starting
+E42,Targeting domains:node-D<*> and nodes:node-[<*>-<*>] child of command <*>
+E43,Targeting domains:node-D<*>and nodes:node-<*>
+E44,Temperature (<*>C) exceeds warning threshold
+E45,wait  (command <*>)
+E46,warning

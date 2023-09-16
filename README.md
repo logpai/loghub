@@ -37,11 +37,12 @@ Loghub maintains a collection of system logs, which are freely accessible for AI
 ### Datasets download 
 We host only a small sample (2k lines) of each log dataset on Github. If you are interested in these raw datasets, please download them [via Zenodo](https://doi.org/10.5281/zenodo.1144100).
 
-:bell: We proudly announce that the loghub datasets have attained [**90000+ total downloads**](https://doi.org/10.5281/zenodo.1144100) by more than [**450 organizations**](https://github.com/logpai/loghub/wiki/Loghub-download-list) from both industry and academia.
+:bell: We proudly announce that the loghub datasets have attained total <a href="https://doi.org/10.5281/zenodo.1144100"><img src="https://img.shields.io/endpoint?&url=https://cdn.jsdelivr.net/gh/logpai/loghub@zenodo/downloads.json&labelColor=grey&color=4EB999&style=flat&label=Downloads"></a> by more than [**450 organizations**](https://github.com/logpai/loghub/wiki/Loghub-download-list) from both industry and academia.
 
+### 🌈 Citation
 
-### Citation
 Please cite the following paper if you use the loghub datasets for research.
+
 + Jieming Zhu, Shilin He, Pinjia He, Jinyang Liu, Michael R. Lyu. [Loghub: A Large Collection of System Log Datasets for AI-driven Log Analytics](https://arxiv.org/abs/2008.06448). IEEE International Symposium on Software Reliability Engineering (ISSRE), 2023.
 
 

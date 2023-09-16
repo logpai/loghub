@@ -1,0 +1,29 @@
+name: crawl-zenodo-downloads
+
+on: 
+  push:
+    branches:
+      - master
+      - zenodo
+  schedule:
+  - cron: '0 4 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        ref: zenodo
+    - name: Run
+      run: |
+        pip3 install -r requirements.txt --quiet
+        curl https://zenodo.org/records/8196385 > zenodo_page.txt
+        python3 crawl.py
+        git config --local user.name "${GITHUB_ACTOR}"
+        git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+        export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
+        git add *.json
+        git commit -m "Update downloads" --amend --reset-author
+        git push -f "${remote_repo}" zenodo
+        curl https://purge.jsdelivr.net/gh/logpai/loghub@zenodo/downloads.json

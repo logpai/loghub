@@ -1,6 +1,12 @@
 <p align="center"> <a href="https://github.com/logpai"> <img src="https://cdn.jsdelivr.net/gh/logpai/logpai.github.io@master/img/logpai_logo.jpg" width="480"></a></p>
 
+
 # Loghub
+
+<div>
+<a href="https://github.com/logpai/loghub/stargazers"><img src="http://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=logpai&repo=loghub" width="500"/><a/>
+</div>
+
 Loghub maintains a collection of system logs, which are freely accessible for AI-driven log analytics research. Some of the logs are production data released from previous studies, while some others are collected from real systems in our lab environment. Wherever possible, the logs are NOT sanitized, anonymized or modified in any way. These log datasets are freely available for research or academic work.
 
 **Logs currently available**:

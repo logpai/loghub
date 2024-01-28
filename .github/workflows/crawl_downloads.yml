@@ -1,4 +1,4 @@
-name: crawl-zenodo-downloads
+name: Crawl-zenodo-downloads
 
 on: 
   push:
@@ -7,6 +7,7 @@ on:
       - zenodo
   schedule:
   - cron: '0 4 * * *'
+  workflow_dispatch:
 
 jobs:
   build:

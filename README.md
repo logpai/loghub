@@ -11,7 +11,9 @@ Loghub maintains a collection of system logs, which are freely accessible for AI
 
 🤗 We proudly announce that the loghub datasets have attained total <a href="https://doi.org/10.5281/zenodo.1144100"><img src="https://img.shields.io/endpoint?&url=https://cdn.jsdelivr.net/gh/logpai/loghub@zenodo/downloads.json&labelColor=1AE&color=DDEEFF&style=flat&label=Downloads"></a> by more than [**450 organizations**](https://github.com/logpai/loghub/wiki/Loghub-download-list) from both industry and academia.
 
-**Logs currently available**:
+### Logs currently available
+
+🔗 Get raw logs via hyperlinks in the Download column.
 
 | Dataset              | Description | Labeled | Time Span  |  #Lines  |   Raw Size   |  Download  |
 | :---------------------------- | :--------|  :--------: | --------: | ---------: | ------: | :------: | 

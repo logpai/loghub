@@ -9,3 +9,18 @@
   booktitle    = {IEEE International Symposium on Software Reliability Engineering (ISSRE)},
   year         = {2023}
 }
+
+@inproceedings{Loghub2,
+  author       = {Zhihan Jiang and 
+                  Jinyang Liu and 
+                  Junjie Huang and 
+                  Yichen Li and 
+                  Yintong Huo and 
+                  Jiazhen Gu and 
+                  Zhuangbin Chen and 
+                  Jieming Zhu and
+                  Michael R. Lyu},
+  title        = {A Large-scale Evaluation for Log Parsing Techniques: How Far are We?},
+  booktitle    = {ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)},
+  year         = {2024}
+}
